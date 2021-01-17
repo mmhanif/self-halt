@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "What I read in 2020 (full year)"
+categories: [books, lists]
+sticky_rank: 1
+---
+
