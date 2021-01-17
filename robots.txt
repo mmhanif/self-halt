@@ -1,1 +1,1 @@
-Sitemap: https://mmhanif.github.io/self-halt/sitemap.xml
+Sitemap: https://mmhanif.github.io/sitemap.xml
