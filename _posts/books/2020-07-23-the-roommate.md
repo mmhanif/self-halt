@@ -4,7 +4,7 @@ title: The Roommate
 category: books
 tags: [books, fiction]
 book_type: Audible
-authors:
+authors: Dervla McTiernan
 ---
 **The Roommate** by Dervla McTiernan
 

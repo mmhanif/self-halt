@@ -5,3 +5,37 @@ categories: [books, lists]
 sticky_rank: 1
 ---
 
+I ended up 2020 having read 34 books - exactly twice [my mid-year mark of 17.]({{ site.baseurl }}{% link _posts/2020-06-30-what-i-read-in-2020-so-far.markdown %})
+Almost everything I "read" in the second half of 2020 was actually an audiobook,
+the only exceptions being [The Holy Quran]({{ site.baseurl }}{% link _posts/books/2020-09-20-the-holy-quran-with-arabic-text-and-english-translation.md %}) and [Malfuzat]({{ site.baseurl }}{% link _posts/books/2020-09-27-malfuzat--volume-i.md %}) which were hardcovers.
+
+David Quammen produced probably the most memorable read of the second half of the
+year (as he did the first half with [Spillover]({{ site.baseurl }}{% link _posts/books/2020-05-20-spillover-animal-infections-and-the-next-human-pandemic.md %})) in [The Reluctant Mr. Darwin]({{ site.baseurl }}{% link _posts/books/2020-09-20-the-reluctant-mr-darwin.md %}). Not a complete biography of Darwin as it only covers his life after his adventures on the HMS Beagle, but it helps put the theory of evolution in proper historical context. I certainly learn a lot from it.
+
+[The Hate U Give]({{ site.baseurl }}{% link _posts/books/2020-07-10-the-hate-u-give.md %}) was a timely read given the events of the summer with the Black Lives Matter movement. Although categorized as a "young adult" novel this far-from-young adult found it enjoyable and thought-provoking.
+
+[Orconomics]({{ site.baseurl }}{% link _posts/books/2020-10-12-orconomics.md %}) and its follow-up [Son Of A Liche]({{ site.baseurl }}{% link _posts/books/2020-11-23-son-of-a-liche.md %}) were my first forays into [LitRPG](https://en.wikipedia.org/wiki/LitRPG). Never having played D&D or its ilk, I wasn't up to speed with all the conventions of the genre - nevertheless I found both books enjoyable and funny. While following the typical fantasy story conventions the books are also an effective satire on capitalism , modern day finance and the housing crash (*Collateralized Threat Obligations* play a big role in the plot of the second book!)
+
+[Storm Front]({{ site.baseurl }}{% link _posts/books/2020-12-19-storm-front.md %}) was a strong recommendation from a friend - a combination of mystery and magical fantasy. While I enjoyed it, the opportunity costs involved mean I will probably skip investing time into the remaining 16+ novels in the series (at least for now).
+
+On the non-fiction front [Think Like a Rocket Scientist]({{ site.baseurl }}{% link _posts/books/2020-08-21-think-like-a-rocket-scientist.md %}) and [Workplace Poker]({{ site.baseurl }}{% link _posts/books/2020-12-31-workplace-poker.md %}) were useful but not essential reads, while [An Economist Walks Into A Brother]({{ site.baseurl }}{% link _posts/books/2020-07-19-an-economist-walks-into-a-brothel.md %}) was disappointing.
+
+{% include 2020_book_stats.html %}
+
+<div id="book_list">
+<h1 id="y2020">All the books I read (or listened to) in 2020:</h1>
+<ol>
+{% for post in site.posts reversed %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate == "2020" %}
+    {% if post.title != "What I read in 2020 (so far)" %}
+      <li>
+        <a href="{{ post.url }}">
+          [<em>{{ post.book_type }}</em>]: <strong>{{ post.title }}</strong> by {{ post.authors }}
+        </a>
+      </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}  
+</ol>
+</div>

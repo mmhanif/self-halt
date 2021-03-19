@@ -16,17 +16,20 @@ I enjoyed listening to [Alchemy: The Dark Art and Curious Science of Creating Ma
 {% include 2020_book_stats.html %}
 
 <div id="book_list">
-<h1 id="y2020">All the books I read (or listened to) in 2020:</h1>
+<h1 id="y2020">All the books I read (or listened to) in 2020 so far:</h1>
 <ol>
 {% for post in site.posts reversed %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate == "2020" %}
-    {% if post.title != "What I read in 2020 (so far)" %}
-      <li>
-        <a href="{{ post.url }}">
-          [<em>{{ post.book_type }}</em>]: <strong>{{ post.title }}</strong> by {{ post.authors }}
-        </a>
-      </li>
+  {% assign currentyear = post.date | date: "%Y" %}
+  {% if currentyear == "2020" %}
+    {% assign currentmonth = post.date | date: "%m" %}
+    {% if currentmonth < "07" %}
+      {% if post.title != "What I read in 2020 (so far)" %}
+        <li>
+          <a href="{{ post.url }}">
+            [<em>{{ post.book_type }}</em>]: <strong>{{ post.title }}</strong> by {{ post.authors }}
+          </a>
+        </li>
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}  

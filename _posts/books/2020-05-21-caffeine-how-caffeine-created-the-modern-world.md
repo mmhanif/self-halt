@@ -4,7 +4,7 @@ title: Caffeine - How Caffeine Created the Modern World
 category: books
 tags: [books, fiction]
 book_type: Audible
-authors:
+authors: Michael Pollan
 ---
 **Caffeine: How Caffeine Created the Modern World** by Michael Pollan
 
