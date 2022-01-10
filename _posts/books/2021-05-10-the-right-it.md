@@ -39,7 +39,7 @@ X% is a specific percentage of your target market. Y is a clear description of y
 
 ### Hypozooming
 
-The goal of hypozooming is to take a specific but broad hypothesis and zoom in until you have a version of that hypothesis that is actionable and testable right now. It's a way to go from XYZ to xyz, a smaller, simpler, more immediately verifiable version of your Market Engagement Hypothesis. The idea is that if XYZ is true, then xyz must also be true-but xyz is much easier to test true, then and verify.
+The goal of hypozooming is to take a specific but broad hypothesis and zoom in until you have a version of that hypothesis that is actionable and testable right now. It's a way to go from XYZ to xyz, a smaller, simpler, more immediately verifiable version of your Market Engagement Hypothesis. The idea is that if XYZ is true, then xyz must also be true-but xyz is much easier to test and verify.
 
 ### Pretotypes
 
