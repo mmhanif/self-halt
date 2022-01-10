@@ -70,7 +70,7 @@ the broad sweep of Roman politics. I also read [Medicus]({%- post_url books/2021
 a murder mystery set in Roman Britain which was ... okay.
 
 ## [Friends (I'll Be There For You)](https://youtu.be/SCQGnVrTsAM)
-A couple of friends and former colleagues published (separately) two exellent
+A couple of friends and former colleagues published (separately) two excellent
 books this year - please go out and buy them:
 - [Communication For Engineers]({%- post_url books/2021-04-19-communication-for-engineers -%}) by Chris Laffra
 - [The Accidental Sexist]({%- post_url books/2021-06-03-the-accidental-sexist -%}) by Stephen Koch et al.
