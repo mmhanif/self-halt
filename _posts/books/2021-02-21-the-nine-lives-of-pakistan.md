@@ -27,7 +27,7 @@ on a different person - the "nine lives":
 5. The Good Muslim: A Millionaire's Crusade - Salman Taseer, Punjabi businessman and politician
 6. Lost in Waziristan: A Veteran Spy Miscalculates - Sultan Amir Tarar (Colonel Imam), retired ISI official
 7. Minimum City: Faith in God and Glock - Chaudhary Aslam Khan, Karachi super cop
-8. War of the Flea: Balochistan's Fifth Rebellion - Nawab Akbar Khan Bugti, Balochi revel leader
+8. War of the Flea: Balochistan's Fifth Rebellion - Nawab Akbar Khan Bugti, Balochi rebel leader
 9. Undesirable Activities: A Spy Comes Clean - "Ashraf" an ISI officer
 
 <sup>isbn-13: 9780393249910</sup>
