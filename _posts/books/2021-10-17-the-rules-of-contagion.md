@@ -1,0 +1,49 @@
+---
+layout: post
+title: The Rules Of Contagion
+category: books
+tags: [books, non-fiction]
+book_type: Audible
+authors: Adam Kucharski
+---
+
+<img src="http://books.google.com/books/content?id=Tr2LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"/>
+
+**The Rules Of Contagion Why Things Spread - And Why They Stop** by Adam Kucharski
+
+<sup>isbn-13: 9781541674318</sup>
+
+*Audible*
+
+This book was published just before Covid-19 hit but still has some relevant lessons
+for us today. It doesn't just discuss viral contagion, but also financial crises,
+viral online contents and the spread of ideas. The author is a mathematician and
+professor of epedemiology.
+
+Overall, an interesting but not essential read. Perhaps would have been a better
+book to actually read rather than listen to on Audible.
+
+Some takeaways:
+- Every outbreak is unique. While some outbreaks spread quickly, others ebb off just as fast.
+- Mathematical models help show the growth of epidemics.
+- Contagions can affect many industries, including the financial industry.
+- Contagions can also spread through your social circle.
+- Gun violence may be a type of behavior that’s socially contagious.
+- Social behavior online may be different from real life. Abusive “trolling” behavior is common.
+- Using big data can help with outbreak research but it’s not a panacea.
+
+**Publisher's Description:**
+"From ad servers to Zika, Ebola to fake news, why the science of infection
+is the science of modern life In our social-media-laden lives, everyone
+thinks they understand how things, whether YouTube fads or bank failures,
+spread: they go viral. In The Rules of Contagion, Adam Kucharski unpacks
+the science of epidemiology -- the movement of diseases -- to reveal what
+is, and isn't, viral in modern life. Is it true that fake news spreads
+because it's an unstoppable mind virus? Actually, brute-force attacks on
+our attention, not manipulation, explain most of it. Exploring everything
+from the onset of riots to the power of Instagram influencers, Kucharski
+shows how hackneyed the popular understanding of virality can be, and how
+much more compelling the real story is. Whether you are an author seeking
+an audience, a defender of the truth, or simply someone interested in the
+science of human social behavior, The Rules of Contagion is essential guide
+to modern life."

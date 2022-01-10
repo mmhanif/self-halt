@@ -1,0 +1,50 @@
+---
+layout: post
+title: No Land's Man
+category: books
+tags: [books, non-fiction]
+book_type: Audible
+authors: Aasif Mandvi
+---
+
+<img src="http://books.google.com/books/content?id=IVsKBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"/>
+
+**No Land's Man** by Aasif Mandvi
+
+<sup>isbn-13: 9781452107912</sup>
+
+*Audible*
+
+A memoir by "Indo-Muslim-British-American" actor Aasif Mandvi.
+Like [Funny in Farsi]({%- post_url books/2021-06-21-funny-in-farsi -%}) much is
+made of the eccentricities of the author's father.
+
+I enjoyed reading this and gained a new appreciation for Mandvi but strangely
+he doesn't 'click' with me. Perhaps the way he and I see the world is just too
+far out of sync.
+
+**Publisher's Description:**
+""It always bothered me that Aasif was more than merely funny-he's also a
+great actor. Now I've learned he's an amazing storyteller as well, and I am
+furious . . . but also grateful. Aasif's movement between cultures and
+genres is what makes him and his story singularly funny, poignant, and
+essential." - John Hodgman, author of The Areas of My Expertise and More
+Information Than You Require "My father moved our family to the United
+States because of a word. It was a word whose meaning fascinated him. It
+was a singularly American word, a fat word, a word that could only be
+spoken with decadent pride. That word was . . . Brunch! 'The beauty of
+America,' he would say, 'is they have so much food, that between breakfast
+and lunch they have to stop and eat again.'" —from "International House of
+Patel" If you're an Indo-Muslim-British-American actor who has spent more
+time in bars than mosques over the past few decades, turns out it's a
+little tough to explain who you are or where you are from. In No Land's Man
+Aasif Mandvi explores this and other conundrums through stories about his
+family, ambition, desire, and culture that range from dealing with his
+brunch-obsessed father, to being a high-school-age Michael Jackson
+impersonator, to joining a Bible study group in order to seduce a nice
+Christian girl, to improbably becoming America's favorite
+Muslim/Indian/Arab/Brown/Doctor correspondent on The Daily Show with Jon
+Stewart. This is a book filled with passion, discovery, and humor. Mandvi
+hilariously and poignantly describes a journey that will resonate with
+anyone who has had to navigate his or her way in the murky space between
+lands. Or anyone who really loves brunch."

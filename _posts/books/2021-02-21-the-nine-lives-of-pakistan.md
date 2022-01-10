@@ -1,0 +1,52 @@
+---
+layout: post
+title: The Nine Lives Of Pakistan
+category: books
+tags: [books, non-fiction]
+book_type: Hardcover
+authors: Declan Walsh
+---
+
+<img src="http://books.google.com/books/content?id=PZ-6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"/>
+
+**The Nine Lives Of Pakistan** by Declan Walsh
+
+The subtitle is "Dispatches from a Precarious State" and this one of many similar
+books over the years from foreign journalists detailing the seemingly continually
+precarious state of Pakistan, e.g. [Breaking the Curfew](https://www.amazon.com/Breaking-Curfew-Political-Journey-Pakistan/dp/071812989X), [Waiting for Allah](https://www.amazon.com/Waiting-Allah-Pakistans-struggle-democracy/dp/0241130557)
+and [Pakistan: A Hard Country](https://www.amazon.com/gp/product/1610391454).
+
+This book does not paint a very positive picture of Pakistan, but does show some
+of the complexity of politics and culture in the country. Each chapter is focused
+on a different person - the "nine lives":
+
+1. Red Zone: The Reluctant Fundamentalist - Abdul Rashid Ghazi, leader of Red Mosque
+2. The Prodigal Father: Jinnah's Pakistan - Mohammad Ali Jinnah, founder of Pakistan
+3. Arithmetic on the Frontier: A Pashtun Takes On the Taliban - Anwar Kamal Khan, Pashtun Politician
+4. The Fabulous Senorita: A Human Rights Heroine Versus the Generals - Asma Jahangir, human-rights lawyer
+5. The Good Muslim: A Millionaire's Crusade - Salman Taseer, Punjabi businessman and politician
+6. Lost in Waziristan: A Veteran Spy Miscalculates - Sultan Amir Tarar (Colonel Imam), retired ISI official
+7. Minimum City: Faith in God and Glock - Chaudhary Aslam Khan, Karachi super cop
+8. War of the Flea: Balochistan's Fifth Rebellion - Nawab Akbar Khan Bugti, Balochi revel leader
+9. Undesirable Activities: A Spy Comes Clean - "Ashraf" an ISI officer
+
+<sup>isbn-13: 9780393249910</sup>
+
+*Hardcover*
+
+**Publisher's Description:**
+"Declan Walsh's electrifying portrait of Pakistan after 9/11 captures the
+sweep of this "strange, wondrous and benighted country" through the
+dramatic lives of nine fascinating individuals. On assignment for the New
+York Times and other outlets, Walsh traveled from the raucous port of
+Karachi to the salons of Lahore, and from Baluchistan to the mountains of
+Waziristan. He met a diverse cast of extraordinary Pakistanis--a chieftain
+readying for war at his desert fort, a retired spy skulking through the
+borderlands, and a crusading lawyer risking death for her beliefs, among
+others. Unbeknownst to Walsh, an intelligence agent was tracking him.
+Written in the aftermath of Walsh's dramatic deportation, The Nine Lives of
+Pakistan concludes with an astonishing encounter with that agent, and his
+revelations about Pakistan's powerful security state. Intimate and complex,
+attuned to the centrifugal forces of history, identity, and faith, The Nine
+Lives of Pakistan offers an unflinching account of life in a precarious,
+vital country."

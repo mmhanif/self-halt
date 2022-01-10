@@ -1,0 +1,42 @@
+---
+layout: post
+title: The Premonition
+category: books
+tags: [books, non-fiction]
+book_type: Audible
+authors: Michael Lewis
+---
+
+<img src="http://books.google.com/books/content?id=bygszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"/>
+
+**The Premonition** by Michael Lewis
+
+<sup>isbn-13: 9780393881554</sup>
+
+*Audible*
+
+Michael Lewis' book [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short)
+was an eye-opening account of the financial crisis of 2008-2009 seen through the
+eyes of people who saw it coming and were able to profit from it.
+
+His latest book *The Premonition* is a similar account of those in the US public
+health sector who saw this epidemic (or at least some viral epidemic) coming,
+in some cases many years prior. The difference is that nobody ended up profiting
+from it. Although much blame is rightfully placed on the Trump administration's
+lack of interest in public health - they dismantled the pandemic response unit
+that the George W. Bush administration had created and that the Obama administration
+maintained - above all, this book is a sweeping indictment of Centers for Disease
+Control and Prevention (CDC) and their inaction throughout the crisis.
+
+The book points to systemic issues with the way public health is administered in
+the US and a sort of institutionalized cowardice at the heart of those systems.
+
+Lots of potential heroes do surface in Lewis' telling of our Pandemic story but
+a lot of the time they are just not listened to.
+
+Highly recommended.
+
+**Publisher's Description:**
+"For those who could read between the lines, the censored news out of China
+was terrifying. But the president insisted there was nothing to worry
+about."
