@@ -7,10 +7,11 @@ sticky_rank: 1
 
 I hit my [Goodreads Reading Challenge of 50](https://www.goodreads.com/user_challenges/26167086)
 for the first time after a number of years falling short. If you want to, you
-can [jump straight to the list here](#y2021).
+can [jump straight to the list of all 50 books here](#y2021).
 
-My view of the best of those 50 books. Hit the link for each book for some
-additional notes and information about each.
+Here are the best of those 50 books sorted into various categories. Hit the link for each book for some
+additional notes and information about each. (Hit the heading link for a
+soundtrack while you read).
 
 ## [Top of the Pops](https://youtu.be/LWiKV7onnzc)
 
@@ -81,6 +82,17 @@ among other things:
 - [Orlando People]({%- post_url books/2021-10-10-orlando-people -%}) and
 [Dade County Death Cruise]({%- post_url books/2021-12-27-dade-county-death-cruise -%})
 - [Ready Player One]({%- post_url books/2021-05-17-ready-player-one -%})
+
+## [I Will Follow](https://www.youtube.com/watch?v=-sLzV00gNUo)
+There are some writers that I read pretty much anything they publish.
+[Michael Connelly](https://www.michaelconnelly.com/) is one such author. Nick
+Hornby is another writer that can generally be relied upon to produce a readable
+novel. Blake Crouch is getting there for me as I work my way through his earlier
+works.
+- [The Dark Hours]({%- post_url books/2021-11-24-the-dark-hours -%}) by Michael Connelly
+- [Just Like You]({%- post_url books/2021-09-03-just-like-you -%}) by Nick Hornby
+- [Good Behavior]({%- post_url books/2021-09-21-good-behavior -%}) by Blake Crouch.
+
 
 ## [Don't You (Forget About Me)](https://youtu.be/CdqoNKCCt7A)
 Some miscellaneous good reads:
