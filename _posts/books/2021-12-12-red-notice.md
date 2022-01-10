@@ -19,7 +19,7 @@ This was great book with a very compelling story. It starts out like just anothe
 "how I got rich" story, but evolves into something quite different.
 
 The story details the corruption that blossomed as Russia was reborn from the
-ashes of the UUSR and then was co-opted by the state under Putin's rule. It reads
+ashes of the USSR and then was co-opted by the state under Putin's rule. It reads
 like a thriller with many twists and turns. The tenaciousness of Browder is admirable
 as he morphs from a financier and businessman to a human-rights activist.
 
