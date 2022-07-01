@@ -19,7 +19,7 @@ sticky_rank: 5
 
 ## Backstory
 
-I few days before Christmas last year, I got a LinkedIn message from a former colleague wishing me a happy holiday season. This was not someone I knew particularly well - I had only interacted with him a few times - but I appreciated his reaching out to me. It got me thinking I should do the same to my network and just send a simple season's greetings message to people who I had not interacted with for a while.
+A few days before Christmas last year, I got a LinkedIn message from a former colleague wishing me a happy holiday season. This was not someone I knew particularly well - I had only interacted with him a few times - but I appreciated his reaching out to me. It got me thinking I should do the same to my network and just send a simple season's greetings message to people who I had not interacted with for a while.
 
 ## Strong Ties, Weak Ties and No Ties
 
