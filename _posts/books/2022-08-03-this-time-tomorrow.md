@@ -1,0 +1,36 @@
+---
+layout: post
+title: This Time Tomorrow - A Novel
+category: books
+tags: [books, fiction]
+book_type: Audible
+authors: Emma Straub
+---
+
+<img src="http://books.google.com/books/content?id=2qRPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"/>
+
+**This Time Tomorrow - A Novel** by Emma Straub
+
+<sup>isbn-13: 9780525539001</sup>
+
+*Audible*
+
+**Publisher's Description:**
+"#1 NATIONAL BESTSELLER “The pages brim with tenderness and an appreciation
+for what we had and who we were. I could not have loved it more."—Ann
+Patchett “The kind of book that will make you laugh, make you cry, and make
+you call the people you love. Exceptional."—Emily Henry "Delightful"—Boston
+Globe "Poignant"—New York Times What if you could take a vacation to your
+past? With her celebrated humor, insight, and heart, beloved New York Times
+bestseller Emma Straub offers her own twist on traditional time travel
+tropes, and a different kind of love story. On the eve of her 40th
+birthday, Alice’s life isn’t terrible. She likes her job, even if it isn’t
+exactly the one she expected. She’s happy with her apartment, her romantic
+status, her independence, and she adores her lifelong best friend. But her
+father is ailing, and it feels to her as if something is missing. When she
+wakes up the next morning she finds herself back in 1996, reliving her 16th
+birthday. But it isn’t just her adolescent body that shocks her, or seeing
+her high school crush, it’s her dad: the vital, charming, 40-something
+version of her father with whom she is reunited. Now armed with a new
+perspective on her own life and his, some past events take on new meaning.
+Is there anything that she would change if she could?"

@@ -1,0 +1,20 @@
+---
+layout: post
+title: The Wrong One
+category: books
+tags: [books, fiction]
+book_type: Audible
+authors: Dervla McTiernan
+---
+**The Wrong One** by Dervla McTiernan
+
+<sup>isbn-13: </sup>
+
+*Audible*
+
+**Publisher's Description:**
+"In this new novella from the number one internationally best-selling author of The Sisters and The Murder Rule, Dervla McTiernan, a mother and son fighting to prove her innocence are reunited with an estranged friend—a detective who may hold the key to her freedom—as they’re forced to put their differences aside to uncover the shocking truth behind the crime.
+
+When Clara Coleman is taken into custody, her teenage son, Sebastien, wastes no time before calling Simon Miller: an estranged family friend and detective in their old hometown of Hartford, Connecticut. Clara’s been arrested for the murder of Rachel Stapleton, a wealthy housewife and prominent figure in Lavender Valley, their well-to-do New Jersey suburb. But she swears she did not commit the crime.
+
+Simon knows that Clara is not capable of murder and will do anything he can to prove her innocence—he’s felt indebted to the Coleman family since her husband, Will, Simon’s best friend, passed away years before. He arrives in Lavender Valley and hits the ground running on the case. With time, details surrounding the crime as well as the Colemans’ family history are revealed, unravelling the complex web of cause and effect that will finally bring the truth to light. "

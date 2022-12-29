@@ -1,0 +1,41 @@
+---
+layout: post
+title: The 6 Types Of Working Genius - A Better Way To Understand Your Gifts, Your Frustrations, And Your Team
+category: books
+tags: [books, non-fiction]
+book_type: Hardcover
+authors: Patrick M. Lencioni
+---
+
+<img src="http://books.google.com/books/content?id=ZpaQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"/>
+
+**The 6 Types Of Working Genius - A Better Way To Understand Your Gifts, Your Frustrations, And Your Team** by Patrick M. Lencioni
+
+<sup>isbn-13: 9781637743294</sup>
+
+*Hardcover*
+
+**Publisher's Description:**
+"New York Times best-selling author Patrick Lencioni unveils a truly
+groundbreaking new model that will change the way we think about work and
+teams forever. The 6 Types of Working Genius is the fastest way to help
+people identify the type of work that brings them joy and energy, and avoid
+work that leads to frustration and burnout. Beyond the personal discovery
+and instant relief that Working Genius provides, the model also gives teams
+a remarkably simple and practical framework for tapping into one another’s
+natural gifts, which increases productivity and reduces unnecessary
+judgment. In classic Lencioni fashion, Pat brings his model to life in a
+page-turning fable that is as relatable as it is compelling. He tells the
+story of Bull Brooks, an entrepreneur, husband, and father who sets out to
+solve his own frustration at work and stumbles into a new way of thinking
+that changes the way he sees his work, his team, and even his marriage.
+What sets this book—and the model behind it—apart from other tools and
+assessments is the speed at which it can be understood and applied, and the
+relevance it has to every kind of work in life, from running a company to
+launching a product to managing a family. In addition to this book,
+Lencioni and the Table Group have created a 10-minute assessment that helps
+individuals quickly identify their gifts and apply this model to themselves
+and their teams. Join the hundreds of thousands of people who have already
+discovered their Working Genius, and experience the transformation in your
+work, your team, and your life. Learn more about the Working Genius at
+WorkingGenius.com."
