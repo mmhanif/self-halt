@@ -5,7 +5,7 @@ sticky_rank: 5
 ---
 
 > __And no matter how it ends__
-> 
+>
 > __You should always keep in touch with your friends__
 
 **["You should always keep in touch with your friends" by The Wedding Present](https://open.spotify.com/track/19eyF6yaUa0ZZcgZM3iN77?autoplay=true)**
@@ -25,12 +25,12 @@ A few days before Christmas last year, I got a LinkedIn message from a former co
 
 Now, LinkedIn gets a lot of criticism but the one thing I find it's good for is keeping in touch with people that you have "weak ties" with, in particular former colleagues. I communicate with close friends (my "strong ties") by calling or messaging them directly, but I typically don't want to fill up my address book with contact details of people I worked with twenty years ago. Just trying to keep the details up to date would be a major effort. Instead I rely on LinkedIn to keep us connected.
 
-The problem for me though was that mixed in with those strong and weak ties were a very large amount of "no ties" - people who had asked to be added to my network but never communicated with me again. There were a lot of those, and I wanted to focus on the people in my network that I actually knew. I quickly figured out that trying to work through my network using the LinkedIn website was a waste of time. The sorting and filtering tools are rudimentary and paging through the list of connections was slow and frustrating, especially if you had to start again from the beginning if the page refreshed for some reason. 
+The problem for me though was that mixed in with those strong and weak ties were a very large amount of "no ties" - people who had asked to be added to my network but never communicated with me again. There were a lot of those, and I wanted to focus on the people in my network that I actually knew. I quickly figured out that trying to work through my network using the LinkedIn website was a waste of time. The sorting and filtering tools are rudimentary and paging through the list of connections was slow and frustrating, especially if you had to start again from the beginning if the page refreshed for some reason.
 
-Instead I used the facility LinkedIn provides to download your data to get a list of my contacts in CSV format. I loaded these into Excel and annotated them into Known, Unknown and Not Sure. 
+Instead I used the facility LinkedIn provides to download your data to get a list of my contacts in CSV format. I loaded these into Excel and annotated them into Known, Unknown and Not Sure.
 
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 
 <div class="output_wrapper">
@@ -60,9 +60,9 @@ Instead I used the facility LinkedIn provides to download your data to get a lis
 ## Message(s) in a bottle
 After this I went about sending an individualized message to each person in the "Known" category, filtering out those who I would typically contact by some means other than LinkedIn. There is no (easy) way to do this programmatically (which is probably a good thing!) so I created a few different template messages - e.g. one for people in the US referencing "Happy Holidays", one for those in the UK referencing "Merry Christmas and Happy New Year" etc. I then went one by one through my spreadsheet, creating a new message for each person, copying in the template text and customizing it, sending and finally marking that person as contacted on the spreadsheet.
 
-This took some time. Between December 22 and December 27 I sent 538 messages. 
+This took some time. Between December 22 and December 27 I sent 538 messages.
 
-Then something happpened that took the wind out my sails. 
+Then something happened that took the wind from my sails. 
 
 ## An unexpected and sad event
 I did have a morbid thought as I was sending out these messages, especially regarding those I had not been in touch with for many years: *"I hope everyone is still alive".*
@@ -76,7 +76,7 @@ At that point I lost my appetite for sending out further season's greetings and 
 Out of the 538 season's greetings messages I sent (actually 539 as I did send one more on New Year's Day) I received responses to 459 of them. 350 of the responses came back within 3 days but I was still getting replies over 3 months later!
 
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 
 <div class="output_wrapper">
