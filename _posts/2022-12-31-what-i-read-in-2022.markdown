@@ -6,8 +6,7 @@ sticky_rank: 1
 hide: false
 ---
 
-I once again hit my [Goodreads Reading Challenge of 50](https://www.goodreads.com/user_challenges/31809494) for the first time after a number of years falling short. If you want to, you
-can [jump straight to the list of all 50 books here](#y2022).
+I hit my [Goodreads Reading Challenge of 50](https://www.goodreads.com/user_challenges/31809494) for the second year in a row. If you want to, you can [jump straight to the list of all 50 books here](#y2022).
 
 <img src="{{site.baseurl}}/images/2022Books-All-8x2.png"/>
 
