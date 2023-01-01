@@ -9,6 +9,9 @@ hide: false
 I once again hit my [Goodreads Reading Challenge of 50](https://www.goodreads.com/user_challenges/31809494) for the first time after a number of years falling short. If you want to, you
 can [jump straight to the list of all 50 books here](#y2022).
 
+<img src="{{site.baseurl}}/images/2022Books-All-8x2.png"/>
+
+
 ## My Favorite Non-Fiction Reads of 2022
 
 - [Boyd - The Fighter Pilot Who Changed The Art Of War]({%- post_url books/2022-01-12-boyd -%}) by Robert Coram:
