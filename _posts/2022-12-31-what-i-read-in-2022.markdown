@@ -68,12 +68,12 @@ This felt like a series of essays on how to live, but using money and wealth as 
 A classic that I assigned to my team at Meta for our first team "summit". Easy, short read that is valuable for anyone working in a team (which is pretty much everyone).
 
 - [Be The Hero - Three Powerful Ways To Overcome Challenges In Work And Life]({%- post_url books/2022-08-23-be-the-hero -%}) by Noah Blumenthal:
-Another short and easy read in the "business fable" genre.
+Another short and easy read in the "business fable" genre. I re-read this as I had recommended it to my (grown-up) kids to read and I thought I should remind myself about the contents.
 
 ## Fiction
 
 - [The First Fifteen Lives Of Harry August]({%- post_url books/2022-11-28-the-first-fifteen-lives-of-harry-august -%}) by Claire North:
-A variation on the time-travel genre that I'm a sucker for. The premise is that there are people who's life keeps repeating starting from birth but they remember everything they experienced and learnt in previous lives. The chief protagonist, Harry August, is one such person. Well thought out and generally self-consistent - I recommend it if you like the genre.
+A variation on the time-travel genre that I'm a sucker for. The premise is that there are people whose life keeps repeating starting from birth but they remember everything they experienced and learnt in previous lives. The chief protagonist, Harry August, is one such person. Well thought out and generally self-consistent - I recommend it if you like the genre.
 
 - [Underground Airlines]({%- post_url books/2022-12-05-underground-airlines -%}) by Ben Winters:
 A book in the "alternative history" genre, which is another genre I like. The premise here is that the American Civil War never happened and slavery is still legal in 4 US states.
