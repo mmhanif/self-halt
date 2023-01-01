@@ -15,6 +15,8 @@ authors: Chris Voss, Tahl Raz
 
 *Audible*
 
+I thought this was going to be one of those "one-idea" books that litters the broad self-help genre, but actually it was both entertaining as well as full of very practical tips. I used some of the tips in a negotiation in 2022 to good effect :-)
+
 **Publisher's Description:**
 "A former international hostage negotiator for the FBI offers a new, field-
 tested approach to high-stakes negotiations—whether in the boardroom or at

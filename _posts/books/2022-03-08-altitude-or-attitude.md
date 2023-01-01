@@ -15,6 +15,8 @@ authors: Ifti Mirza
 
 *Paperback*
 
+This was gifted to me by the author who was a colleague at Meta (although we never met in person). The writing could do with some editing, but the story is an unexpectedly thrilling account of getting to the K2 basecamp and back. I have no particular interest in climbing and I really enjoyed this book, so if you have a passion for climbing I'm sure you'll love it. It made me realize this particular trip is something I will never want to subject myself to!
+
 **Publisher's Description:**
 "Not many people know that Pakistan is home to 108 peaks above 7,000 meters
 (22,966 ft.) and many more above 6,000 meters (19,685 ft.). Not only that,

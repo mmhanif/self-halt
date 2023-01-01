@@ -15,6 +15,8 @@ authors: Morgan Housel
 
 *Audible*
 
+This felt like a series of essays on how to live, but using money and wealth as a hook. I enjoyed it.
+
 **Publisher's Description:**
 "Doing well with money isn’t necessarily about what you know. It’s about how
 you behave. And behavior is hard to teach, even to really smart people.

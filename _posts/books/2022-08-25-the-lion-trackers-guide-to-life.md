@@ -15,6 +15,8 @@ authors: Boyd Varty
 
 *Audible*
 
+Recommended by a friend who grew up in South Africa and has received personal coaching by Varty. The book provides insights into a whole world that I knew very little about but that we can learn a lot from.
+
 **Publisher's Description:**
 "Set in the African bush: a tracker seeks one lion, thanks to lessons that
 can teach us all how to live--Provided by publisher."

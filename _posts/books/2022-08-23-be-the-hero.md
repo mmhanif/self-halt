@@ -15,6 +15,8 @@ authors: Noah Blumenthal
 
 *Audible*
 
+Another short and easy read in the "business fable" genre.
+
 **Publisher's Description:**
 "In this engaging parable, author Noah Blumenthal shows that we are all
 master storytellers. Our stories are vivid, detailed, and convincing. These

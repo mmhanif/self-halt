@@ -15,6 +15,8 @@ authors: Amanda Ripley
 
 *Audible*
 
+I read this as part of my ongoing desire to understand why our society is becoming increasingly polarized and what we can do to understand each other better. A number of good takeaways from this book - for me the primary one was to avoid binary classifications that inevitably become "them and us".
+
 **Publisher's Description:**
 ""In the tradition of bestselling explainers like The Tipping Point, [this]
 book [is] based on cutting edge science that breaks down the idea of

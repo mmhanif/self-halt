@@ -15,6 +15,8 @@ authors: Ben Winters
 
 *Audible*
 
+A book in the "alternative history" genre, which is another genre I like. The premise here is that the American Civil War never happened and slavery is still legal in 4 US states.
+
 **Publisher's Description:**
 "It is the present-day, and the world is as we know it: smartphones, social
 networking and Happy Meals. Save for one thing: the Civil War never

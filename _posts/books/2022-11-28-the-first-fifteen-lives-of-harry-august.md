@@ -15,6 +15,8 @@ authors: Claire North
 
 *Audible*
 
+A variation on the time-travel genre that I'm a sucker for. The premise is that there are people who's life keeps repeating starting from birth but they remember everything they experienced and learnt in previous lives. The chief protagonist, Harry August, is one such person. Well thought out and generally self-consistent - I recommend it if you like the genre.
+
 **Publisher's Description:**
 "SOME STORIES CANNOT BE TOLD IN JUST ONE LIFETIME. Harry August is on his
 deathbed. Again. No matter what he does or the decisions he makes, when

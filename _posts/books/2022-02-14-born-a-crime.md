@@ -15,6 +15,8 @@ authors: Trevor Noah
 
 *Audible*
 
+This had gotten rave reviews when it first came out, and they were well-deserved. Trevor Noah is a huge success today, but he’s had a remarkable and difficult early life. Along with being his personal story, this is also a story of South Africa during and after the overturning of Apartheid. Noah lets the reader see what it was like growing up poor and black in South Africa but always showing the humanity of the people he came into contact with.
+
 **Publisher's Description:**
 "#1 NEW YORK TIMES BESTSELLER • More than one million copies sold! A
 “brilliant” (Lupita Nyong’o, Time), “poignant” (Entertainment Weekly),

@@ -15,6 +15,8 @@ authors: Bill Browder
 
 *Audible*
 
+A follow up to [Red Notice]({%- post_url books/2021-12-12-red-notice -%}) this time continuing the story through the American court system. Lots of amazing twists and turn as Browder tussles with Russia in the courts.
+
 **Publisher's Description:**
 "Chronicles how the author became Putin's number one enemy by exposing the
 Russian leader's campaign to steal and launder hundreds of billions of

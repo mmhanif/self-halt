@@ -15,6 +15,8 @@ authors: Liaquat Ahamed
 
 *Audible*
 
+Fascinating account of the period after the First World War where many countries fell into recession and depression and the attempts of key central bankers to try and prevent that from happening but that often made things worse. I feel understand the role of central banks much better after reading this.
+
 **Publisher's Description:**
 "THIS HAS HAPPENED BEFORE. The current financial crisis has only one
 parallel: the Wall Street Crash of 1929 and subsequent Great Depression of

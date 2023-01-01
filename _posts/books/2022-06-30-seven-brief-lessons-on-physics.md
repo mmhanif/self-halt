@@ -14,6 +14,23 @@ authors: Carlo Rovelli
 <sup>isbn-13: 9780141981727</sup>
 
 *Paperback*
+Another slim volume from Carlos Rovelli that packs many interesting facts to ponder on, wrapped up in Rovelli's at times poetic style of writing.
+
+Favorite quotes:
+
+> "For now, this is what we know of matter:
+>
+> A handful of types of elementary particles, which  vibrate and fluctuate constantly between existence and non-existence and swarm in space even when it seems that there is nothing there, combine together to infinity like the letters of a cosmic alphabet to tell the immense history of galaxies, of the innumerable stars, of sunlight, of mountains, woods and fields of grain, of the smiling faces of the young at parties, and of the night sky studded with stars."
+
+page 36
+
+> "Here, in the vanguard, beyond the borders of knowledge, science becomes even more beautiful - incandescent in the forge of nascent ideas, of intuitions, of attempts. Of roads taken and then abandoned, of enthusiasms. In the effort to imagine what has not yet been imagined"
+
+page 38
+
+> "When his great Italian friend Michele Besso died, Einstein wrote a moving letter to Michele's sister: Michele has left this strange world a little before me. This means nothing. People like us, who believe in physics, know that the distinction made between past, present and future is nothing more than a persistent, stubborn illusion.'"
+
+page 58
 
 **Publisher's Description:**
 "In this short, playful, entertaining and mind-bending introduction to

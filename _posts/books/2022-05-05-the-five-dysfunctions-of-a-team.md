@@ -15,6 +15,9 @@ authors: Patrick M. Lencioni
 
 *Audible*
 
+A classic that I assigned to my team at Meta for our first team "summit". Easy, short read that is valuable for anyone working in a team (which is pretty much everyone).
+
+
 **Publisher's Description:**
 "The New York Times best-selling team leadership handbook for modern
 executives, managers, and organizations After her first two weeks observing
