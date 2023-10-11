@@ -16,7 +16,7 @@ For me the heart of the book is actually in the Afterword, and is probably the c
 
 > ...in all the details and recomendations, I hope I haven't obscured what the engine of your greatness as a manager can be: 
 > Love.
-> If you want to be a great manager, do these things with love. What I mean here is professional love: the willingness to risk yourself for the benefit of another. It means doing somethinh that may be a little more difficult for you, as a way of showing respect for your colleagues and your organization.
+> If you want to be a great manager, do these things with love. What I mean here is professional love: the willingness to risk yourself for the benefit of another. It means doing something that may be a little more difficult for you, as a way of showing respect for your colleagues and your organization.
 > You can be demanding while also showing respect for your team. You don't have to withhold positive feedback. You can give negative feedback with love in your heart. You can deliver tough messages with kindness. You don't have to be mean, short, or disrespectful to challenge people. You don't have to be brusque or rude. You don't have to "act like the boss". Nor do you have to sugarcoat hard messages. Be direct, and be kind doing it. That takes love. 
 
 Highly recommended for any manager or wanna-be manager.
