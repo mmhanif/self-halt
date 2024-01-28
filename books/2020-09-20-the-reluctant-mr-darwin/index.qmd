@@ -1,0 +1,24 @@
+---
+title: "The Reluctant Mr. Darwin"
+description: "**The Reluctant Mr. Darwin** by David Quammen"
+date: 2020-09-20
+categories: [books, non-fiction, 2020, Audible]
+image: the-reluctant-mr-darwin.jpg
+---
+![**The Reluctant Mr. Darwin** by David Quammen](the-reluctant-mr-darwin.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780393059816</sup>
+
+*Audible*
+
+Interesting account of Darwin's life *after* he returned from adventures on the HMS Beagle. The book details Darwin's struggles to put his ideas and thoughts
+into a published book. It also gives an account of the prevailing theories of the
+time - I didn't realize that the concept of Evolution predates Darwin, although
+it was then called *Transmutation*. The novel idea put forward by Darwin was
+*Natural Selection*.
+I also didn't realize that Natural Selection took decades to gain widespread
+acceptance and it took the rediscovery of Mandel's experiments in genetics to
+finally validate Natural Selection.
+The book also discusses Alfred Russel Wallace who independently came up with his
+own theory of Natural Selection, in part forcing Darwin to publish his theory in
+'The Origin of the Species' much earlier than he had planned to.

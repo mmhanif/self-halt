@@ -1,0 +1,17 @@
+---
+title: "The Plea (Eddie Flynn, #2)"
+description: "**The Plea (Eddie Flynn, #2)** by Steve Cavanagh"
+date: 2023-05-07
+categories: [books, 2023, Paperback, fiction]
+image: The_Plea.jpg
+---
+![**The Plea (Eddie Flynn, #2)** by Steve Cavanagh](The_Plea.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781250105561</sup>
+
+*Paperback*
+
+*Publisher's Description*
+
+"Originally published in Great Britain by Orion Books, an imprint of The
+Orion Publishing Group Ltd."

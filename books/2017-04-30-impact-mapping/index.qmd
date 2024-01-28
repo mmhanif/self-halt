@@ -1,0 +1,10 @@
+---
+title: "Impact Mapping"
+description: "**Impact Mapping: Making a big impact with software products and projects** by Gojko Adzic"
+date: 2017-04-30
+categories: [2017, ebook, non-fiction]
+image: impact-mapping.jpg
+---
+![**Impact Mapping: Making a big impact with software products and projects** by Gojko Adzic](impact-mapping.jpg){fig-align="left"}
+
+eBook, purchased on [LeanPub](https://leanpub.com/)

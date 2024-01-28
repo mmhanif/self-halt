@@ -1,0 +1,12 @@
+---
+title: "Spark"
+description: "**Spark: The Revolutionary New Science of Exercise and the Brain** by John J. Ratey - (*Audible*)"
+date: 2017-11-05
+categories: [2017, Audible, non-fiction, science]
+image: spark.jpg
+---
+![**Spark: The Revolutionary New Science of Exercise and the Brain** by John J. Ratey](spark.jpg){fig-align="left"}
+
+(*Audible Unabridged, narrated by Walter Dixon*)
+
+Good, but not great book, that outlines the benefits of aerobic exercise on mental acuity as well as mental health.

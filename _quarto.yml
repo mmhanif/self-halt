@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "self halt"
+  open-graph: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - posts.qmd
+      - books.qmd
+
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true
+
+
+

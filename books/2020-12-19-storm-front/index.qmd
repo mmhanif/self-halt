@@ -1,0 +1,17 @@
+---
+title: "Storm Front"
+description: "**Storm Front** by Jim Butcher"
+date: 2020-12-19
+categories: [books, fiction, 2020, Audible]
+image: storm-front.jpg
+---
+![**Storm Front** by Jim Butcher](storm-front.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780451457813</sup>
+
+*Audible*
+
+**Publisher's Description:**
+
+"A modern-day mage and consultant to the police finds his stale life
+suddenly enlivened by the presence of a rival in the black arts. Original."

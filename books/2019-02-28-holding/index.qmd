@@ -1,0 +1,28 @@
+---
+title: "Holding"
+description: "**Holding** by Graham Norton"
+date: 2019-02-28
+categories: [books, 2019, Audible, fiction]
+image: holding.jpg
+---
+![**Holding** by Graham Norton](holding.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781501173264</sup>
+
+*Audible*
+
+"From Graham Norton, the BAFTA-award-winning Irish television host and
+author of the “sparkling and impish” (Daily Mail) memoirs The Life and
+Loves of a He Devil and So Me, comes a charming debut novel set in an
+idyllic Irish village where a bumbling investigator has to sort through
+decades of gossip and secrets to solve a mysterious crime. The remote Irish
+village of Duneen has known little drama but when human remains are
+discovered on an old farm, suspected to be that of Tommy Burke—a former
+lover of two different inhabitants—the village’s dark past begins to
+unravel. As the frustrated sergeant PJ Collins struggles to solve a genuine
+case for the first time in his life, he unearths a community’s worth of
+anger and resentments, secrets and regret. In this darkly comic, touching,
+and at times heartbreaking novel, perfect for fans of J.K. Rowling’s The
+Casual Vacancy, Graham Norton employs his acerbic wit to breathe life into
+a host of loveable characters, and explore—with searing honesty—the
+complexities and contradictions that make us human."

@@ -1,0 +1,15 @@
+---
+title: "The Unicorn Project"
+description: "**The Unicorn Project** by Gene Kim"
+date: 2019-12-01
+categories: [books, 2019, Hardcover, fiction, software-development, business-fable]
+image: the-unicorn-project.jpg
+---
+![**The Unicorn Project** by Gene Kim](the-unicorn-project.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781942788768</sup>
+
+*Hardcover*
+
+"With the bestselling The Phoenix Project we learned about the Three Ways,
+now the highly anticipated The Unicorn Project introduces the Five Ideals."

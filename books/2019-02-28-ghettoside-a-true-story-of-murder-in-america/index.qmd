@@ -1,0 +1,17 @@
+---
+title: "Ghettoside - a true story of murder in America"
+description: "**Ghettoside: a true story of murder in America** by Jill Leovy"
+date: 2019-02-28
+categories: [books, 2019, Audible, non-fiction]
+image: ghettoside-a-true-story-of-murder-in-america.jpg
+---
+![**Ghettoside: a true story of murder in America** by Jill Leovy](ghettoside-a-true-story-of-murder-in-america.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780385529983</sup>
+
+*Audible*
+
+"A Pulitzer Prize-winning reporter for the Los Angeles Times discusses the
+hundreds of murders that occur in the city each year, and focuses on the
+story of the dedicated group of detectives who pursue justice at any cost
+in the killing of Bryant Tennelle."

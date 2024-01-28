@@ -1,0 +1,21 @@
+---
+title: "Good Behavior"
+description: "**Good Behavior** by Blake Crouch"
+date: 2021-09-21
+categories: [books, fiction, 2021, Audible]
+image: good-behavior.jpg
+---
+![**Good Behavior** by Blake Crouch](good-behavior.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781503940499</sup>
+
+*Audible*
+
+Blake Crouch is becoming a favorite author. I really enjoyed [Recursion](../2019-06-19-recursion/index.qmd)
+and [Dark Matter](../2017-02-28-dark-matter/index.qmd). Unlike those
+two there is no element of science fiction here, but a still enjoyable ride
+alongside ex-thief Letty Dobesh and her adventures.
+
+**Publisher's Description:**
+"Three interlocking novellas details the escapades of ex-thief Letty Dobesh
+as she uses her skills to stop other crimes from taking place."

@@ -1,0 +1,16 @@
+---
+title: "Things That Can And Cannot Be Said"
+description: "**Things That Can And Cannot Be Said** by Arundhati Roy, John Cusack"
+date: 2022-10-02
+categories: [books, non-fiction, 2022, Paperback]
+image: things-that-can-and-cannot-be-said.jpg
+---
+![**Things That Can And Cannot Be Said** by Arundhati Roy, John Cusack](things-that-can-and-cannot-be-said.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781608467174</sup>
+
+*Paperback*
+
+**Publisher's Description:**
+"In this rich dialogue on surveillance, empire, and power, Roy and Cusack
+describe meeting NSA whistleblower Ed Snowden in Moscow."

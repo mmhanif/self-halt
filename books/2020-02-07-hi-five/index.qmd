@@ -1,0 +1,17 @@
+---
+title: "Hi Five"
+description: "**Hi Five (IQ #4)** by Joe Ide"
+date: 2020-02-07
+categories: [books, fiction, 2020, Audible]
+image: hi-five.jpg
+---
+![**Hi Five (IQ #4)** by Joe Ide](hi-five.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780316509534</sup>
+
+*Audible*
+
+**Publisher's Description:**
+
+"Isaiah Quintabe, the genius PI who combines book smarts, street smarts, and enough blistering action to melt the pavement of East Long Beach, is back with a new adventure. Fresh off the beating he took at the hands of a gang of ex-Abu Ghraib thugs working as paramilitary contractors, IQ is determined to build a life for himself with his new girlfriend, Grace. For once, he wants to be normal--a normal guy, with a normal PI business, doing the best he can.
+But this is IQ, and trouble is never far behind him. Joined by his faithful band of fast-talking, sharp-tongued partners, Deronda and Dodson, the cases are wild, the mysteries twisty, and the driving fast."

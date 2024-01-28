@@ -1,0 +1,12 @@
+---
+title: "Ubiquity"
+description: "**Ubiquity: Why Catastrophes Happen** by Mark Buchanan - (*Kindle*)"
+date: 2017-12-07
+categories: [2017, Kindle, non-fiction, science]
+image: ubiquity.jpg
+---
+![**Ubiquity: Why Catastrophes Happen** by Mark Buchanan - (*Kindle*)](ubiquity.jpg){fig-align="left"}
+
+One of the books that were covered by the [Farnam Street Virtual Reading Group](https://www.farnamstreetblog.com/membership/) in 2017. The book gave an interesting non-technical introduction to Critical State Theory and how it can be used to explain phenomena as diverse as earthquakes, forest fires, extinction events, financial markets and wars. Focusing initially on earthquakes, the book explains how scientists have singularly failed to come up with a theory that can predict when and where a major earhtquake will occur. Instead, scientists have found that earthquakes in general follow a power-law that describes how earthquake magnitude relates to frequency - the larger the earthquake, the less likely it is to occur. However, any size of earhquake can occur at any given time. How I understood it, is that complex systems with many interacting elements behave in a highly-path dependent manner and can build up to a critical state where a small 'nudge' can cause a very large change in the overall behavior, but could also just precipitate a very small change.
+
+This book definitely left me looking at the world in a different way. The concepts have many potential repercussions to how we see the world and how we interact with it. A book to come back to for a second read.

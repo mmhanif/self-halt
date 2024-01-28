@@ -1,0 +1,9 @@
+---
+title: "The Sisters"
+description: "**The Sisters** by Dervla McTiernan"
+date: 2019-11-23
+categories: [books, 2019, Audible, fiction]
+---
+![**The Sisters** by Dervla McTiernan](the-sisters.jpg){fig-align="left"}
+
+*Audible*

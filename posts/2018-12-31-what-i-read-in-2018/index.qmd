@@ -1,0 +1,55 @@
+---
+title:  "What I read in 2018"
+categories: [books, lists]
+date: "12/31/2018"
+date-modified: "1/10/2024"
+image: 2018Books.png
+---
+![](2018Books.png){fig-align="left"}
+My favourite non-fiction books that I read in 2018:
+
+1. The Order of Time by Carlos Rovelli
+2. Mistakes Were Made (But Not by Me) by Carol Tavis and Elliot Arronson
+3. A Seat at the Table by Mark Schwartz
+4. Bad Blood by John Carreyrou
+5. Principles: Life and Work by Ray Dalio
+
+My favourite fiction books that I read in 2018:
+
+1. City of Thieves by David Benioff
+2. The Witch Elm by Tana French
+3. The Rise and Fall of D.O.D.O by Neal Stephenson and Nicole Galland
+
+
+All the books I read (or listened to) in 2018:
+
+1. [[*Audible*] **Dead Men Can't Complain and Other Stories** by Peter Clines](../../books/2018-01-14-dead-men-cant-complain)
+2. [[*Kindle*] **Principles: Life and Work** by Ray Dalio](../../books/2018-02-07-principles-life-and-work)
+3. [[*Audible*] **The Rise and Fall of D.O.D.O.: A Novel** by Neal Stephenson and Nicole Galland](../../books/2018-03-02-rise-and-fall-of-dodo)
+4. [[*Audible*] **City of Thieves** by David Benioff](../../books/2018-03-31-city-of-thieves)
+5. [[*Audible*] **Humans vs. Computers** by Gojko Adzic](../../books/2018-03-16-humans-vs-computers)
+6. [[*Kindle*] **The Theory That Would Not Die** by Sharon Bertsch McGrayne](../../books/2018-03-12-theory-that-wouldnt-die)
+7. [[*Kindle*] **Bayes Theorem: A Visual Introduction For Beginners** by Ian Morris](../../books/2018-03-18-bayes-theorem-visual-introduction)
+8. [[*Kindle*] **Bayes Theorem Examples: An Intuitive Guide** by Scott Hartshorn](../../books/2018-04-01-bayes-theorem-examples)
+9. [[*Audible*] **Admissions: Life as a Brain Surgeon** by Henry Marsh](../../books/2018-04-02-admissions)
+10. [[*Audible*] **West Cork** by Jennifer Forde, Sam Bungey](../../books/2018-04-15-west-cork)
+11. [[*Audible*] **Where the Hell is Tesla?: A Novel** by Rob Dircks](../../books/2018-04-30-where-the-hell-is-tesla)
+12. [[*Kindle*] **Thinking in Bets** by Annie Duke](../../books/2018-05-01-thinking-in-bets)
+13. [[*Audible*] **Andrea Vernon and the Corporation For Ultrahuman Protection** by Alexander C. Kane](../../books/2018-05-30-andrea-vernon-and-cup)
+14. [[*Kindle*] **A Seat At The Table** by Mark Sschwartz](../../books/2018-06-18-seat-at-the-table)
+15. [[*Audible*] **The Wife Between Us** by Greer Hendricks, Sarah Pekkanen](../../books/2018-06-30-the-wife-between-us)
+16. [[*Audible*] **Bad Blood** by John Carreyrou](../../books/2018-07-30-bad-blood)
+17. [[*Kindle*] **Accelerate** by Nicole Forsgren, Jez Humble and Gene Kim](../../books/2018-07-15-accelerate)
+18. [[*Hardcover*] **The Order of Time** by Carlos Rovelli](../../books/2018-08-15-order-of-time)
+19. [[*Audible*] **The Driver** by Hart Hanson](../../books/2018-08-30-the-driver)
+20. [[*Audible*] **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi](../../books/2018-09-22-the-art-of-invisibility)
+21. [[*Kindle*] **The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World** by Pedro Domingos](../../books/2018-09-24-the-master-algorithm)
+22. [[*Audible*] **The Coming Storm** by Michael Lewis](../../books/2018-09-25-the-coming-storm)
+23. [[*Audible*] **Girls & Boys** by Dennis Kelly](../../books/2018-09-29-girls-and-boys)
+24. [[*Audible*] **IQ** by Joe Ide](../../books/2018-10-03-iq)
+25. [[*Audible*] **Lethal White** by Robert Galbraith](../../books/2018-10-15-lethal-white)
+26. [[*Kindle*] **Mastery: The Keys to Success and Long-Term Fulfillment** by George Leonard](../../books/2018-10-26-mastery)
+27. [[*Kindle*] **The Witch Elm** by Tana French](../../books/2018-11-01-the-witch-elm)
+28. [[*Kindle*] **Alone Time: Four Seasons, Four Cities, and the Pleasures of Solitude** by Stephanie Rosenbloom](../../books/2018-11-05-alone-time)
+29. [[*Kindle*] **Mistakes Were Made (But Not by Me)** by Carol Tavris,  Elliot Aronson](../../books/2018-12-13-mistakes-were-made)
+30. [[*Kindle*] **Dark Sacred Night** by Michael Connelly](../../books/2018-12-22-dark-sacred-night)

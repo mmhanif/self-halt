@@ -1,0 +1,16 @@
+---
+title: "Recursion"
+description: "**Recursion** by Blake Crouch"
+date: 2019-06-19
+categories: [books, 2019, Audible, fiction, science-fiction]
+image: recursion.jpg
+---
+![**Recursion** by Blake Crouch](recursion.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781524759780</sup>
+
+*Audible*
+
+"Investigating a suicide, New York City police officer Barry Sutton finds a
+connection to the outbreak of a memory-altering disease and a controversial
+neuroscientist working to preserve precious memories."

@@ -1,0 +1,19 @@
+---
+title: "The Shape Of Water"
+description: "**The Shape Of Water** by Andrea Camilleri"
+date: 2020-12-06
+categories: [books, fiction, 2020, Audible]
+image: the-shape-of-water.jpg
+---
+![**The Shape Of Water** by Andrea Camilleri](the-shape-of-water.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780142004715</sup>
+
+*Audible*
+
+**Publisher's Description:**
+
+"The first English translation of the best-selling international mystery
+series follows Sicilian detective Inspector Montalbano as he investigates
+the suspicious death of an engineer who had made a name for himself in a
+small town. Reprint."

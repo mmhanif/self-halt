@@ -1,0 +1,22 @@
+---
+title: "A Hero Of Our Time"
+description: "**A Hero Of Our Time** by Mikhail Lermontov"
+date: 2022-01-21
+categories: [books, fiction, 2022, Audible]
+image: a-hero-of-our-time.jpg
+---
+![**A Hero Of Our Time** by Mikhail Lermontov](a-hero-of-our-time.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780140441765</sup>
+
+*Audible*
+
+**Publisher's Description:**
+"In its adventurous happenings-its abductions, duels, and sexual
+intrigues-"A Hero of Our Time" looks backward to the tales of Sir Walter
+Scott and Lord Byron, so beloved by Russian society in the 1820s and '30s.
+In the character of its protagonist, Pechorin-the archetypal Russian
+antihero-Lermontov's novel looks forward to the subsequent glories of a
+Russian literature that it helped, in great measure, to make possible. This
+edition includes a Translator's Foreword by Vladimir Nabokov, who
+translated the novel in collaboration with his son, Dmitri Nabokov."

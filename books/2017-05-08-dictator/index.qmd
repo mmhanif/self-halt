@@ -1,0 +1,10 @@
+---
+title: "The Dictator (Cicero #3)"
+description: "**The Dictator (Cicero #3)** by Robert Harris  - (*Kindle*)"
+date: 2017-05-08
+categories: [2017, Kindle, fiction]
+image: dictator.jpg
+---
+![**The Dictator (Cicero #3)** by Robert Harris](dictator.jpg){fig-align="left"}
+
+(*Kindle*)

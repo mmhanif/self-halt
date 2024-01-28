@@ -1,0 +1,24 @@
+---
+title: "The Second Sleep"
+description: "**The Second Sleep** by Robert Harris"
+date: 2020-01-27
+categories: [books, fiction, 2020, Audible]
+image: the-second-sleep.jpg
+---
+![**The Second Sleep** by Robert Harris](the-second-sleep.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780525656692</sup>
+
+*Audible*
+
+**Publisher's Description:**
+
+"From the internationally best-selling author of Fatherland and the Cicero
+Trilogy--a chilling and dark new thriller unlike anything Robert Harris has
+done before. 1468. A young priest, Christopher Fairfax, arrives in a remote
+Exmoor village to conduct the funeral of his predecessor. The land around
+is strewn with ancient artefacts--coins, fragments of glass, human bones--
+which the old parson used to collect. Did his obsession with the past lead
+to his death? Fairfax becomes determined to discover the truth. Over the
+course of the next six days, everything he believes--about himself, his
+faith, and the history of his world--will be tested to destruction."

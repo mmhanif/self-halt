@@ -1,0 +1,12 @@
+---
+title: "A Few Lessons from Sherlock Holmes"
+description: "**A Few Lessons from Sherlock Holmes** by Peter Bevelin"
+date: 2016-12-01
+categories: [2016, non-fiction]
+image: few-lessons-from-sherlock-holmes.jpg
+---
+![**A Few Lessons from Sherlock Holmes** by Peter Bevelin](few-lessons-from-sherlock-holmes.jpg){fig-align="left"}
+
+ I came across the author, Peter Bevelin, from an [article on the Farnam Street Blog](https://www.farnamstreetblog.com/2016/10/peter-bevelin-seeking-wisdom-mental-models/). I went searching for his books on Amazon, and while they have hardcopy versions of the books referred to in the article, the only e-book available was this one. I purchased it as it was reasonably priced.
+
+It's a mildly interesting set of quotes from, about or related to Sherlock Holmes. While I'm not a Sherlock Holmes obsessive, I am a fan. I found the book pleasant enough to skim through, but not overly enlightening. Not a book to go out of your way for.

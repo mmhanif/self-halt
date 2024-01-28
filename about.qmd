@@ -1,0 +1,43 @@
+---
+title: "Mahmood Hanif"
+about:
+  template: trestles
+  image: headshot.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mhanif
+    - icon: github
+      text: Github
+      href: https://github.com/mmhanif
+    - icon: book
+      text: Goodreads
+      href: https://www.goodreads.com/user/show/4260729-mahmood-hanif 
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/mmhanif
+---
+
+Mahmood Hanif is ...
+
+- a husband, father, son, brother
+
+- an [Ahmadi Muslim](http://www.alislam.org/introduction/index.html)
+
+- an [engineering manager](https://www.linkedin.com/in/mhanif)
+
+- a [reader](https://www.goodreads.com/user/show/4260729-mahmood-hanif)
+
+- a former (and still wannabe) [software developer](https://github.com/mmhanif)
+
+- an [American](https://www.archives.gov/founding-docs)
+
+- a [Brit](http://www.verybritishproblems.com/)
+
+- an [Irishman](http://www.galwaycity.ie/) at heart
+
+- of [Pakistani](https://www.goodreads.com/book/show/40730204-being-pakistani) descent
+
+- an [electrical engineer](http://www.imperial.ac.uk/electrical-engineering) by training
+
+- a fan of [Liverpool Football Club](http://www.thisisanfield.com/)

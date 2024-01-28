@@ -1,0 +1,27 @@
+---
+title: "Radical Focus"
+description: "**Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results** by Christina Wodtke"
+date: 2016-12-01
+categories: [2016, books, management]
+image: radical-focus.jpg
+---
+![**Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results** by Christina Wodtke](radical-focus.jpg){fig-align="left"}
+
+This is a quick and easy introduction to OKRs (Objectives and Key Results) - a performance management system that's popular in Silicon Valley. The book is another one of those 'business fables' (a la Patrick Lencioni) that gets its points across via a fictional story. As for most of these books, dont expect a work of art, but its an effective way to get information across and more enjoyable than reading a dry treatise on a management topic. At the end the book has a section that reviews the model presented in the 'fable'.
+
+I like the concept of OKRs and they seem like a simple yet effective way to set goals for a team or organization. 
+
+### Model
+
+#### O = Objective
+This is what you want to accomplish. Should be qualitative and inspirational, make you want to get out of bed in the morning.
+ 
+#### KR = Key Results
+These are how you know you've achieved your objective. They should be quantitative stretch targets (difficult to achieve, but not impossible). Each KR starts out with a 50% confidence level that it will be achieved. The confidence level is adjusted every week to indicate how close to achieving the KR you are.
+OKRs are set at the company or team level either annually or quartlerly. For small companies/teams, a single OKR is preferable; 2-3 are probably acceptable for a larger organization; 5 is too many to remember and track.
+
+##### Health Metrics 
+These are metrics you want to protect while achieving your OKRs.
+
+##### Weekly Priorities
+These are the 3 to 5 things you need to do each week to help achieve the OKRs. They are marked as P1 - must do, - and P2 - should do.

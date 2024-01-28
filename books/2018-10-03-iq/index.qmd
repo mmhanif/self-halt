@@ -1,0 +1,10 @@
+---
+title: "IQ"
+description: "**IQ** by Joe Ide - (*Audible*)"
+date: 2018-10-03
+categories: [books, fiction, detective, 2018, Audible]
+image: iq.jpg
+---
+![**IQ** by Joe Ide - (*Audible*)](iq.jpg){fig-align="left"}
+
+IQ, Isaiah Quintabe, is the Sherlock Holmes of South Central Los Angeles. He even has his own (somewhat less reputable) Dr Watson in the form of Juanell Dodson. I really enjoyed the plot and the characters of this detective novel with a difference and look forward to reading the next book in the series.

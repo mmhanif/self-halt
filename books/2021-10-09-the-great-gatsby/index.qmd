@@ -1,0 +1,25 @@
+---
+title: "The Great Gatsby"
+description: "**The Great Gatsby** by Francis Scott Fitzgerald"
+date: 2021-10-09
+categories: [books, fiction, 2021, Audible]
+image: the-great-gatsby.jpg
+---
+![**The Great Gatsby** by Francis Scott Fitzgerald](the-great-gatsby.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780684801520</sup>
+
+*Audible*
+
+It had been many years since I read The Great Gatsby and this audible version
+narrated by Jake Gyllenhaal was an opportunity to re-acquaint myself with this
+classic American novel.
+
+I know many people consider this to be a literary jewel, but while I admired
+the skill of the writer and the story was reasonably engaging it didn't really
+move me in the way it seems to move others. Undoubtedly some deficiency in my
+literary tastes and education.
+
+**Publisher's Description:**
+"A young man newly rich tries to recapture the past and win back his former
+love, despite the fact she has married"

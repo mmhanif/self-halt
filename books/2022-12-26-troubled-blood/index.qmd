@@ -1,0 +1,20 @@
+---
+title: "Troubled Blood"
+description: "**Troubled Blood** by Robert Galbraith"
+date: 2022-12-26
+categories: [books, fiction, 2022, Audible]
+image: troubled-blood.jpg
+---
+![**Troubled Blood** by Robert Galbraith](troubled-blood.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780316498937</sup>
+
+*Audible*
+
+**Publisher's Description:**
+"While visiting his family in Cornwall, Private Detective Cormoran Strike
+agrees to take on a cold case involving a woman who went missing in
+mysterious circumstances in 1974, and as Strike and his partner in the
+agency, Robin Ellacott, investigate the disappearance, they come up against
+a fiendishly complex case with leads that include tarot cards, a
+psychopathic serial killer, and witnesses who cannot all be trusted."

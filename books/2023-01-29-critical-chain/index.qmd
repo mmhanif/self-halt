@@ -1,0 +1,18 @@
+---
+title: "Critical Chain: Project Management and the Theory of Constraints"
+description: "**Critical Chain: Project Management and the Theory of Constraints** by Eliyahu M. Goldratt"
+date: 2023-01-29
+categories: [books, 2023, Audible, non-fiction]
+image: Critical_Chain.jpg
+---
+![**Critical Chain: Project Management and the Theory of Constraints** by Eliyahu M. Goldratt](Critical_Chain.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780884271536</sup>
+
+*Audible*
+
+*Publisher's Description*
+
+A business novel focusing on project management. The novel aims to provoke
+readers to examine and reassess their business practices and transform the
+thinking and actions of managers.

@@ -1,0 +1,18 @@
+---
+title: "The Ascent Of Money - A Financial History Of The World"
+description: "**The Ascent Of Money - A Financial History Of The World** by Niall Ferguson"
+date: 2022-06-09
+categories: [books, non-fiction, 2022, Audible]
+image: the-ascent-of-money.jpg
+---
+![**The Ascent Of Money - A Financial History Of The World** by Niall Ferguson](the-ascent-of-money.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781594201929</sup>
+
+*Audible*
+
+**Publisher's Description:**
+"Chronicles the evolution of finance from its origins in Mesopotamia to the
+modern world's most recent upheavals, covering such topics as the stock
+market bubble that prompted the French Revolution and the theories behind
+common investment vehicles."

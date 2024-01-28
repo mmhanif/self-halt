@@ -1,0 +1,12 @@
+---
+title: "Sapiens"
+description: "**Sapiens: A Brief History of Humankind** by Yuval Noah Harari - (*Kindle* and *Audible*)"
+date: 2017-08-09
+categories: [2017, Kindle, Audible, non-fiction, history]
+image: sapiens.jpg
+---
+![**Sapiens: A Brief History of Humankind** by Yuval Noah Harari](sapiens.jpg){fig-align="left"}
+
+(*Kindle and Audible Unabridged, narrated by Derek Perkins*)
+
+Another book from the Farnam Street Virtual Reading Group, this a fascinating read with lots of interesting facts and thought-provoking perspectives. The first section on the development of homo-sapiens from the other homo-species is worth the price of the book alone. I don't necessarily agree with all the conclusions drawn by the author, and at times his knowledge seems shallow rather than deep on some of the subjects he discusses. The topic is very broad though so it's hard to imagine anyone being an expert on all of it. I would just keep a few pinches of salt handy.

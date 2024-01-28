@@ -1,0 +1,10 @@
+---
+title: "Guilty Minds"
+description: "**Guilty Minds** by Joseph Finder - (*Audible*)"
+date: 2017-04-10
+categories: [2017, Audible, fiction]
+image: guilty-minds.jpg
+---
+![**Guilty Minds** by Joseph Finder](guilty-minds.jpg){fig-align="left"}
+
+(*Audible Unabridged, narrated by Holter Graham*)

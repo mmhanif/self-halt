@@ -1,0 +1,81 @@
+---
+title:  "What I read in 2020 (so far)"
+categories: [books, lists]
+date: "6/30/2020"
+date-modified: "1/10/2024"
+image: 2020SoFarBooks.png
+execute:
+  echo: false
+jupyter: python3
+---
+![](2020SoFarBooks.png){fig-align="left"}
+I've only read [17 books in 2020](#fig-y2020). I started well, completing 10 books by the end of February, but then Covid happened. Working from home killed my reading velocity. The roughly 3 hours a day I spent commuting was my reading time. I would typically read non-fiction during the morning commute when my brain was sharp and able to absorb new ideas. On the way home, I would escape to fiction. I still haven't been able to replace that commute time with at-home reading time on a regular basis. There always seems to be something slightly more pressing to do at home than sitting down and reading a book.
+
+In any case, my standout book so far in 2020 has been [Spillover - Animal Infections And The Next Human Pandemic](../../books/2020-05-20-spillover-animal-infections-and-the-next-human-pandemic) by David Quammen. Essential reading for a Covid-19 world.
+
+[The Art of Statistics - How To Learn From Data](../../books/2020-01-20-the-art-of-statistics) by David Spiegelhalter was an entertaining and educational tour through the world of statistics.
+
+I enjoyed listening to [Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life](../../books/2020-06-29-alchemy) by Rory Sutherland. The content was thought-provoking and the narration by the author was excellent.
+
+
+## Full book list
+```{python}
+import pandas as pd
+from itables import init_notebook_mode
+init_notebook_mode(all_interactive=False)
+
+df = pd.read_csv("y2020-so-far.csv")
+df.rename({'book_type': 'Type'}, axis=1, inplace=True)
+
+def link(row):
+  return f'<a href="../../books/{row.dir_name}">{row.Title}</a>'
+
+df["Book Title"] = df.apply(link, axis=1)
+df = df.sort_values(by=['Book Title']).reset_index()
+df['#'] = df.index+1
+```
+
+```{python}
+#| label: fig-y2020
+#| fig-cap: "All the books I read in 2020 (so far)"
+
+# df.to_html(index=False, columns=['#', 'Book Title', 'Author', 'Type', 'Genre', 'My Rating'], escape=False)
+from itables import show
+table_df = df[['#', 'Book Title', 'Author', 'Type', 'Genre']]
+show(table_df, 
+      paging=False, 
+      classes="display compact",
+      columnDefs=[{"className": "dt-left", "targets": "_all"}]
+      )
+```
+```{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{p:.0f}%\n({v:d} books)'.format(p=pct,v=val)
+    return my_autopct
+
+def plot_col(df, col):
+  fig, ax = plt.subplots(figsize=(18, 8), subplot_kw=dict(aspect="equal"))
+  data = df[col].value_counts()
+  wedges, texts, autotexts = ax.pie(data, autopct=make_autopct(data),
+                                    textprops=dict(color="w"))
+  ax.legend(wedges, data.index,
+            title="Genre",
+            loc="center left",
+            bbox_to_anchor=(1, 0, 0.5, 1))
+  plt.setp(autotexts, size=10, weight="bold")
+  ax.set_title(f"Books by {col}")
+  plt.show()
+```
+## Pie Charts
+```{python}
+plot_col(df, "Genre")
+```
+```{python}
+plot_col(df, "Type")
+```

@@ -1,0 +1,17 @@
+---
+title: "Just Like You"
+description: "**Just Like You** by Nick Hornby"
+date: 2021-09-03
+categories: [books, fiction, 2021, Audible]
+image: just-like-you.jpg
+---
+![**Just Like You** by Nick Hornby](just-like-you.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780593288597</sup>
+
+*Audible*
+
+Like most Nick Hornby novels this one is easily digestible and contains various
+insights into the nature of the human character and their relationships. The story
+is told through the eyes of a white middle-aged divorcee and a (much) younger
+black man. They develop a relationship that both are self-conscious about.

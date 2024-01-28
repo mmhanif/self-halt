@@ -1,0 +1,15 @@
+---
+title: "Naval Stories"
+description: "**Turn the Ship Around!: A True Story of Turning Followers into Leaders** by L. David Marquet / \n**It's Your Ship: Management Techniques from the Best Damn Ship in the Navy** by Michael Abrashoff"
+date: 2016-12-01
+categories: [2016, non-fiction, management]
+image: turn_the_ship_around.jpeg
+---
+![**Turn the Ship Around!: A True Story of Turning Followers into Leaders** by L. David Marquet)](turn_the_ship_around.jpeg){fig-align="left"}
+![**It's Your Ship: Management Techniques from the Best Damn Ship in the Navy** by Michael Abrashoff](naval-stories.jpg){fig-align="right"}
+
+**It's Your Ship: Management Techniques from the Best Damn Ship in the Navy** by Michael Abrashoff
+These are two books that try and provide leadership and management guidance based on the experiences of the authors in the U.S. Navy - Marquet as commander of a nuclear powered submarine, the USS Santa Fe, Abrashoff as commander of a guided missile destroyer, the USS Benfold. I had read *It's Your Ship* some years earlier, and re-read it after reading *Turn the Ship Around*. 
+Both books provide the same general message - that of empowering your team to make decisions and take the initiative. Both contained entertaining stories about the ups and downs - pun intended! - of naval life. Although I enjoyed reading both, I think *Turn the Ship Around* has more useful takeaways.
+
+Marquet's book details his transformation from the traditional 'Leader-Follower' model typically seen in the navy as well as in business, where the leader gives the orders and his or her followers carry them out, to a 'Leader-Leader' model where followers are empowered to make decisions about how to carry out the leader's intent. This manifested itself in the crew of the USS Santa Fe moving from asking permission from a superior to carry out an action ("Permission to ...., Sir?" - "Permission granted") to one of declaring intent ("I intend to ..., Sir" - "Very well"). The difference being that the former transfers responsibility to the leader who is giving the order, whereas the latter shifts ownership of the action to the person carrying it out.

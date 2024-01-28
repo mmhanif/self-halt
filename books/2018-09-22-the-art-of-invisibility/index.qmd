@@ -1,0 +1,10 @@
+---
+title: "The Art of Invisibility"
+description: "**The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi - (*Audible*)"
+date: 2018-09-22
+categories: [2018, Audible]
+image: the-art-of-invisibility.jpg
+---
+![**The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi - (*Audible*)](the-art-of-invisibility.jpg){fig-align="left"}
+
+A tour through the world of information security and privacy led my famous (infamous?) hacker Kevin Mitnick. Although there was some pretty basic advice here and there, there were also plenty of things that I learnt from this book to make it a useful read.

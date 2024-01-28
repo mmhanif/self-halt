@@ -1,0 +1,88 @@
+---
+title:  "What I read in 2020 (full year)"
+categories: [books, lists]
+image: 2020Books.png
+date: "1/17/2021"
+date-modified: "1/10/2024"
+execute:
+  echo: false
+jupyter: python3
+---
+![](2020Books.png){fig-align="left"}
+I ended up 2020 having read 34 books - exactly twice [my mid-year mark of 17.](../2020-06-30-what-i-read-in-2020-so-far)
+Almost everything I "read" in the second half of 2020 was actually an audiobook,
+the only exceptions being [The Holy Quran](../../books/2020-09-20-the-holy-quran-with-arabic-text-and-english-translation) and [Malfuzat](../../books/2020-09-27-malfuzat--volume-i) which were hardcovers.
+
+David Quammen produced probably the most memorable read of the second half of the
+year (as he did the first half with [Spillover](../../books/2020-05-20-spillover-animal-infections-and-the-next-human-pandemic)) in [The Reluctant Mr. Darwin](../../books/2020-09-20-the-reluctant-mr-darwin). Not a complete biography of Darwin as it only covers his life after his adventures on the HMS Beagle, but it helps put the theory of evolution in proper historical context. I certainly learn a lot from it.
+
+[The Hate U Give](../../books/2020-07-10-the-hate-u-give) was a timely read given the events of the summer with the Black Lives Matter movement. Although categorized as a "young adult" novel this far-from-young adult found it enjoyable and thought-provoking.
+
+[Orconomics](../../books/2020-10-12-orconomics) and its follow-up [Son Of A Liche](../../books/2020-11-23-son-of-a-liche) were my first forays into [LitRPG](https://en.wikipedia.org/wiki/LitRPG). Never having played D&D or its ilk, I wasn't up to speed with all the conventions of the genre - nevertheless I found both books enjoyable and funny. While following the typical fantasy story conventions the books are also an effective satire on capitalism , modern day finance and the housing crash (*Collateralized Threat Obligations* play a big role in the plot of the second book!)
+
+[Storm Front](../../books/2020-12-19-storm-front) was a strong recommendation from a friend - a combination of mystery and magical fantasy. While I enjoyed it, the opportunity costs involved mean I will probably skip investing time into the remaining 16+ novels in the series (at least for now).
+
+On the non-fiction front [Think Like a Rocket Scientist](../../books/2020-08-21-think-like-a-rocket-scientist) and [Workplace Poker](../../books/2020-12-31-workplace-poker) were useful but not essential reads, while [An Economist Walks Into A Brother](../../books/2020-07-19-an-economist-walks-into-a-brothel) was disappointing.
+
+
+## Full book list
+```{python}
+import pandas as pd
+from itables import init_notebook_mode
+init_notebook_mode(all_interactive=False)
+
+df = pd.read_csv("y2020.csv")
+df.rename({'book_type': 'Type'}, axis=1, inplace=True)
+
+def link(row):
+  return f'<a href="../../books/{row.dir_name}">{row.Title}</a>'
+
+df["Book Title"] = df.apply(link, axis=1)
+df = df.sort_values(by=['Book Title']).reset_index()
+df['#'] = df.index+1
+```
+
+```{python}
+#| label: fig-y2020
+#| fig-cap: "All the books I read in 2020"
+
+# df.to_html(index=False, columns=['#', 'Book Title', 'Author', 'Type', 'Genre', 'My Rating'], escape=False)
+from itables import show
+table_df = df[['#', 'Book Title', 'Author', 'Type', 'Genre']]
+show(table_df, 
+      paging=False, 
+      classes="display compact",
+      columnDefs=[{"className": "dt-left", "targets": "_all"}]
+      )
+```
+```{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{p:.0f}%\n({v:d} books)'.format(p=pct,v=val)
+    return my_autopct
+
+def plot_col(df, col):
+  fig, ax = plt.subplots(figsize=(18, 8), subplot_kw=dict(aspect="equal"))
+  data = df[col].value_counts()
+  wedges, texts, autotexts = ax.pie(data, autopct=make_autopct(data),
+                                    textprops=dict(color="w"))
+  ax.legend(wedges, data.index,
+            title="Genre",
+            loc="center left",
+            bbox_to_anchor=(1, 0, 0.5, 1))
+  plt.setp(autotexts, size=10, weight="bold")
+  ax.set_title(f"Books by {col}")
+  plt.show()
+```
+## Pie Charts
+```{python}
+plot_col(df, "Genre")
+```
+```{python}
+plot_col(df, "Type")
+```

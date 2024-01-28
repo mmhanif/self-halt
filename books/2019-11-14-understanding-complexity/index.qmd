@@ -1,0 +1,9 @@
+---
+title: "Understanding Complexity"
+description: "**Understanding Complexity** by Scott E. Page"
+date: 2019-11-14
+categories: [books, 2019, Audible, lecture]
+---
+![**Understanding Complexity** by Scott E. Page](understanding-complexity.jpg){fig-align="left"}
+
+*Audible*

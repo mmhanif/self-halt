@@ -1,0 +1,32 @@
+---
+title: "Spqr"
+description: "**SPQR** by Mary Beard"
+date: 2021-06-14
+categories: [books, non-fiction, 2021, Audible]
+image: spqr.jpg
+---
+![**SPQR** by Mary Beard](spqr.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781631492228</sup>
+
+*Audible*
+
+> SPQR takes its title from another famous Roman catchphrase, Senatus PopulusQue Romanus, ‘The Senate and People of Rome’.
+
+Interesting enough history of Rome up 212 CE. It does flit back and forth rather than
+move through the chronology in a strictly linear fashion. Compared to Mike Duncan's
+[The Storm Before The Storm](../2021-05-25-the-storm-before-the-storm/index.qmd),
+Beard spends more time on what life was like for the average Roman at various points
+in Rome's history. It has a much broader range than Duncan's book, so seems to gloss over
+many of the events that Duncan discusses in great detail. I also found Duncan to be
+a more engaging writer.
+
+> The message is clear: however far back you go, the inhabitants of Rome were always already from somewhere else.
+
+**Publisher's Description:**
+New York Times Bestseller National Book Critics Circle Finalist Wall Street
+Journal Best Books of 2015 Kirkus Reviews Best Books of 2015 Economist
+Books of the Year 2015 New York Times Book Review 100 Notable Books of 2015
+A sweeping, "magisterial" history of the Roman Empire from one of our
+foremost classicists shows why Rome remains "relevant to people many
+centuries later" (Atlantic).

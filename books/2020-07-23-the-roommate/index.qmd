@@ -1,0 +1,9 @@
+---
+title: "The Roommate"
+description: "**The Roommate** by Dervla McTiernan"
+date: 2020-07-23
+categories: [books, fiction, 2020, Audible]
+---
+![**The Roommate** by Dervla McTiernan](the-roommate.jpg){fig-align="left"}
+
+*Audible*

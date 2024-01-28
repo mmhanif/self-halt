@@ -1,0 +1,15 @@
+---
+title: "Atomic Habits"
+description: "**Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear"
+date: 2019-12-10
+categories: [books, 2019, Audible, non-fiction]
+image: atomic-habits-an-easy--proven-way-to-build-good-habits--break-bad-ones.jpg
+---
+![**Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** by James Clear](atomic-habits-an-easy--proven-way-to-build-good-habits--break-bad-ones.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780735211292</sup>
+
+*Audible*
+
+"James Clear presents strategies to form good habits, break bad ones, and
+master the tiny behaviors that help lead to an improved life."

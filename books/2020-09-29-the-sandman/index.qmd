@@ -1,0 +1,14 @@
+---
+title: "The Sandman"
+description: "**The Sandman** by Neil Gaiman"
+date: 2020-09-29
+categories: [books, fiction, 2020, Audible]
+image: the-sandman.jpg
+---
+![**The Sandman** by Neil Gaiman](the-sandman.jpg){fig-align="left"}
+
+<sup>ASIN: B086WP794Z</sup>
+
+*Audible*
+
+A full-cast audiobook adaptation of Neil Gaiman's Sandman comicbooks. The first half of the book is a single story line following the imprisonment of Morpheus (the Lord of Dreams) and his subsequent question to restore his power. The remaining chapters are a series of mostly unconnected vignettes that I found to be a bit hit or miss.

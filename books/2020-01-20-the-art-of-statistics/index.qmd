@@ -1,0 +1,163 @@
+---
+title: "The Art Of Statistics"
+description: "**The Art Of Statistics** by David Spiegelhalter"
+date: 2020-01-20
+categories: [books, non-fiction, 2020, Hardcover]
+image: the-art-of-statistics.jpg
+---
+![**The Art Of Statistics** by David Spiegelhalter](the-art-of-statistics.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781541618510</sup>
+
+*Hardcover*
+
+**Publisher's Description:**
+
+"The definitive guide to statistical thinking Statistics are everywhere, as
+integral to science as they are to business, and in the popular media
+hundreds of times a day. In this age of big data, a basic grasp of
+statistical literacy is more important than ever if we want to separate the
+fact from the fiction, the ostentatious embellishments from the raw
+evidence -- and even more so if we hope to participate in the future,
+rather than being simple bystanders. In The Art of Statistics, world-
+renowned statistician David Spiegelhalter shows readers how to derive
+knowledge from raw data by focusing on the concepts and connections behind
+the math. Drawing on real world examples to introduce complex issues, he
+shows us how statistics can help us determine the luckiest passenger on the
+Titanic, whether a notorious serial killer could have been caught earlier,
+and if screening for ovarian cancer is beneficial. The Art of Statistics
+not only shows us how mathematicians have used statistical science to solve
+these problems -- it teaches us how we too can think like statisticians. We
+learn how to clarify our questions, assumptions, and expectations when
+approaching a problem, and -- perhaps even more importantly -- we learn how
+to responsibly interpret the answers we receive. Combining the incomparable
+insight of an expert with the playful enthusiasm of an aficionado, The Art
+of Statistics is the definitive guide to stats that every modern person
+needs."
+
+## Notes
+
+#### Epistemic Uncertainty
+- epistemic uncertainty: lack of knowledge about facts, numbers or scientific hypotheses.
+
+#### Aleatory Uncertainty
+- aleatory uncertainty: unavoidable unpredictability about the future, also known as chance, randomness, luck and so on.
+
+### Introduction
+- Turning experiences into data is not straightforward, and data is inevitably limited in its capacity to describe the world. 
+- Statistical science has a long and successful history, but is now changing in the light of increased availability of data. 
+- Skill in statistical methods plays an important part of being a data scientist. 
+- Teaching statistics is changing from a focus on mathematical methods to one based on an entire problem-solving cycle. 
+- The PPDAC cycle provides a convenient framework: Problem - Plan - Data - Analysis – Conclusion and communication. 
+- Data literacy is a key skill for the modern world.
+
+### Getting Things In Proportion
+- Binary variables are yes/no questions, sets of which can be summarized as proportions. 
+- Positive or negative framing of proportions can change their emotional impact. 
+- Relative risks tend to convey an exaggerated importance, and absolute risks should be provided for clarity.
+- Expected frequencies promote understanding and an appropriate sense of importance. 
+- Odds ratios arise from scientific studies but should not be used for general communication. 
+- Graphics need to be chosen with care and awareness of their impact.
+
+### Summarizing and Communicating Numbers. Lots of Number
+- A variety of statistics can be used to summarize the empirical distribution of data-points, including measures of location and spread. 
+- Skewed data distributions are common, and some summary statistics are very sensitive to outlying values. 
+- Data summaries always hide some detail, and care is required so that important information is not lost. 
+- Single sets of numbers can be visualized in strip- charts, box-and-whisker plots and histograms. 
+- Consider transformations to better reveal patterns, and use the eye to detect patterns, outliers, similarities and clusters. 
+- Look at pairs of numbers as scatter-plots, and time- series as line-graphs. 
+- When exploring data, a primary aim is to find factors that explain the overall variation. 
+- Graphics can be both interactive and animated. 
+- Infographics highlight interesting features and can guide the viewer through a story, but should be used with awareness of their purpose and their impact.
+
+### Why Are We Looking At Data Anyway? Populations and Measurement
+- Inductive inference requires working from our data, through study sample and study population, to a target population. 
+- Problems and biases can crop up at each stage of this path. 
+- The best way to proceed from sample to study population is to have drawn a random sample. 
+- A population can be thought of as a group of individuals, but also as providing the probability distribution for a random observation drawn from that population. 
+- Populations can be summarized using parameters that mirror the summary statistics of sample data. 
+- Often data does not arise as a sample from a literal population. When we have all the data there is, then we can imagine it drawn from a metaphorical population of events that could have occurred, but didn’t.
+
+### What Causes What?
+- Causation, in the statistical sense, means that when we intervene, the chances of different outcomes are systematically changed. 
+- Causation is difficult to establish statistically, but well-designed randomized trials are the best available framework. 
+- Principles of blinding, intention-to-treat and so on have enabled large-scale clinical trials to identify moderate but important effects. 
+- Observational data may have background factors influencing the apparent observed relationships between an exposure and an outcome, which may be either observed confounders or lurking factors. 
+- Statistical methods exist for adjusting for other factors, but judgement is always required as to the confidence with which causation can be claimed.
+
+### Modeling Relationships Using Regression
+- Regression models provide a mathematical representation between a set of explanatory variables and a response variable. 
+- The coefficients in a regression model indicate how much we expect the response to change when the explanatory variable is observed to change. 
+- Regression-to-the-mean occurs when more extreme responses revert to nearer the long-term average, since a contribution to their previous extremeness was pure chance. 
+- Regression models can incorporate different types of response variable, explanatory variables and non- linear relationships. 
+- Caution is required in interpreting models, which should not be taken too literally: ‘All models are wrong, but some are useful.
+
+### Algorithms, Analytics and Prediction
+- Algorithms built from data can be used for classification and prediction in technological applications .
+- It is important to guard against over-fitting an algorithm to training data , essentially fitting to noise rather than signal
+- Algorithms can be evaluated by the classification accuracy , their ability to discriminate between groups , and their overall predictive accuracy
+- Complex algorithms may lack transparency , and it may be worth trading off some accuracy for comprehension
+- The use of algorithms and artificial intelligence presents many challenges , and insights into both the power and limitations of machine-learning methods is vital
+
+### How Sure Can We Be About What Is Going On? Estimates and Intervals
+- Uncertainty intervals are an important part of communicating statistics. 
+- Bootstrapping a sample consists of creating new data sets of the same size by resampling the original data, with replacement. 
+- Sample statistics calculated from bootstrap re- samples tend towards a normal distribution for larger data sets, regardless of the shape of the original data distribution. 
+- Uncertainty intervals based on bootstrapping take advantage of modern computer power, do not require assumptions about the mathematical form of the population and do not require complex probability theory.
+
+### Probability- the Language of Uncertainty and Variability
+- The theory of probability provides a formal language and mathematics for dealing with chance phenomena. 
+- The implications of probability are not intuitive, but insights can be improved by using the idea of expected frequencies. 
+- The ideas of probability are useful even when there is no explicit use of a randomizing mechanism. 
+- Many social phenomena show a remarkable regularity in their overall pattern, while individual events are entirely unpredictable.
+
+### Putting Probability and Statistics Together
+- Probability theory can be used to derive the sampling distribution of summary statistics, from which formulae for confidence intervals can be derived. 
+- A 95% confidence interval is the result of a procedure that, in 95% of cases in which its assumptions are correct, will contain the true parameter value. It cannot be claimed that a specific interval has 95% probability of containing the true value. 
+- The Central Limit Theorem implies that sample means and other summary statistics can be assumed to have a normal distribution for large samples. 
+- Margins of error usually do not incorporate systematic error due to non-random causes – external knowledge and judgement is required to assess these. 
+- Confidence intervals can be calculated even when we observe all the data, which then represent uncertainty about the parameters of an underlying metaphorical population.
+
+### Answering Questions and Claiming Discoveries
+- Tests of null hypotheses - default assumptions about statistical models – form a major part of statistical practice. 
+- A P-value is a measure of the incompatibility between the observed data and a null hypothesis: formally it is the probability of observing such an extreme result, were the null hypothesis true. 
+- Traditionally, P-value thresholds of 0.05 and 0.01 have been set to declare ‘statistical significance’. 
+- These thresholds need to be adjusted if multiple tests are conducted, for example on different subsets of the data or multiple outcome measures. 
+- There is a precise correspondence between confidence intervals and P-values: if, say, the 95% interval excludes 0, we can reject the null hypothesis of 0 at P < 0.05. 
+- Neyman-Pearson theory specifies an alternative hypothesis, and fixes Type I and Type II error rates for the two possible kinds of errors in a hypothesis test. 
+- Separate forms of hypothesis tests have been developed for sequential testing. 
+- P-values are often misinterpreted: in particular they do not convey the probability that the null hypothesis is true, nor does a non-significant result imply that the null hypothesis is true.
+
+### Learning from Experience the Bayesian Way
+- Bayesian methods combine evidence from data (summarized by the likelihood) with initial beliefs (known as the prior distribution) to produce a posterior probability distribution for the unknown quantity. 
+- Bayes’ theorem for two competing hypotheses can be expressed as posterior odds = likelihood ratio x prior odds. 
+- The likelihood ratio expresses the relative support for two hypotheses from an item of evidence, and is sometimes used to summarize forensic evidence in criminal trials. 
+- When the prior distribution comes from some physical sampling process, Bayesian methods are uncontroversial. However generally a degree of judgement is necessary. 
+- Hierarchical models allow evidence to be pooled across multiple small analyses that are assumed to have parameters in common. 
+- Bayes factors are the equivalent of likelihood ratios for scientific hypotheses, and are a controversial substitute for null-hypothesis significance testing. 
+- The theory of statistical inference has a long history of controversy, but issues of quality of data and scientific reliability are more important.
+
+### How Things Go Wrong
+- Poor statistical practice has some responsibility for the crisis in the reproducibility of science.
+- Deliberate fabrication of data appears to be fairly rare, but errors in statistical methods are frequent. 
+- An even greater problem is questionable research practices that tend to lead to exaggerated claims of statistical significance. 
+- In the pipeline by which statistical evidence reaches the public, press offices, journalists and editors add to the flow of unjustified statistical claims through their use of questionable interpretation and communication practices.
+
+#### How We Can Do Statistics Better
+- Producers, communicators and audiences all have a role in improving the way that statistical science is used in society. 
+- Producers need to ensure that science is reproducible. To demonstrate trustworthiness, information should be accessible, intelligible, assessable and useable. 
+- Communicators need to be wary of trying to fit statistical stories into standard narratives. 
+- Audiences need to call out poor practice by asking questions about the trustworthiness of their numbers, their source and their interpretation. 
+- When faced with a claim based on statistical evidence, first feel whether it seems plausible.
+
+### Rules for Effective Statistical Practice
+- Statistical methods should enable data to answer scientific questions: Ask ‘why am I doing this?’, rather than focusing on which particular technique to use. 
+- Signals always come with noise: It is trying to separate out the two that makes the subject interesting. Variability is inevitable, and probability models are useful as an abstraction.
+- Plan ahead, really ahead: This includes the idea of pre- specification in confirmatory experiments - avoiding researcher degrees of freedom.
+- Worry about data quality: Everything rests on the data.
+- Statistical analysis is more than a set of computations: Do not just plug into formulae or run procedures in software, without knowing why you are doing so. 
+- Keep it simple: The main communication should be as basic as possible - do not show off skills in complex modelling unless they are really necessary. 
+- Provide assessments of variability: With the warning that margins of error are generally bigger than claimed. 
+- Check your assumptions: And make clear when this has not been possible. 
+- When possible, replicate!: Or encourage others to do so. 
+- Make your analysis reproducible: Others should be able to access your data and code.

@@ -1,0 +1,18 @@
+---
+title: "jQuery, Bootstrap and HTML5"
+description: "jQuery, Bootstrap and HTML5"
+date: 2016-12-01
+categories: [2016, non-fiction, programming]
+image: jquery-bootstrap-html5.jpg
+---
+![The Joy of jQuery](jquery-bootstrap-html5.jpg){fig-align="left"}
+![The Joy of Bootstrap](joy-of-bootstrap.jpg){fig-align="center"}
+![HTML5, Javascript and jQuery](html5.jpg){fig-align="right"}
+
+
+- **The Joy of jQuery: A Beginner's Guide to the World's Most Popular Javascript Library** by Alan Forbes
+- **The Joy of Bootstrap: A smarter way to learn the world's most popular web framework** by Alan Forbes
+- **A Software Engineer Learns HTML5, JavaScript and jQuery: A guide to standards-based web applications** by Dane Cameron
+
+I was working on a personal project last year that required me to a build a simple web-GUI that had some buttons and sliders and made some Ajax calls. Having never really done any real web programming to date, I needed some primers on basic HTML and Javascript as well as frameworks like jQuery and Bootstrap. Although there are plenty of free tutorials on the web, my preference is to learn from a book that provides a coherent overview of a topic. These books all served that purpose well.
+Dane Cameron's "A Software Engineer Learns HTML5, JavaScript and jQuery" was a perfect introduction to the world of web programming as it comes from the perspective of an experienced programmer learning about web programming. Alan Forbes has written a series of "Joy Of ..." books and the Bootstrap and jQuery books were short and easy to digest.

@@ -1,0 +1,25 @@
+---
+title: "The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans"
+description: "**The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans** by Bill Hammack"
+date: 2023-09-05
+categories: [books, 2023, Audible, non-fiction]
+image: The_Things_We_Make.jpg
+---
+![**The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans** by Bill Hammack](The_Things_We_Make.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781728215754</sup>
+
+*Audible*
+
+*Publisher's Description*
+
+"In this book, Bill Hammack, better known as The Engineer Guy, takes us on
+a whirlwind tour of how humans built the world we know today. From the
+grand stone arches of medieval cathedrals to the mundane modern soda can,
+Hammack explains the golden rule of thumb that underlies every new building
+technique, every technological advancement, and every creative solution
+that leads us one step closer to a better, more functional world. Perfect
+for readers of Adam Grant and Jared Diamond, this fascinating examination
+of the method that keeps pushing humanity forward is a spotlight on the
+achievements of the past and a celebration of the potential of our
+future"--

@@ -1,0 +1,16 @@
+---
+title: "self halt"
+image: self-halt-2.jpeg
+filters:
+   - nutshell
+---
+
+![Image generate by Dall-E](self-halt-2.jpeg){fig-align="left" width=40%}
+
+'self halt' is the command used in the [:Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) programming language to stop normal execution and enter the debugger. One of the many cool things about Smalltalk was that then you could write some code in the debugger, accept it and resume execution, effectively debugging code into existence.
+
+I guess this [blog](posts.qmd) is [my](about.qmd) personal analogy for debugging my thoughts and musings into existence. 
+
+Mostly I blog about the [books I've read](what-i-read-in.qmd), but I hope to expand into other topics over time.
+
+

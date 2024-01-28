@@ -1,0 +1,129 @@
+---
+title:  "What I read in 2023"
+categories: [books, lists]
+date: "12/31/2023"
+date-modified: "1/10/2024"
+image: 2023Books-All-8x2.png
+draft: true
+execute:
+  echo: false
+jupyter: python3
+---
+
+I reached my target of ["reading" 50 books a year](https://www.goodreads.com/user_challenges/41048625) again this year. I put reading in quotes as actually for the majority of those 50 books, I listened to them on Audible. However, I did also increase the number of physical books I read.
+
+Highlights from this year's reading list are given below. If you want to, you can [jump straight to the list of all 50 books here](#fig-y2023).
+
+![](2023Books-All-8x2.png){fig-align="left"}
+
+
+## [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+Two of favorite books this year where about attention - why we can't pay attention and what we should pay attention to in our limited time left on this planet. ["Stolen Focus - Why You Can't Pay Attention"](../../books/2023-01-22-four-thousand-weeks/) by Johann Hari was a personal journey by journalist and author Johann Hari to recapture his stolen focus but also to undercover the wider forces at play in stealing our attention. Hari uncovers 12 causes for the attention crisis. A thought provoking book, though I found the more personal earlier chapters more appealing than the later ones where he talks about broader societal issues.  
+
+["Four Thousand Weeks - Time Management for Mortals" by Oliver Burkeman](../../books/2023-01-22-four-thousand-weeks/) has a potentially misleading title, especially if you're reading it to find time saving tips and tricks. It's a much more philosophical work that starts with the premise that an average 80-year life consists of about 4,000 weeks. If, like me, you're well past the mid-point of the average life-span, thinking about the number of weeks you have left does make you ponder how much of that time should be spent doom-scrolling on social media or binge-watching a series on Netflix. Worth a read - pair with [this blog post](https://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) that lets you visualize the probability distribution of your remaining lifespan. Here's mine:
+![](lifespan.png){fig-align="left"}
+
+## Let's talk about it
+
+One topic I've been very interested in over the last few years is the idea of dialog and how personally and as a society we can discuss strongly held but opposing beliefs without it devolving into a shouting match (or silent seething). A number of books I read this year were on this or related topics. ["The Righteous Mind - Why Good People Are Divided by Politics and Religion"](../../books/2023-02-06-the-righteous-mind/) by pyschologist Jonathan Haidt was the 'deepest' of these books. It took me a while to read, not because the language was difficult but the concepts introduced deserved a lot of thought and digestion. Haidt covers the field of **moral psychology** and gives us a history of the different theories of how and why morals evolved drawing on research in neuroscience, genetics, social psychology and evolutionary modeling. As someone who leans liberal, I came away with a better understanding of why conservatives take the positions they do. Haidt has a distinctly secular view on religion and morals, which I don't personally agree with, but his theories are worth trying to understanding.
+
+["I Never Thought Of It That Way"](../../books/2023-11-24-i-never-thought-of-it-that-way/) by Monica Guzman is a much lighter read on a similar topic. It has a lot of anecdotes from the authors life with practical suggestions about bridging the divide with people who hold an opposing view. I enjoyed the book and came away with a bunch of practical (if not ground-breaking) tools.
+
+- ["You're Not Listening: What You're Missing and Why It Matters"](../../books/2023-07-08-you're-not-listening/) by Kate Murphy
+- ["Crucial Conversations: Tools for Talking When Stakes Are High"](../../books/2023-11-30-crucial-conversations/) by Kerry Patterson
+- ["Conflicted: How Productive Disagreements Lead to Better Outcomes"](../../books/2023-12-03-conflicted/) by Ian Leslie
+
+- ["Narconomics: How to Run a Drug Cartel"](../../books/2023-02-25-narconomics/) by Tom Wainwright
+- ["Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency"](../../books/2023-03-07-tracers-in-the-dark/) by Andy Greenberg
+- ["Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"](../../books/2023-10-15-number-go-up/) by Zeke Faux
+
+- ["Surrender: 40 Songs, One Story"](../../books/2023-05-03-surrender/) by Bono
+- ["Rememberings"](../../books/2023-09-05-rememberings/) by Sinead O'Connor
+
+- ["Confessions of a Recovering Engineer: Transportation for a Strong Town"](../../books/2023-07-20-confessions-of-a-recovering-engineer/) by Charles L. Marohn Jr.
+
+- ["How the World Really Works: The Science Behind How We Got Here and Where We're Going"](../../books/2023-09-08-how-the-world-really-works/) by Vaclav Smil
+- ["The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans"](../../books/2023-09-05-the-things-we-make/) by Bill Hammack
+- ["Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"](../../books/2023-09-05-stuff-matters/) by Mark Miodownik
+
+- ["Smart Brevity: The Power of Saying More With Less"](../../books/2023-06-08-smart-brevity/) by Jim Vandehei
+
+- ["The Siege of Mecca: The Forgotten Uprising in Islam's Holiest Shrine and the Birth of Al Qaeda"](../../books/2023-06-11-the-siege-of-mecca/) by Yaroslav Trofimov
+
+- ["Discipline Is Destiny: The Power of Self-Control"](../../books/2023-10-01-discipline-is-destiny/) by Ryan Holiday
+
+
+## Fiction
+
+- ["Matterhorn"](../../books/2023-03-14-matterhorn/) by Karl Marlantes
+- ["The Making of Another Major Motion Picture"](../../books/2023-10-01-the-making-of-another-major-motion-picture-masterpiece/) by Tom Hanks
+- ["Tomorrow and Tomorrow and Tomorrow"](../../books/2023-12-12-tomorrow-and-tomorrow-and-tomorrow/) by Gabrielle Zevin
+
+- ["The Midnight Library"](../../books/2023-05-22-the-midnight-library/) by Matt Haig
+- ["The Reading List"](../../books/2023-04-05-the-reading-list/) by Sara Nisha Adams
+
+- ["The Night Agent"](../../books/2023-02-07-the-night-agent/) by Matthew Quirk
+
+- ["Reamde"](../../books/2023-01-22-reamde/) by Neal Stephenson
+
+## Full book list
+```{python}
+import pandas as pd
+from itables import init_notebook_mode
+init_notebook_mode(all_interactive=False)
+
+df = pd.read_csv("y2023.csv")
+df.rename({'book_type': 'Type'}, axis=1, inplace=True)
+
+def link(row):
+  return f'<a href="../../books/{row.dir_name}">{row.Title}</a>'
+
+df["Book Title"] = df.apply(link, axis=1)
+df = df.sort_values(by=['Book Title']).reset_index()
+df['#'] = df.index+1
+```
+
+```{python}
+#| label: fig-y2023
+#| fig-cap: "All the books I read in 2023"
+
+from itables import show
+table_df = df[['#', 'Book Title', 'Author', 'Type', 'Genre', 'My Rating']]
+show(table_df, 
+      paging=False, 
+      classes="display compact",
+      columnDefs=[{"className": "dt-left", "targets": "_all"}]
+      )
+```
+```{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{p:.0f}%\n({v:d} books)'.format(p=pct,v=val)
+    return my_autopct
+
+def plot_col(df, col):
+  fig, ax = plt.subplots(figsize=(18, 8), subplot_kw=dict(aspect="equal"))
+  data = df[col].value_counts()
+  wedges, texts, autotexts = ax.pie(data, autopct=make_autopct(data),
+                                    textprops=dict(color="w"))
+  ax.legend(wedges, data.index,
+            title="Genre",
+            loc="center left",
+            bbox_to_anchor=(1, 0, 0.5, 1))
+  plt.setp(autotexts, size=10, weight="bold")
+  ax.set_title(f"Books by {col}")
+  plt.show()
+```
+## Pie Charts
+```{python}
+plot_col(table_df, "Genre")
+```
+```{python}
+plot_col(table_df, "Type")
+```

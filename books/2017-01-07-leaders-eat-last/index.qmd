@@ -1,0 +1,10 @@
+---
+title: "Leaders Eat Last"
+description: "**Leaders Eat Last: Why Some Teams Pull Together and Others Don’t** by Simon Sinek - (*Kindle* and *Audible*)"
+date: 2017-01-07
+categories: [2017, Kindle, Audible, non-fiction, leadership]
+image: leaders-eat-last.jpg
+---
+![**Leaders Eat Last: Why Some Teams Pull Together and Others Don’t** by Simon Sinek](leaders-eat-last.jpg){fig-align="left"}
+
+(*Kindle Edition* and *Audible Unabridged*)

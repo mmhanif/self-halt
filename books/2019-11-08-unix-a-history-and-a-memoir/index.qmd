@@ -1,0 +1,12 @@
+---
+title: "Unix - A History and a Memoir"
+description: "**Unix: A History and a Memoir** by Brian W. Kernighan"
+date: 2019-11-08
+categories: [books, 2019, Paperback, non-fiction, memoir, computer-science]
+image: unix-a-history-and-a-memoir.jpg
+---
+![**Unix: A History and a Memoir** by Brian W. Kernighan](unix-a-history-and-a-memoir.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781695978553</sup>
+
+*Paperback*

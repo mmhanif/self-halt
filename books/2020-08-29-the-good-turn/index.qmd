@@ -1,0 +1,12 @@
+---
+title: "The Good Turn"
+description: "**The Good Turn** by Dervla McTiernan"
+date: 2020-08-29
+categories: [books, fiction, 2020, Audible]
+image: the-good-turn.jpg
+---
+![**The Good Turn** by Dervla McTiernan](the-good-turn.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780751578300</sup>
+
+*Audible*

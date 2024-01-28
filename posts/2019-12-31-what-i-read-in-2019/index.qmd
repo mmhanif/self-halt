@@ -1,0 +1,95 @@
+---
+title:  "What I read in 2019"
+categories: [books, lists]
+date: "12/31/2019"
+date-modified: "1/10/2024"
+image: 2019Books.png
+execute:
+  echo: false
+jupyter: python3
+---
+![](2019Books.png){fig-align="left"}
+I managed to read [36 books in 2019](#fig-y2019) - slightly off my target of 40, but not bad considering extenuating circumstances. For full disclosure, the total of 36 does include 5 'Audible Originals' that are shorter than a typical book - and in some cases, a bit of a stretch to be called a book. On the other hand the longest book I 'read' - [Cryptonomicon](../../books/2019-06-01-cryptonomicon) - was a whopping 1,139 pages / 42 hrs and 44 minutes listening time! The vast majority were audiobooks, but I have started reading physical books again rather than just e-books.
+
+**Favorite non-fiction books that I read in 2019:**
+[*The Half Has Never Been Told*](../../books/2019-04-08-the-half-has-never-been-told) by Edward R. Baptist was an eye-opening account of slavery in the period between Independence and the Civil War. He shows in detail how capitalism and profit drove the slave trade, the systematic torture that produced ever increasing cotton yields and how US and European banks created financial instruments with slaves as the underlying collateral.
+
+[*Educated*](../../books/2019-04-19-educated) by Tara Westover deservedly made a lot of 'Best of 2018' book lists. It is a gripping and at times difficult-to-read memoir of a girl growing up in a survivalist Mormon family. Difficult because many of her experiences growing up are so harrowing. How she went from being (barely) home-schooled on an Idaho mountain-side to studying in Cambridge and Harvard is worth every minute you spend reading it.
+
+I loved [*Algorithms to Live By*](../../books/2019-03-05-algorithms-to-live-by) by Brian Christian and Tom Griffiths, especially as a software developer who studied Electrical Engineering rather than Computer Science and have never really got the grounding in Algorithms that CS majors have. This is in no way a dry text book but an enjoyable tour through different categories of algorithms and how they have relevance in every day life outside of a computer program.
+
+[*Thinking in Systems: A Primer*](../../books/2019-08-20-thinking-in-systems-a-primer) by Donnella Meadows was originally published in 2008 and was a Farnam Street blog recommendation. It's starts off with the basics of systems' modelling and feedback mechanisms. Again not a textbook, but an easy to read introduction to systems analysis and how to apply to it to real-world problems. Even though modeling feedback control systems was something I had done back in university, I still found this a valuable read.
+
+[*Rebooting AI*](../../books/2019-12-20-rebooting-ai) by Gary Marcus and Ernest Davis is a useful counterbalance to the current hyperbole around AI. The authors make a convincing argument that current machine learning methods, including deep learning, are not sufficient to achieve anything like true Artificial *General* Intelligence. What's not so clear is what, if anything, will get us there - the authors argue for a renewed focus on understanding human cognition with a hybrid of current machine learning with symbolic inference based on knowledge-bases being the way forward.
+
+I approached Malcom Gladwell's [*Talking To Strangers*](../../books/2019-10-14-talking-to-strangers) with some trepidation. He is a great storyteller and his books are always a pleasure to read, but the premise or theory underlying some of his previous books (e.g. *Blink* or *Outliers*) has often turned out to be somewhat flawed. His latest book doesn't seem to have a (to my mind at least) controversial underlying theory, so hopefully will stand the test of time better. As an aside, this book seems to be an exception to the general rule that authors shouldn't narrate their own books and in fact makes great use of the audiobook format, using actual recordings of interviews wherever possible.
+
+Michael Lewis is another great storyteller, and when I finally got around to listening to [*The Undoing Project*](../../books/2019-12-31-the-undoing-project) I wasn't disappointed. Maybe I'll make another attempt at finishing Daniel Kahneman's *Thinking, Fast and Slow* in 2020!
+
+**Favorite fiction books that I read in 2019:**
+In non-fiction, I really liked [*Recursion*](../../books/2019-06-19-recursion) by Blake Crouch - I'm a sucker for anything time-travel related and this story was very well done I thought. I discovered Dervla McTiernan and her detective novels, [*The Ruin*](../../books/2019-11-22-the-ruin) and [*The Scholar*](../../books/2019-11-24-the-scholar) set in my hometown of Galway - she's no Tana French, but writing is decent enough and the setting makes them compelling, at least for me. Continuing the Irish theme, [*A Keeper*](../../books/2019-08-10-a-keeper) and [*Holding*](../../books/2019-02-28-holding) by Graham Norton were enjoyable. The premise of [*Redshirts*](../../books/2019-12-05-redshirts) by John Scalzi was very clever and enough to keep me interested through some strangely stilted language. I recommend [*Righteous*](../../books/2019-01-05-righteous) and [*Wrecked*](../../books/2019-03-01-wrecked) by Joe Ide for fans of detective novels and, of course, Michael Connelly ([The Night Fire](../../books/2019-10-26-the-night-fire)) never fails to please
+
+**In it's own category...**
+I guess that strictly speaking it's in the fiction category, but [*The Unicorn Project*](../../books/2019-12-01-the-unicorn-project) by Gene Kim is a compelling read for anyone working in software development, especially in an enterprise environment. The follow-up to the brilliant [*The Phoenix Project*](https://itrevolution.com/book/the-phoenix-project/), the Unicorn Project is actually set during the same period as the earlier book and gives the Dev side of the DevOps, whereas the Phoenix Project's viewpoint was more the Ops side.
+
+## Full book list
+```{python}
+import pandas as pd
+from itables import init_notebook_mode
+init_notebook_mode(all_interactive=False)
+
+df = pd.read_csv("y2019.csv")
+df.rename({'book_type': 'Type'}, axis=1, inplace=True)
+
+def link(row):
+  return f'<a href="../../books/{row.dir_name}">{row.Title}</a>'
+
+df["Book Title"] = df.apply(link, axis=1)
+df = df.sort_values(by=['Book Title']).reset_index()
+df['#'] = df.index+1
+```
+
+```{python}
+#| label: fig-y2019
+#| fig-cap: "All the books I read in 2019"
+
+# df.to_html(index=False, columns=['#', 'Book Title', 'Author', 'Type', 'Genre', 'My Rating'], escape=False)
+from itables import show
+table_df = df[['#', 'Book Title', 'Author', 'Type', 'Genre']]
+show(table_df, 
+      paging=False, 
+      classes="display compact",
+      columnDefs=[{"className": "dt-left", "targets": "_all"}]
+      )
+```
+```{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{p:.0f}%\n({v:d} books)'.format(p=pct,v=val)
+    return my_autopct
+
+def plot_col(df, col):
+  fig, ax = plt.subplots(figsize=(18, 8), subplot_kw=dict(aspect="equal"))
+  data = df[col].value_counts()
+  wedges, texts, autotexts = ax.pie(data, autopct=make_autopct(data),
+                                    textprops=dict(color="w"))
+  ax.legend(wedges, data.index,
+            title="Genre",
+            loc="center left",
+            bbox_to_anchor=(1, 0, 0.5, 1))
+  plt.setp(autotexts, size=10, weight="bold")
+  ax.set_title(f"Books by {col}")
+  plt.show()
+```
+## Pie Charts
+```{python}
+plot_col(df, "Genre")
+```
+```{python}
+plot_col(df, "Type")
+```

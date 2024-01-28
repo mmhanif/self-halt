@@ -1,0 +1,10 @@
+---
+title: "Bayes Theorem: A Visual Introduction For Beginners"
+description: "**Bayes Theorem: A Visual Introduction For Beginners** by Dan Morris - (*Kindle*)"
+date: 2018-03-18
+categories: [2018, Kindle]
+image: bayes-theorem-visual-introduction.jpg
+---
+![**Bayes Theorem: A Visual Introduction For Beginners** by Dan Morris - (*Kindle*)](bayes-theorem-visual-introduction.jpg){fig-align="left"}
+
+A short book that attempts to provide an intuitives introduction to Bayes Theorem using Venn Diagrams and Decision Trees. The worked through examples are simple ones and although it does mention real-life problems that were solved using Bayes Theorem it doesnt walk through the application of the theorem in any detail for these cases. This is fair enough as it does state that it's an introduction for beginners, as the book is succesful in that stated goal.

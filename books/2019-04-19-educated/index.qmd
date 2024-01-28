@@ -1,0 +1,16 @@
+---
+title: "Educated"
+description: "**Educated** by Tara Westover"
+date: 2019-04-19
+categories: [books, 2019, Audible, non-fiction, memoir]
+image: educated.jpg
+---
+![**Educated** by Tara Westover](educated.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780399590504</sup>
+
+*Audible*
+
+""An unforgettable memoir about a young girl who, kept out of school, leaves
+her survivalist family and goes on to earn a PhD from Cambridge University"
+--Amazon.com."

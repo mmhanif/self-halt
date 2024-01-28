@@ -1,0 +1,22 @@
+---
+title: "Beyond The Phoenix Project"
+description: "**Beyond The Phoenix Project** by Gene Kim, John Willis"
+date: 2019-04-25
+categories: [books, 2019, Audible, podcast, non-fiction]
+image: beyond-the-phoenix-project.jpg
+---
+![**Beyond The Phoenix Project** by Gene Kim, John Willis](beyond-the-phoenix-project.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781942788256</sup>
+
+*Audible*
+
+"This is a companion transcript of the audio series, Beyond The Phoenix
+Project, intended to be used for reference and to enable further research
+of cited material, and not as a standalone work. In the audio series, Gene
+Kim and John Willis present a nine-part discussion that includes an oral
+history of the DevOps movement, as well as discussions around pivotal
+figures and philosophies that DevOps draws upon, from Goldratt to Deming;
+from Lean to Safety Culture to Learning Organizations.The book is a great
+way for listeners to take an even deeper dive into topics relevant to
+DevOps and leading technology organizations."

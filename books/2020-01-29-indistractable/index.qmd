@@ -1,0 +1,19 @@
+---
+title: "Indistractable"
+description: "**Indistractable** by Nir Eyal"
+date: 2020-01-29
+categories: [books, non-fiction, 2020, Kindle]
+image: indistractable.jpg
+---
+![**Indistractable** by Nir Eyal](indistractable.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781948836531</sup>
+
+*Kindle*
+
+**Publisher's Description:**
+
+"With groundbreaking research and exclusive interviews, Nir Eyal, author of
+the bestselling Hooked, lays bare the processes of distractions and how we
+can finally get them under control to give people the ultimate superpower
+of the 21st century: being indistractable."

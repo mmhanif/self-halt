@@ -1,0 +1,31 @@
+---
+title: "Nutshell"
+description: "**Nutshell** by Ian McEwan"
+date: 2021-08-24
+categories: [books, fiction, 2021, Audible]
+image: nutshell.jpg
+---
+![**Nutshell** by Ian McEwan](nutshell.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781911214335</sup>
+
+*Audible*
+
+A book with a unique premise - the narrator is the highly precocious but as yet
+unborn child still in the womb of one of the main charachters, Trudy. He hears
+everything that Trudy does and experiences everything she eats and drink,
+developing a taste of red wine.
+
+Worth reading if only for the uniqueness of the viewpoint but it does drag on
+towards the end, and none of the characters are particularly likeable.
+
+**Publisher's Description:**
+"**The Number One Sunday Times bestseller** A Daily Telegraph / Guardian /
+Irish Times / Spectator / Sunday Times / The Times Book of the Year Trudy
+has betrayed her husband, John. She's still in the marital home - a
+dilapidated, priceless London townhouse - but not with John. Instead, she's
+with his brother, the profoundly banal Claude, and the two of them have a
+plan. But there is a witness to their plot: the inquisitive, nine-month-old
+resident of Trudy's womb. Told from a perspective unlike any other,
+Nutshell is a classic tale of murder and deceit from one of the world's
+master storytellers."

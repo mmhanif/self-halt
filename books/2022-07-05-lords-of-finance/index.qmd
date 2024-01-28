@@ -1,0 +1,30 @@
+---
+title: "Lords Of Finance"
+description: "**Lords Of Finance** by Liaquat Ahamed"
+date: 2022-07-05
+categories: [books, non-fiction, 2022, Audible]
+image: lords-of-finance.jpg
+---
+![**Lords Of Finance** by Liaquat Ahamed](lords-of-finance.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780099493082</sup>
+
+*Audible*
+
+Fascinating account of the period after the First World War where many countries fell into recession and depression and the attempts of key central bankers to try and prevent that from happening but that often made things worse. I feel understand the role of central banks much better after reading this.
+
+**Publisher's Description:**
+"THIS HAS HAPPENED BEFORE. The current financial crisis has only one
+parallel: the Wall Street Crash of 1929 and subsequent Great Depression of
+the 1930s, which crippled the future of an entire generation and set the
+stage for the horrors of the Second World War. Yet the economic meltdown
+could have been avoided, had it not been for the decisions taken by a small
+number of central bankers. In Lords of Finance, we meet these men, the four
+bankers who truly broke the world: the enigmatic Norman Montagu of the bank
+of England, Benjamin Strong of the NY Federal Reserve, the arrogant yet
+brilliant Hjalmar Schacht of the Reichsbanlk and the xenophobic Emile
+Moreau of the Banque de France. Their names were lost to history, their
+lives and actions forgotten, until now. Liaquat Ahamed tells their story in
+vivid and gripping detail, in a timely and arresting reminder that
+individuals - their ambitions, limitations and human nature - lie at the
+very heart of global catastrophe."
