@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2017-07-31">
+<meta name="description" content="Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher">
+
+<title>self halt - Blockchain Basics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="self halt - Blockchain Basics">
+<meta property="og:description" content="Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher">
+<meta property="og:image" content="https://blog.hanif.io/books/2017-07-31-blockchain-basics/blockchain-basics.jpg">
+<meta property="og:site-name" content="self halt">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">self halt</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">Mahmood Hanif</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../books.html" rel="" target="">
+ <span class="menu-text">book log</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Blockchain Basics</h1>
+                  <div>
+        <div class="description">
+          <strong>Blockchain Basics: A Non-Technical Introduction in 25 Steps</strong> by Daniel Drescher
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">2017</div>
+                <div class="quarto-category">ebook</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 31, 2017</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#model" id="toc-model" class="nav-link active" data-scroll-target="#model">Model</a>
+  <ul class="collapse">
+  <li><a href="#stage-1-terminology-and-technical-foundations" id="toc-stage-1-terminology-and-technical-foundations" class="nav-link" data-scroll-target="#stage-1-terminology-and-technical-foundations">Stage 1: Terminology and Technical Foundations</a></li>
+  <li><a href="#stage-2-why-the-blockchain-is-needed" id="toc-stage-2-why-the-blockchain-is-needed" class="nav-link" data-scroll-target="#stage-2-why-the-blockchain-is-needed">Stage 2: Why the Blockchain is needed</a></li>
+  <li><a href="#stage-3-how-the-blockchain-works" id="toc-stage-3-how-the-blockchain-works" class="nav-link" data-scroll-target="#stage-3-how-the-blockchain-works">Stage 3: How the Blockchain works</a></li>
+  <li><a href="#stage-4-limitations-and-how-to-overcome-them" id="toc-stage-4-limitations-and-how-to-overcome-them" class="nav-link" data-scroll-target="#stage-4-limitations-and-how-to-overcome-them">Stage 4: Limitations and how to overcome them</a></li>
+  <li><a href="#stage-5-using-the-blockchain-summary-and-outlook" id="toc-stage-5-using-the-blockchain-summary-and-outlook" class="nav-link" data-scroll-target="#stage-5-using-the-blockchain-summary-and-outlook">Stage 5: Using the Blockchain, Summary and Outlook</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="blockchain-basics.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><strong>Blockchain Basics: A Non-Technical Introduction in 25 Steps</strong> by Daniel Drescher</figcaption>
+</figure>
+</div>
+<p>(<em>ePub [Apress]</em>)</p>
+<p>I haven’t read a large number of Blockchain to be able to compare this with others, but I was looking for an introduction that didn’t immediately dive into code or waffle-on at length about the how the technology will transform life as we know it. This book fit the bill pretty well.</p>
+<section id="model" class="level2">
+<h2 class="anchored" data-anchor-id="model">Model</h2>
+<p>The book consists of 25 steps, grouped into 5 major stages, that all together form a learning pathm which incrementally builds the reader’s knowledge of the blockchain.</p>
+<section id="stage-1-terminology-and-technical-foundations" class="level3">
+<h3 class="anchored" data-anchor-id="stage-1-terminology-and-technical-foundations">Stage 1: Terminology and Technical Foundations</h3>
+<section id="step-1-thinking-in-layers-and-aspects" class="level4">
+<h4 class="anchored" data-anchor-id="step-1-thinking-in-layers-and-aspects">Step 1: Thinking in layers and aspects</h4>
+<ul>
+<li>Systems can be partioned into application vs implementation and functional vs non-functional aspects.</li>
+<li>Integrity is a major non-functional aspect, and has three major components:
+<ul>
+<li>Data Integrity</li>
+<li>Behavioural Integrity</li>
+<li>Security</li>
+</ul></li>
+<li>Most software failures are the result of violated system integrity.</li>
+</ul>
+</section>
+<section id="step-2-software-architecture-and-its-relation-to-the-blockchain" class="level4">
+<h4 class="anchored" data-anchor-id="step-2-software-architecture-and-its-relation-to-the-blockchain">Step 2: Software Architecture and it’s relation to the Blockchain</h4>
+<ul>
+<li>Software architectures can be <em>centralized</em> or <em>distributed</em>.</li>
+<li>The blockchain is part of the implementation of a distributed software system*</li>
+<li>The purpose of the blockchain is to achieve and maintain the integrity of a distributed software system</li>
+</ul>
+</section>
+<section id="step-3-recognizing-the-potential-of-peer-to-peer-systems" class="level4">
+<h4 class="anchored" data-anchor-id="step-3-recognizing-the-potential-of-peer-to-peer-systems">Step 3: Recognizing the potential of peer-to-peer systems</h4>
+<ul>
+<li>Peer-to-peer systems are a specific type of distributed system that allow direct interactions between contractual partners rather than indirect interactions through a middleman.</li>
+</ul>
+</section>
+</section>
+<section id="stage-2-why-the-blockchain-is-needed" class="level3">
+<h3 class="anchored" data-anchor-id="stage-2-why-the-blockchain-is-needed">Stage 2: Why the Blockchain is needed</h3>
+<section id="step-4-discovering-the-core-problem" class="level4">
+<h4 class="anchored" data-anchor-id="step-4-discovering-the-core-problem">Step 4: Discovering the core problem</h4>
+<ul>
+<li>Integrity and trust are major concerns of peer-to-peer (P2P) systems</li>
+<li>Major integrity threats in P2P systems are:
+<ul>
+<li>Technical failures</li>
+<li>Malicious peers</li>
+</ul></li>
+<li>The blockchain addresses integrity of a purely distributed P2P system comprised of an unknown number of peers with unknown reliability and trustworthiness.</li>
+</ul>
+</section>
+<section id="step-5-disambiguating-the-term---4-ways-to-define-the-blockchain" class="level4">
+<h4 class="anchored" data-anchor-id="step-5-disambiguating-the-term---4-ways-to-define-the-blockchain">Step 5: Disambiguating the term - 4 ways to define the blockchain*</h4>
+<ul>
+<li>The term blockchain can be used as:
+<ul>
+<li>a name for a data-structure: data in units called blocks, connected together like a chain.</li>
+<li>a name for an algorithm: the sequence of intructions that negotiated the information content of many blockchain-data-structured in a P2P system.</li>
+<li>a name for a suite of technologies: a combination of blockchain data-structure, algorithm and cryptographic and security technlogies that together achieve integrity in a P2P system.</li>
+<li>an umbrella term for purely distributed P2P systems with a common application area</li>
+</ul></li>
+<li>Managing ans clarifying ownership is the most prominent application of the blockchain, but not the only one.</li>
+<li>The blockchain is a purely distributed peer-to-peer system of ledgers that utilizes a software unit that consist of an algorithm, which negotiates the informational content of ordered and connected blocks of data together with cryptographic and security technologies in order to achieve and maintain its integrity.</li>
+</ul>
+</section>
+<section id="step-6-understanding-the-nature-of-ownership" class="level4">
+<h4 class="anchored" data-anchor-id="step-6-understanding-the-nature-of-ownership">Step 6: Understanding the nature of ownership</h4>
+<ul>
+<li>Proof of ownership has 3 elements:
+<ul>
+<li>Identification of the owner</li>
+<li>Identification of the object being owned</li>
+<li>Mapping the owner to the object</li>
+</ul></li>
+<li>Mapping between owners and object can be maintained in a ledger.</li>
+<li>Having one ledger is risky as it can be damaged, destroyed or forged.</li>
+<li>Can utilize a group of independent ledgers and define ownership based in that version of reality on which the majority of ledgers agree.</li>
+<li>The blockchain algorith is responsible for letting individual nodes in a blockchain collectively arrive at one consitent version of the state of ownership.</li>
+<li>Cryptography is used to ensure identity, authentication and authorization.</li>
+<li>Integrity in a distributed P2P system of ledgers is found in it’s ability to make true statements about ownership and to ensure only the owner can transfer their property rights to others.</li>
+</ul>
+</section>
+<section id="step-7-spending-money-twice---examining-a-vulnerability-of-distributed-p2p-systems" class="level4">
+<h4 class="anchored" data-anchor-id="step-7-spending-money-twice---examining-a-vulnerability-of-distributed-p2p-systems">Step 7: Spending Money Twice - Examining a vulnerability of distributed P2P systems</h4>
+<ul>
+<li>Double-spending can be seen as a problem of maintaining data consistency in distributed P2P systems.</li>
+<li>The blockchain is a means to solving the double spending problem</li>
+</ul>
+</section>
+</section>
+<section id="stage-3-how-the-blockchain-works" class="level3">
+<h3 class="anchored" data-anchor-id="stage-3-how-the-blockchain-works">Stage 3: How the Blockchain works</h3>
+<section id="step-8-planning-the-blockchain" class="level4">
+<h4 class="anchored" data-anchor-id="step-8-planning-the-blockchain">Step 8: Planning the blockchain</h4>
+<ul>
+<li>The following tasks are necessary to design a distributed P2P system of ledgers for managing ownership:
+<ul>
+<li>Describing ownership</li>
+<li>Protecting ownership from unauthorized access</li>
+<li>Storing transaction data</li>
+<li>Preparing ledgers to be distributed in an untrustworthy environment</li>
+<li>Distributing the ledgers</li>
+<li>Adding and verifying new transactions to the ledgers</li>
+<li>Deciding which ledgers represent the truth</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-9-documenting-ownership" class="level4">
+<h4 class="anchored" data-anchor-id="step-9-documenting-ownership">Step 9: Documenting Ownership</h4>
+<ul>
+<li>Transaction data provide the following information for describing a transfer of ownership:
+<ul>
+<li>An identifier of the account who initiates the transaction and is to transfer ownership to another account</li>
+<li>An identifier of that account that is to receive ownership</li>
+<li>The amount of the goods to be transferred</li>
+<li>The time the transaction is to be done</li>
+<li>A fee to be paid to the system for executing the transaction</li>
+<li>A proof that the owner of the account who hands off ownership agrees with that transfer</li>
+</ul></li>
+<li>The complete history of transaction data is an audit trail that provides evidence of how people acquired and handed off ownership.</li>
+<li>Any transaction not being part of that history is regarded as if it never happened.</li>
+<li>A transaction is executed by adding it to the history of transaction data and allowing it to influence the result of aggregating them.</li>
+<li>The order in which transaction data are added to the history must be preserved in order to yield identical results when aggregating these data.</li>
+<li>In order to maintain integrity, only those transaction data are added to the blockchain-data-structure that fulfill the following three criteria:
+<ul>
+<li>Formal correctness</li>
+<li>Semantic correctness</li>
+<li>Authorization</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-10-hashing-data" class="level4">
+<h4 class="anchored" data-anchor-id="step-10-hashing-data">Step 10: Hashing Data</h4>
+<ul>
+<li>Hash functions transform any kind of data into a number of fixed length, regardless of the size of the input data.</li>
+<li>There are many different hash functions that differ among others with respect to the length of the hash value they produce.</li>
+<li>Cryptographic hash functions are an important group of hash functions that create digital fingerprints for any kind of data.</li>
+<li>Cryptographic hash functions exhibit the following properties:
+<ul>
+<li>Provide hash values for any kind of data quickly</li>
+<li>Deterministic</li>
+<li>Pseudorandom</li>
+<li>One-way usage</li>
+<li>Collision resistant</li>
+</ul></li>
+<li>Application of hash functions to data can be accomplished by using the following patterns:
+<ul>
+<li>Repeated hashing</li>
+<li>Independent hashing</li>
+<li>Combined hashing</li>
+<li>Sequential hashing</li>
+<li>Hierarchical hashing</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-11-hashing-in-the-real-world" class="level4">
+<h4 class="anchored" data-anchor-id="step-11-hashing-in-the-real-world">Step 11: Hashing in the real world</h4>
+<ul>
+<li>Hash values can be used:
+<ul>
+<li>To compare data</li>
+<li>To detect whether data that were supposed to stay unchanged have been altered</li>
+<li>To refer to data in a change-sensitive manner</li>
+<li>To store a collection of data in a change-sensitive manner</li>
+<li>To create computationally expensive tasks</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-12-identifying-and-protecting-user-accounts" class="level4">
+<h4 class="anchored" data-anchor-id="step-12-identifying-and-protecting-user-accounts">Step 12: Identifying and protecting user accounts</h4>
+<ul>
+<li>The major goal of cryptography is to protect data from being accessed by unauthorized people.</li>
+<li>The major cryptographic activities are:
+<ul>
+<li>Encryption: Protecting data by turning them into cypher text by utilizing a cryptographic key</li>
+<li>Decryption: Turning cypher text back into useful data by utilizing a matching cryptographic key</li>
+<li>Asymmetric cryptography always uses two complementary keys: cypher text created with one of these keys can only be decrypted with the other key and vice versa.</li>
+</ul></li>
+<li>When utilizing asymmetric cryptography in real life, these keys are typically called the public key and private key in order to highlight their role. The public key is shared with everyone, while the private key is kept secret. For this reason, asymmetric cryptography is also called public-private-key cryptography.</li>
+<li>There are two classical use cases of public and private keys:
+<ul>
+<li>Everyone uses the public key to encrypt data that can only be decrypted by the owner of the corresponding private key. This is the digital equivalent to a public mailbox where everyone can put letters in but only the owner can open it.</li>
+<li>The owner of the private key uses it to encrypt data that can be decrypted by everyone who possesses the corresponding public key. This is the digital equivalent to a public notice board that proves authorship.</li>
+</ul></li>
+<li>The blockchain uses asymmetric cryptography in order to achieve two goals:
+<ul>
+<li>Identifying accounts: User accounts are public cryptographic keys.</li>
+<li>Authorizing transactions: The owner of the account who hands off ownership creates a piece of cypher text with the corresponding private key. This piece of cypher text can be verified by using the corresponding public key, which happens to be the number of the account that hands off ownership.</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-13-authorizing-transactions" class="level4">
+<h4 class="anchored" data-anchor-id="step-13-authorizing-transactions">Step 13: Authorizing transactions</h4>
+<ul>
+<li>Digital signatures are the digital equivalent to handwritten signatures and serve two purposes:
+<ul>
+<li>Identify its author uniquely</li>
+<li>State agreement of its author with the content of a document and authorize its execution</li>
+</ul></li>
+<li>In the blockchain, digital signatures of transactions are cryptographic hash values of transaction data encrypted with the private key that corresponds to the account that hands off ownership.</li>
+<li>Digital signatures in the blockchain can be trace back uniquely to one specific private key and to one specific transaction in one process.</li>
+</ul>
+</section>
+<section id="step-14-storing-transaction-data" class="level4">
+<h4 class="anchored" data-anchor-id="step-14-storing-transaction-data">Step 14: Storing transaction data</h4>
+<ul>
+<li>The blockchain-data-structure is a specific kind of data structure that is made up of ordered units called blocks.</li>
+<li>Each block of the blockchain-data-structure consists of a block header and a Merkle tree that contains transaction data.</li>
+<li>The blockchain-data-structure consists of two major data structures: an ordered chain of block headers and Merkle trees.</li>
+<li>One can imagine the ordered chain of block headers as being the digital equivalent to an old-fashioned library card catalog, where the individual catalog cards are sorted according to the order in which they were added to the catalog.</li>
+<li>Having each block header referencing its preceding block header preserves the order of the individual block headers and blocks, respectively, that make up the blockchain-data-structure.</li>
+<li>Each block header in the blockchain-data-structure is identified by its cryptographic hash value and contains a hash reference to its preceding block header and a hash reference to the application-specific data whose order it maintains.</li>
+<li>The hash reference to the application-specific data is typically the root of a Merkle tree that maintains hash references to the application-specific data.</li>
+</ul>
+</section>
+<section id="step-15-using-the-data-store---chaining-blocks-of-data" class="level4">
+<h4 class="anchored" data-anchor-id="step-15-using-the-data-store---chaining-blocks-of-data">Step 15: Using the data store - chaining blocks of data</h4>
+<ul>
+<li>The steps to be performed in order to add new transaction data to the blockchain-data-structure are:
+<ul>
+<li>Create a new Merkle tree that contains all new transaction data to be added.</li>
+<li>Create a new block header that contains both a hash reference to its preceding header and the root of the Merkle tree that contains the new transaction data.</li>
+<li>Create a hash reference to the new block header, which is now the current head of the blockchain-data-structure.</li>
+</ul></li>
+<li>Changing data in the blockchain-data-structure requires renewing all hash references starting with the one that directly points to the manipulated data and ending with the head of the whole blockchain-data-structure as well as all hash references in between them.</li>
+<li>The blockchain-data-structure pursues a radical all-or-nothing approach when it comes to changing its data: One either changes the whole data structure completely starting from the point that causes the change until the head of the whole chain or one better leave it unchanged in the first place.</li>
+<li>All half-hearted, halfway through, or partial changes will leave the whole blockchain-data-structure in an inconsistent state, which will be detected easily and quickly.</li>
+<li>Changing the blockchain-data-structure completely is a very elaborate process on purpose.</li>
+<li>The high sensitivity of the blockchain-data-structure regarding changes is due to the properties of hash references.</li>
+</ul>
+</section>
+<section id="step-16-protecting-the-data-store---discovering-the-power-of-immutability" class="level4">
+<h4 class="anchored" data-anchor-id="step-16-protecting-the-data-store---discovering-the-power-of-immutability">Step 16: Protecting the data store - discovering the power of immutability</h4>
+<ul>
+<li>The blockchain protects the history of transaction data from manipulation and forgery by storing transaction data in an immutable data store.</li>
+<li>The history of a transaction is made immutable by utilizing two ideas:
+<ul>
+<li>Storing the transaction data in the change-sensitive blockchain-data-structure, which when being changed requires rewriting the data structure starting at the point that causes the change until the head of the whole chain.</li>
+<li>Requiring the solution of a hash puzzle for writing, rewriting, or adding every single block header in the blockchain-data-structure.</li>
+</ul></li>
+<li>The hash puzzle is unique for each block header because it depends on its unique content.</li>
+<li>The need to rewrite the blockchain-data-structure when it is changed and the costs of doing so make it unattractive to manipulate the history of transaction data in the first place.</li>
+<li>Requiring the solution of a hash puzzle for every writing, rewriting or adding of block headers in the blockchain-data-structure turns is into an append-only data store.</li>
+<li>A block header contains at least the following data:
+<ul>
+<li>A hash reference to the header of its preceding block</li>
+<li>The root of a Merkle tree that contains transaction data</li>
+<li>The difficulty of its hash puzzle</li>
+<li>The time when solving the hash puzzle was started</li>
+<li>The nonce that solves the hash puzzle</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-17-distributing-the-data-store-among-peers" class="level4">
+<h4 class="anchored" data-anchor-id="step-17-distributing-the-data-store-among-peers">Step 17: Distributing the data store among peers</h4>
+<ul>
+<li>Computers in a distributed peer-to-peer system communicate with one another via a digital network.</li>
+<li>Due to the omnipresence of the Internet, it is compelling to create a distributed peer-to-peer system by connecting the individual nodes via the Internet.</li>
+<li>A peer-to-peer system that uses the Internet as a medium of communication is characterized by the following facts:
+<ul>
+<li>The computers are connected with one another via the Internet.</li>
+<li>Each computer is identified by a unique address.</li>
+<li>Each computer can disconnect and reconnect to the system at any given time.</li>
+<li>Each computer independently maintains a list of peers with which it communicates.</li>
+<li>Communication between nodes is based on messages.</li>
+<li>Messages are sent from one node to another over the Internet by using their unique addresses.</li>
+</ul></li>
+<li>Due to the adversaries of networks, the communication among the nodes is characterized by the following facts:
+<ul>
+<li>Messages are not guaranteed to arrive at the addressees, but they may get lost instead.</li>
+<li>Messages may arrive more than once.</li>
+<li>Messages may arrive in a different order than they were sent.</li>
+</ul></li>
+<li>The blockchain counteracts the adversaries of communicating over an unreliable network in the following ways:
+<ul>
+<li>Messages are sent in a gossip style. Every node that receives a message will forward it to the peers it communicates with, which in turn will handle the message in the same way.</li>
+<li>Duplicates of transactions or blocks are identified and filtered out based on their cryptographic hash values.</li>
+<li>Each node can order the received information because transaction data and block headers contain time stamps.</li>
+</ul></li>
+<li>The communication among the computers that make up the peer-to-peer system serves the following three purposes:
+<ul>
+<li>Keeping existing connections alive</li>
+<li>Establishing new connections</li>
+<li>Distributing new information</li>
+</ul></li>
+<li>Forwarding ownership-related information happens on three occasions:
+<ul>
+<li>In an ongoing fashion by forwarding new transaction data and new blocks to all nodes that are connected to the system</li>
+<li>As an update for nodes that reconnect to the system after being disconnected for a while</li>
+<li>As part of the on-boarding procedure that transfers a copy of the whole up-to-date version of the blockchain-data-structure to the new nodes to ensure that they become full-fledged nodes after joining the system</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-18-verifying-and-adding-transactions" class="level4">
+<h4 class="anchored" data-anchor-id="step-18-verifying-and-adding-transactions">Step 18: Verifying and adding transactions</h4>
+<ul>
+<li>The blockchain-algorithm is a series of rules and instructions that governs the way in which transaction data are processed and added to the system.</li>
+<li>The challenge solved by the blockchain-algorithm is to keep the system open to everyone while ensuring that only valid and authorized transactions are added.</li>
+<li>The blockchain-algorithm utilizes the carrot-and-stick approach, combined with competition and peer control.</li>
+<li>The major idea of the blockchain-algorithm is to allow all nodes of the system to act as supervisors of their peers and reward them for adding valid and authorized transactions and for finding errors in the work of others.</li>
+<li>Due to the rules of the blockchain-algorithm, all nodes of the system have an incentive to process transactions correctly and to supervise and point out any mistakes made by the other peers.”</li>
+<li>The blockchain-algorithm is based on the following concepts:
+<ul>
+<li>Validation rules for transaction data and block headers</li>
+<li>Reward for submitting valid blocks</li>
+<li>Punishment for counteracting the integrity of the system</li>
+<li>Competition among peers for earning reward based on processing speed and quality</li>
+<li>Peer control</li>
+</ul></li>
+<li>The rules of the competition establish a two-step rhythm that governs the work of every node in the network. At any given point in time, all nodes of the system are in either of the two phases:
+<ul>
+<li>Evaluating a new block that was created by others</li>
+<li>Trying hard to be the next node that creates a new block that has to be evaluated by all others</li>
+</ul></li>
+<li>The working rhythm is imposed by the arrival of messages at the individual nodes.</li>
+<li>The majority of honest nodes and their striving for reward will outweigh the attempts of dishonest nodes to counteract the integrity of the system.</li>
+</ul>
+</section>
+<section id="step-19-choosing-a-transaction-history" class="level4">
+<h4 class="anchored" data-anchor-id="step-19-choosing-a-transaction-history">Step 19: Choosing a transaction history</h4>
+<ul>
+<li>Delays in sending new blocks across the network or two nodes creating new blocks nearly at the same time cause the blockchain-data-structure to grow into the shape of a tree or a columnar cactus with branches that arise from a common trunk that represent conflicting versions of the transaction history.</li>
+<li>Selecting an identical version of the transaction history is a collective decision-making problem.</li>
+<li>Distributed consensus is an agreement among the members of a purely distributed peer-to-peer system in a collective decision-making problem.</li>
+<li>The collective decision-making problem of the blockchain is characterized by the following facts:
+<ul>
+<li>All nodes operate in the identical environment, consisting of the network, nodes that maintain their individual copies of the blockchain-data-structure, and the blockchain-algorithm that governs the behavior of the nodes.</li>
+<li>The decision-making problem is to select the identical transaction history across all nodes.</li>
+<li>All nodes strive to maximize their individual income earned as a reward for adding new valid blocks to the blockchain-data-structure.</li>
+<li>In order to achieve their goals, all nodes send their new blocks to all their peers to have them examined and accepted. As a result, each nodes leaves its individual footprint in the environment that is the collectively maintained blockchain-data-structure.</li>
+<li>All nodes use the identical criterion for selecting a history of transaction data.</li>
+</ul></li>
+<li>The longest-chain-criterion states that each node independently chooses the path of the tree-shaped blockchain-data-structure that contains the most blocks.</li>
+<li>The heaviest-chain-criterion states that each node independently chooses that path of the tree-shaped blockchain-data-structure that has the highest aggregated difficulty.</li>
+<li>Selecting one path of the tree-shaped blockchain-data-structure has the following consequences:
+<ul>
+<li>Orphan blocks</li>
+<li>Reclaimed reward</li>
+<li>Clarifying ownership</li>
+<li>Reprocessing of transactions</li>
+<li>A growing common trunk</li>
+<li>Eventual consistency</li>
+<li>Robustness against manipulations</li>
+</ul></li>
+<li>The deeper down the authoritative chain a block is located:
+<ul>
+<li>The further in the past it was added</li>
+<li>The more time has passed since its inclusion in the blockchain-data-structure</li>
+<li>The more common effort has been spent on adding subsequent blocks</li>
+<li>The less it is affected by random changes of the blocks that belong to the longest chain</li>
+<li>The less likely it will be abandoned</li>
+<li>The more accepted it is by the nodes of the system</li>
+<li>The more anchored it is in the common history of the nodes</li>
+</ul></li>
+<li>The fact that certainty concerning the inclusion of blocks in the authoritative chain increases as time goes by and as more blocks are added eventually is called eventually consistency.</li>
+<li>A 51 percent attack is an attempt to gather or control the majority of the whole voting power in a collective decision-making process with the goal to turn blocks that are part of the authoritative chain into orphan blocks and establish a new authoritative chain that contains a transaction history that is more favorable from the attackers point of view.</li>
+<li>A 51 percent attack has the following characteristics:
+<ul>
+<li>Economically: Changing the allocation of ownership rights by changing the collective history of transaction data.</li>
+<li>Decision making: Gathering the majority of voting power in order to enforce a desired result.</li>
+<li>Technically: Undermining the integrity of the system.</li>
+<li>Architecturally: Establish at least temporarily a hidden element of centrality that changes the state of the system.</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-20-paying-for-integrity" class="level4">
+<h4 class="anchored" data-anchor-id="step-20-paying-for-integrity">Step 20: Paying for Integrity</h4>
+<ul>
+<li>The blockchain utilizes fees for compensating its peers for contributing to the integrity of the system.</li>
+<li>The instrument of payment used to compensate peers has an impact on major aspects of the blockchain such as:
+<ul>
+<li>Integrity</li>
+<li>Openness</li>
+<li>The distributed nature</li>
+<li>The philosophy of the system</li>
+<li>Desirable properties of an instrument of payment for compensating peers are:</li>
+<li>Being available in digital form</li>
+<li>Being accepted in the real world</li>
+<li>Being accepted in all countries</li>
+<li>Not being the subject to capital movement restrictions</li>
+<li>Being trustworthy</li>
+<li>Not being controlled by one single central organization or state</li>
+</ul></li>
+<li>A cryptocurrency is an independent digital currency whose ownership is managed by a blockchain that uses it as an instrument of payment for compensating its peers for maintaining the integrity of the system.</li>
+</ul>
+</section>
+<section id="step-21-bringing-the-pieces-together" class="level4">
+<h4 class="anchored" data-anchor-id="step-21-bringing-the-pieces-together">Step 21: Bringing the pieces together</h4>
+<ul>
+<li>The blockchain is a purely distributed peer-to-peer system that addresses the following aspects of managing ownership:
+<ul>
+<li>Describing ownership: History of Transaction Data</li>
+<li>Protecting ownership: Digital Signature</li>
+<li>Storing transaction data: Blockchain-Data-Structure</li>
+<li>Preparing ledgers for being distributed: Immutability</li>
+<li>Distributing ledgers: Gossip-Style Information Forwarding Through a Network</li>
+<li>Processing new transactions: Blockchain-Algorithm</li>
+<li>Deciding which ledger represents the truth: Distributed Consensus</li>
+</ul></li>
+<li>Analyzing the blockchain involves the following aspects:
+<ul>
+<li>The application goal</li>
+<li>Its properties</li>
+<li>Its internal functioning</li>
+</ul></li>
+<li>The blockchain has two application goals:
+<ul>
+<li>Clarifying ownership</li>
+<li>Transferring ownership</li>
+</ul></li>
+<li>The blockchain fulfills its application goals while exhibiting the following qualities:
+<ul>
+<li>Highly available</li>
+<li>Censorship proof</li>
+<li>Reliable</li>
+<li>Open</li>
+<li>Pseudoanonymous</li>
+<li>Secure</li>
+<li>Resilient</li>
+<li>Eventually consistent</li>
+<li>Keeping integrity</li>
+</ul></li>
+<li>Internally the blockchain consists of components that are either specific or agnostic to the application goal of managing ownership.</li>
+<li>The application-specific components of the blockchain are:
+<ul>
+<li>Ownership logic</li>
+<li>Transaction data</li>
+<li>Transaction processing logic</li>
+<li>Transaction security</li>
+</ul></li>
+<li>The application-agnostic components are:
+<ul>
+<li>The blockchain-technology-suite</li>
+<li>The purely distributed peer-to-peer architecture</li>
+</ul></li>
+<li>The blockchain-technology-suite consists of:
+<ul>
+<li>Storage logic</li>
+<li>Consensus logic</li>
+<li>Data processing logic</li>
+<li>Asymmetric cryptography</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="stage-4-limitations-and-how-to-overcome-them" class="level3">
+<h3 class="anchored" data-anchor-id="stage-4-limitations-and-how-to-overcome-them">Stage 4: Limitations and how to overcome them</h3>
+<section id="step-22-seeing-the-limitations" class="level4">
+<h4 class="anchored" data-anchor-id="step-22-seeing-the-limitations">Step 22: Seeing the limitations</h4>
+<ul>
+<li>The openness of the blockchain and the absence of any form of central control are the fundamentals of its functioning but can also cause limitations for its adoption.</li>
+<li>Major technical limitations of the blockchain are:
+<ul>
+<li>Lack of privacy</li>
+<li>The security model</li>
+<li>Limited scalability</li>
+<li>High costs</li>
+<li>Hidden centrality</li>
+<li>Lack of flexibility</li>
+<li>Critical size</li>
+</ul></li>
+<li>The most important nontechnical limitations of the blockchain are:
+<ul>
+<li>Lack of legal acceptance</li>
+<li>Lack of user acceptance</li>
+<li>Technical limitations of the blockchain can be overcome by improving the existing technology or by introducing conceptual changes.</li>
+<li>The nontechnical limitations of the blockchain can be overcome by educational and legislative initiatives.</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-23-reinventing-the-blockchain" class="level4">
+<h4 class="anchored" data-anchor-id="step-23-reinventing-the-blockchain">Step 23: Reinventing the Blockchain</h4>
+<ul>
+<li>The blockchain inherently contains the following conflicts:
+<ul>
+<li>Transparency vs.&nbsp;privacy: On the one hand, transparency is needed for clarifying ownership and preventing double spending, but on the other hand, its users require privacy.</li>
+<li>Security vs.&nbsp;speed: On the one hand, protecting the history of transaction data from being manipulated is done by utilizing the computationally expensive proof of work, but on the other hand, speed and scalability are required in most commercial contexts.</li>
+</ul></li>
+<li>The transparency vs.&nbsp;privacy conflict has its root in the allocation of reading access rights to the blockchain-data-structure.</li>
+<li>The security vs.&nbsp;speed conflict has its root in the allocation of writing access rights to the blockchain-data-structure.</li>
+<li>Solving the transparency vs.&nbsp;privacy conflict led to the following versions of the blockchain:
+<ul>
+<li>Public blockchains grant reading access and the right to create new transactions to all users or nodes.</li>
+<li>Private blockchains limit reading access and the right to create new transactions to a preselected group of users or nodes.</li>
+</ul></li>
+<li>Solving the security vs.&nbsp;speed conflict led to the following versions of the blockchain:
+<ul>
+<li>Permissionless blockchains grant writing access to everyone. Every user or node can verify transaction data and create and add new blocks to the blockchain-data-structure.</li>
+<li>Permissioned blockchains grant writing access only to a limited group of preselected nodes or users that are identified as trustworthy through an on-boarding process.</li>
+</ul></li>
+<li>Combining these restrictions pairwise led to the emergence of four different kinds of blockchains.</li>
+<li>Restricting reading or writing access results in consequences on the following properties of the blockchain:
+<ul>
+<li>The peer-to-peer architecture</li>
+<li>The distributed nature</li>
+<li>Its purpose</li>
+</ul></li>
+<li>The blockchain-technology-suite causes value even in restricted environments for the following reasons:
+<ul>
+<li>The number of nodes can vary due to technical failures or downtime.</li>
+<li>Every distributed system faces the adversaries of networks that make communication on the level of individual messages unreliable.</li>
+<li>Even an on-boarding process may not guarantee the trustworthiness of nodes at a 100 percent level.</li>
+<li>Even trustworthy nodes may yield wrong results due to technical failures.</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="stage-5-using-the-blockchain-summary-and-outlook" class="level3">
+<h3 class="anchored" data-anchor-id="stage-5-using-the-blockchain-summary-and-outlook">Stage 5: Using the Blockchain, Summary and Outlook</h3>
+<section id="step-24-using-the-blockchain" class="level4">
+<h4 class="anchored" data-anchor-id="step-24-using-the-blockchain">Step 24: Using the Blockchain</h4>
+<ul>
+<li>The blockchain can be considered a purely distributed data store with additional properties such as being immutable, append-only, ordered, time-stamped, and eventually consistent.</li>
+<li>Being a generic data store means that the blockchain can store a wide range of data, which in turn makes it usable in a wide range of application areas.</li>
+<li>Based on its properties, we can identify the following generic-use patterns of the blockchain:
+<ul>
+<li>Proof of existence</li>
+<li>Proof of nonexistence</li>
+<li>Proof of time</li>
+<li>Proof of order</li>
+<li>Proof of identity</li>
+<li>Proof of authorship</li>
+<li>Proof of ownership</li>
+</ul></li>
+<li>Specific application areas of the blockchain that have already received attention or may receive attention in the future are:
+<ul>
+<li>Payments</li>
+<li>Cryptocurrencies</li>
+<li>Micropayments</li>
+<li>Digital assets</li>
+<li>Digital identity</li>
+<li>Notary services</li>
+<li>Compliance and audit</li>
+<li>Tax</li>
+<li>Voting</li>
+<li>Record management</li>
+</ul></li>
+<li>When analyzing specific blockchain applications or blockchain services, some questions need to be answered:
+<ul>
+<li>What kind of blockchain is used?</li>
+<li>Are the requirements for using the blockchain fulfilled?</li>
+<li>What is the added value of using a purely distributed peer-to-peer system?</li>
+<li>What is the application idea?</li>
+<li>What is the business case?</li>
+<li>How are peers compensated for contributing resources to the system?</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-25-summarizing-and-going-further" class="level4">
+<h4 class="anchored" data-anchor-id="step-25-summarizing-and-going-further">Step 25: Summarizing and going further</h4>
+<ul>
+<li>The blockchain has been and will continue to be the subject of further improvements and developments such as variations in its implementation, improving efficiency, improving scalability, and conceptual advances.</li>
+<li>Smart contracts, zero-knowledge proofs, and alternative ways to achieve consensus are major areas of conceptual advancement of the blockchain.</li>
+<li>Besides it technical merits, the blockchain may be honored for the following long-term accomplishments:
+<ul>
+<li>Disintermediation</li>
+<li>Automation</li>
+<li>Standardization</li>
+<li>Streamlining processes</li>
+<li>Increased processing speed</li>
+<li>Cost reduction</li>
+<li>Shift toward trust in protocols and technology</li>
+<li>Making trust a commodity</li>
+<li>Increased technology awareness</li>
+</ul></li>
+<li>Possible disadvantages of the blockchain are:
+<ul>
+<li>Lack of privacy</li>
+<li>Loss of personal responsibility</li>
+<li>Loss of jobs</li>
+<li>Reintermediation</li>
+</ul></li>
+<li>Possible usages of the blockchain to be seen in the future are:
+<ul>
+<li>Limited enthusiast projects</li>
+<li>Large-scale commercial projects</li>
+<li>Governmental projects</li>
+</ul></li>
+</ul>
+
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2020-01-20">
+<meta name="description" content="The Art Of Statistics by David Spiegelhalter">
+
+<title>self halt - The Art Of Statistics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="self halt - The Art Of Statistics">
+<meta property="og:description" content="The Art Of Statistics by David Spiegelhalter">
+<meta property="og:image" content="https://blog.hanif.io/books/2020-01-20-the-art-of-statistics/the-art-of-statistics.jpg">
+<meta property="og:site-name" content="self halt">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">self halt</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">Mahmood Hanif</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../books.html" rel="" target="">
+ <span class="menu-text">book log</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">The Art Of Statistics</h1>
+                  <div>
+        <div class="description">
+          <strong>The Art Of Statistics</strong> by David Spiegelhalter
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">books</div>
+                <div class="quarto-category">non-fiction</div>
+                <div class="quarto-category">2020</div>
+                <div class="quarto-category">Hardcover</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">January 20, 2020</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#notes" id="toc-notes" class="nav-link active" data-scroll-target="#notes">Notes</a>
+  <ul class="collapse">
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#getting-things-in-proportion" id="toc-getting-things-in-proportion" class="nav-link" data-scroll-target="#getting-things-in-proportion">Getting Things In Proportion</a></li>
+  <li><a href="#summarizing-and-communicating-numbers.-lots-of-number" id="toc-summarizing-and-communicating-numbers.-lots-of-number" class="nav-link" data-scroll-target="#summarizing-and-communicating-numbers.-lots-of-number">Summarizing and Communicating Numbers. Lots of Number</a></li>
+  <li><a href="#why-are-we-looking-at-data-anyway-populations-and-measurement" id="toc-why-are-we-looking-at-data-anyway-populations-and-measurement" class="nav-link" data-scroll-target="#why-are-we-looking-at-data-anyway-populations-and-measurement">Why Are We Looking At Data Anyway? Populations and Measurement</a></li>
+  <li><a href="#what-causes-what" id="toc-what-causes-what" class="nav-link" data-scroll-target="#what-causes-what">What Causes What?</a></li>
+  <li><a href="#modeling-relationships-using-regression" id="toc-modeling-relationships-using-regression" class="nav-link" data-scroll-target="#modeling-relationships-using-regression">Modeling Relationships Using Regression</a></li>
+  <li><a href="#algorithms-analytics-and-prediction" id="toc-algorithms-analytics-and-prediction" class="nav-link" data-scroll-target="#algorithms-analytics-and-prediction">Algorithms, Analytics and Prediction</a></li>
+  <li><a href="#how-sure-can-we-be-about-what-is-going-on-estimates-and-intervals" id="toc-how-sure-can-we-be-about-what-is-going-on-estimates-and-intervals" class="nav-link" data-scroll-target="#how-sure-can-we-be-about-what-is-going-on-estimates-and-intervals">How Sure Can We Be About What Is Going On? Estimates and Intervals</a></li>
+  <li><a href="#probability--the-language-of-uncertainty-and-variability" id="toc-probability--the-language-of-uncertainty-and-variability" class="nav-link" data-scroll-target="#probability--the-language-of-uncertainty-and-variability">Probability- the Language of Uncertainty and Variability</a></li>
+  <li><a href="#putting-probability-and-statistics-together" id="toc-putting-probability-and-statistics-together" class="nav-link" data-scroll-target="#putting-probability-and-statistics-together">Putting Probability and Statistics Together</a></li>
+  <li><a href="#answering-questions-and-claiming-discoveries" id="toc-answering-questions-and-claiming-discoveries" class="nav-link" data-scroll-target="#answering-questions-and-claiming-discoveries">Answering Questions and Claiming Discoveries</a></li>
+  <li><a href="#learning-from-experience-the-bayesian-way" id="toc-learning-from-experience-the-bayesian-way" class="nav-link" data-scroll-target="#learning-from-experience-the-bayesian-way">Learning from Experience the Bayesian Way</a></li>
+  <li><a href="#how-things-go-wrong" id="toc-how-things-go-wrong" class="nav-link" data-scroll-target="#how-things-go-wrong">How Things Go Wrong</a></li>
+  <li><a href="#rules-for-effective-statistical-practice" id="toc-rules-for-effective-statistical-practice" class="nav-link" data-scroll-target="#rules-for-effective-statistical-practice">Rules for Effective Statistical Practice</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="the-art-of-statistics.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><strong>The Art Of Statistics</strong> by David Spiegelhalter</figcaption>
+</figure>
+</div>
+<p><sup>isbn-13: 9781541618510</sup></p>
+<p><em>Hardcover</em></p>
+<p><strong>Publisher’s Description:</strong></p>
+<p>“The definitive guide to statistical thinking Statistics are everywhere, as integral to science as they are to business, and in the popular media hundreds of times a day. In this age of big data, a basic grasp of statistical literacy is more important than ever if we want to separate the fact from the fiction, the ostentatious embellishments from the raw evidence – and even more so if we hope to participate in the future, rather than being simple bystanders. In The Art of Statistics, world- renowned statistician David Spiegelhalter shows readers how to derive knowledge from raw data by focusing on the concepts and connections behind the math. Drawing on real world examples to introduce complex issues, he shows us how statistics can help us determine the luckiest passenger on the Titanic, whether a notorious serial killer could have been caught earlier, and if screening for ovarian cancer is beneficial. The Art of Statistics not only shows us how mathematicians have used statistical science to solve these problems – it teaches us how we too can think like statisticians. We learn how to clarify our questions, assumptions, and expectations when approaching a problem, and – perhaps even more importantly – we learn how to responsibly interpret the answers we receive. Combining the incomparable insight of an expert with the playful enthusiasm of an aficionado, The Art of Statistics is the definitive guide to stats that every modern person needs.”</p>
+<section id="notes" class="level2">
+<h2 class="anchored" data-anchor-id="notes">Notes</h2>
+<section id="epistemic-uncertainty" class="level4">
+<h4 class="anchored" data-anchor-id="epistemic-uncertainty">Epistemic Uncertainty</h4>
+<ul>
+<li>epistemic uncertainty: lack of knowledge about facts, numbers or scientific hypotheses.</li>
+</ul>
+</section>
+<section id="aleatory-uncertainty" class="level4">
+<h4 class="anchored" data-anchor-id="aleatory-uncertainty">Aleatory Uncertainty</h4>
+<ul>
+<li>aleatory uncertainty: unavoidable unpredictability about the future, also known as chance, randomness, luck and so on.</li>
+</ul>
+</section>
+<section id="introduction" class="level3">
+<h3 class="anchored" data-anchor-id="introduction">Introduction</h3>
+<ul>
+<li>Turning experiences into data is not straightforward, and data is inevitably limited in its capacity to describe the world.</li>
+<li>Statistical science has a long and successful history, but is now changing in the light of increased availability of data.</li>
+<li>Skill in statistical methods plays an important part of being a data scientist.</li>
+<li>Teaching statistics is changing from a focus on mathematical methods to one based on an entire problem-solving cycle.</li>
+<li>The PPDAC cycle provides a convenient framework: Problem - Plan - Data - Analysis – Conclusion and communication.</li>
+<li>Data literacy is a key skill for the modern world.</li>
+</ul>
+</section>
+<section id="getting-things-in-proportion" class="level3">
+<h3 class="anchored" data-anchor-id="getting-things-in-proportion">Getting Things In Proportion</h3>
+<ul>
+<li>Binary variables are yes/no questions, sets of which can be summarized as proportions.</li>
+<li>Positive or negative framing of proportions can change their emotional impact.</li>
+<li>Relative risks tend to convey an exaggerated importance, and absolute risks should be provided for clarity.</li>
+<li>Expected frequencies promote understanding and an appropriate sense of importance.</li>
+<li>Odds ratios arise from scientific studies but should not be used for general communication.</li>
+<li>Graphics need to be chosen with care and awareness of their impact.</li>
+</ul>
+</section>
+<section id="summarizing-and-communicating-numbers.-lots-of-number" class="level3">
+<h3 class="anchored" data-anchor-id="summarizing-and-communicating-numbers.-lots-of-number">Summarizing and Communicating Numbers. Lots of Number</h3>
+<ul>
+<li>A variety of statistics can be used to summarize the empirical distribution of data-points, including measures of location and spread.</li>
+<li>Skewed data distributions are common, and some summary statistics are very sensitive to outlying values.</li>
+<li>Data summaries always hide some detail, and care is required so that important information is not lost.</li>
+<li>Single sets of numbers can be visualized in strip- charts, box-and-whisker plots and histograms.</li>
+<li>Consider transformations to better reveal patterns, and use the eye to detect patterns, outliers, similarities and clusters.</li>
+<li>Look at pairs of numbers as scatter-plots, and time- series as line-graphs.</li>
+<li>When exploring data, a primary aim is to find factors that explain the overall variation.</li>
+<li>Graphics can be both interactive and animated.</li>
+<li>Infographics highlight interesting features and can guide the viewer through a story, but should be used with awareness of their purpose and their impact.</li>
+</ul>
+</section>
+<section id="why-are-we-looking-at-data-anyway-populations-and-measurement" class="level3">
+<h3 class="anchored" data-anchor-id="why-are-we-looking-at-data-anyway-populations-and-measurement">Why Are We Looking At Data Anyway? Populations and Measurement</h3>
+<ul>
+<li>Inductive inference requires working from our data, through study sample and study population, to a target population.</li>
+<li>Problems and biases can crop up at each stage of this path.</li>
+<li>The best way to proceed from sample to study population is to have drawn a random sample.</li>
+<li>A population can be thought of as a group of individuals, but also as providing the probability distribution for a random observation drawn from that population.</li>
+<li>Populations can be summarized using parameters that mirror the summary statistics of sample data.</li>
+<li>Often data does not arise as a sample from a literal population. When we have all the data there is, then we can imagine it drawn from a metaphorical population of events that could have occurred, but didn’t.</li>
+</ul>
+</section>
+<section id="what-causes-what" class="level3">
+<h3 class="anchored" data-anchor-id="what-causes-what">What Causes What?</h3>
+<ul>
+<li>Causation, in the statistical sense, means that when we intervene, the chances of different outcomes are systematically changed.</li>
+<li>Causation is difficult to establish statistically, but well-designed randomized trials are the best available framework.</li>
+<li>Principles of blinding, intention-to-treat and so on have enabled large-scale clinical trials to identify moderate but important effects.</li>
+<li>Observational data may have background factors influencing the apparent observed relationships between an exposure and an outcome, which may be either observed confounders or lurking factors.</li>
+<li>Statistical methods exist for adjusting for other factors, but judgement is always required as to the confidence with which causation can be claimed.</li>
+</ul>
+</section>
+<section id="modeling-relationships-using-regression" class="level3">
+<h3 class="anchored" data-anchor-id="modeling-relationships-using-regression">Modeling Relationships Using Regression</h3>
+<ul>
+<li>Regression models provide a mathematical representation between a set of explanatory variables and a response variable.</li>
+<li>The coefficients in a regression model indicate how much we expect the response to change when the explanatory variable is observed to change.</li>
+<li>Regression-to-the-mean occurs when more extreme responses revert to nearer the long-term average, since a contribution to their previous extremeness was pure chance.</li>
+<li>Regression models can incorporate different types of response variable, explanatory variables and non- linear relationships.</li>
+<li>Caution is required in interpreting models, which should not be taken too literally: ’All models are wrong, but some are useful.</li>
+</ul>
+</section>
+<section id="algorithms-analytics-and-prediction" class="level3">
+<h3 class="anchored" data-anchor-id="algorithms-analytics-and-prediction">Algorithms, Analytics and Prediction</h3>
+<ul>
+<li>Algorithms built from data can be used for classification and prediction in technological applications .</li>
+<li>It is important to guard against over-fitting an algorithm to training data , essentially fitting to noise rather than signal</li>
+<li>Algorithms can be evaluated by the classification accuracy , their ability to discriminate between groups , and their overall predictive accuracy</li>
+<li>Complex algorithms may lack transparency , and it may be worth trading off some accuracy for comprehension</li>
+<li>The use of algorithms and artificial intelligence presents many challenges , and insights into both the power and limitations of machine-learning methods is vital</li>
+</ul>
+</section>
+<section id="how-sure-can-we-be-about-what-is-going-on-estimates-and-intervals" class="level3">
+<h3 class="anchored" data-anchor-id="how-sure-can-we-be-about-what-is-going-on-estimates-and-intervals">How Sure Can We Be About What Is Going On? Estimates and Intervals</h3>
+<ul>
+<li>Uncertainty intervals are an important part of communicating statistics.</li>
+<li>Bootstrapping a sample consists of creating new data sets of the same size by resampling the original data, with replacement.</li>
+<li>Sample statistics calculated from bootstrap re- samples tend towards a normal distribution for larger data sets, regardless of the shape of the original data distribution.</li>
+<li>Uncertainty intervals based on bootstrapping take advantage of modern computer power, do not require assumptions about the mathematical form of the population and do not require complex probability theory.</li>
+</ul>
+</section>
+<section id="probability--the-language-of-uncertainty-and-variability" class="level3">
+<h3 class="anchored" data-anchor-id="probability--the-language-of-uncertainty-and-variability">Probability- the Language of Uncertainty and Variability</h3>
+<ul>
+<li>The theory of probability provides a formal language and mathematics for dealing with chance phenomena.</li>
+<li>The implications of probability are not intuitive, but insights can be improved by using the idea of expected frequencies.</li>
+<li>The ideas of probability are useful even when there is no explicit use of a randomizing mechanism.</li>
+<li>Many social phenomena show a remarkable regularity in their overall pattern, while individual events are entirely unpredictable.</li>
+</ul>
+</section>
+<section id="putting-probability-and-statistics-together" class="level3">
+<h3 class="anchored" data-anchor-id="putting-probability-and-statistics-together">Putting Probability and Statistics Together</h3>
+<ul>
+<li>Probability theory can be used to derive the sampling distribution of summary statistics, from which formulae for confidence intervals can be derived.</li>
+<li>A 95% confidence interval is the result of a procedure that, in 95% of cases in which its assumptions are correct, will contain the true parameter value. It cannot be claimed that a specific interval has 95% probability of containing the true value.</li>
+<li>The Central Limit Theorem implies that sample means and other summary statistics can be assumed to have a normal distribution for large samples.</li>
+<li>Margins of error usually do not incorporate systematic error due to non-random causes – external knowledge and judgement is required to assess these.</li>
+<li>Confidence intervals can be calculated even when we observe all the data, which then represent uncertainty about the parameters of an underlying metaphorical population.</li>
+</ul>
+</section>
+<section id="answering-questions-and-claiming-discoveries" class="level3">
+<h3 class="anchored" data-anchor-id="answering-questions-and-claiming-discoveries">Answering Questions and Claiming Discoveries</h3>
+<ul>
+<li>Tests of null hypotheses - default assumptions about statistical models – form a major part of statistical practice.</li>
+<li>A P-value is a measure of the incompatibility between the observed data and a null hypothesis: formally it is the probability of observing such an extreme result, were the null hypothesis true.</li>
+<li>Traditionally, P-value thresholds of 0.05 and 0.01 have been set to declare ‘statistical significance’.</li>
+<li>These thresholds need to be adjusted if multiple tests are conducted, for example on different subsets of the data or multiple outcome measures.</li>
+<li>There is a precise correspondence between confidence intervals and P-values: if, say, the 95% interval excludes 0, we can reject the null hypothesis of 0 at P &lt; 0.05.</li>
+<li>Neyman-Pearson theory specifies an alternative hypothesis, and fixes Type I and Type II error rates for the two possible kinds of errors in a hypothesis test.</li>
+<li>Separate forms of hypothesis tests have been developed for sequential testing.</li>
+<li>P-values are often misinterpreted: in particular they do not convey the probability that the null hypothesis is true, nor does a non-significant result imply that the null hypothesis is true.</li>
+</ul>
+</section>
+<section id="learning-from-experience-the-bayesian-way" class="level3">
+<h3 class="anchored" data-anchor-id="learning-from-experience-the-bayesian-way">Learning from Experience the Bayesian Way</h3>
+<ul>
+<li>Bayesian methods combine evidence from data (summarized by the likelihood) with initial beliefs (known as the prior distribution) to produce a posterior probability distribution for the unknown quantity.</li>
+<li>Bayes’ theorem for two competing hypotheses can be expressed as posterior odds = likelihood ratio x prior odds.</li>
+<li>The likelihood ratio expresses the relative support for two hypotheses from an item of evidence, and is sometimes used to summarize forensic evidence in criminal trials.</li>
+<li>When the prior distribution comes from some physical sampling process, Bayesian methods are uncontroversial. However generally a degree of judgement is necessary.</li>
+<li>Hierarchical models allow evidence to be pooled across multiple small analyses that are assumed to have parameters in common.</li>
+<li>Bayes factors are the equivalent of likelihood ratios for scientific hypotheses, and are a controversial substitute for null-hypothesis significance testing.</li>
+<li>The theory of statistical inference has a long history of controversy, but issues of quality of data and scientific reliability are more important.</li>
+</ul>
+</section>
+<section id="how-things-go-wrong" class="level3">
+<h3 class="anchored" data-anchor-id="how-things-go-wrong">How Things Go Wrong</h3>
+<ul>
+<li>Poor statistical practice has some responsibility for the crisis in the reproducibility of science.</li>
+<li>Deliberate fabrication of data appears to be fairly rare, but errors in statistical methods are frequent.</li>
+<li>An even greater problem is questionable research practices that tend to lead to exaggerated claims of statistical significance.</li>
+<li>In the pipeline by which statistical evidence reaches the public, press offices, journalists and editors add to the flow of unjustified statistical claims through their use of questionable interpretation and communication practices.</li>
+</ul>
+<section id="how-we-can-do-statistics-better" class="level4">
+<h4 class="anchored" data-anchor-id="how-we-can-do-statistics-better">How We Can Do Statistics Better</h4>
+<ul>
+<li>Producers, communicators and audiences all have a role in improving the way that statistical science is used in society.</li>
+<li>Producers need to ensure that science is reproducible. To demonstrate trustworthiness, information should be accessible, intelligible, assessable and useable.</li>
+<li>Communicators need to be wary of trying to fit statistical stories into standard narratives.</li>
+<li>Audiences need to call out poor practice by asking questions about the trustworthiness of their numbers, their source and their interpretation.</li>
+<li>When faced with a claim based on statistical evidence, first feel whether it seems plausible.</li>
+</ul>
+</section>
+</section>
+<section id="rules-for-effective-statistical-practice" class="level3">
+<h3 class="anchored" data-anchor-id="rules-for-effective-statistical-practice">Rules for Effective Statistical Practice</h3>
+<ul>
+<li>Statistical methods should enable data to answer scientific questions: Ask ‘why am I doing this?’, rather than focusing on which particular technique to use.</li>
+<li>Signals always come with noise: It is trying to separate out the two that makes the subject interesting. Variability is inevitable, and probability models are useful as an abstraction.</li>
+<li>Plan ahead, really ahead: This includes the idea of pre- specification in confirmatory experiments - avoiding researcher degrees of freedom.</li>
+<li>Worry about data quality: Everything rests on the data.</li>
+<li>Statistical analysis is more than a set of computations: Do not just plug into formulae or run procedures in software, without knowing why you are doing so.</li>
+<li>Keep it simple: The main communication should be as basic as possible - do not show off skills in complex modelling unless they are really necessary.</li>
+<li>Provide assessments of variability: With the warning that margins of error are generally bigger than claimed.</li>
+<li>Check your assumptions: And make clear when this has not been possible.</li>
+<li>When possible, replicate!: Or encourage others to do so.</li>
+<li>Make your analysis reproducible: Others should be able to access your data and code.</li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

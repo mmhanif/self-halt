@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2022-06-30">
+
+<title>self halt - Should auld acquaintance be forgot…</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="self halt - Should auld acquaintance be forgot…">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://blog.hanif.io/posts/2022-06-30-Should-Auld-Acquaintance/response-times-distribution.png">
+<meta property="og:site-name" content="self halt">
+<meta property="og:image:height" content="825">
+<meta property="og:image:width" content="1406">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">self halt</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">Mahmood Hanif</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../books.html" rel="" target="">
+ <span class="menu-text">book log</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#tldr" id="toc-tldr" class="nav-link active" data-scroll-target="#tldr">TL;DR</a></li>
+  <li><a href="#backstory" id="toc-backstory" class="nav-link" data-scroll-target="#backstory">Backstory</a></li>
+  <li><a href="#strong-ties-weak-ties-and-no-ties" id="toc-strong-ties-weak-ties-and-no-ties" class="nav-link" data-scroll-target="#strong-ties-weak-ties-and-no-ties">Strong Ties, Weak Ties and No Ties</a></li>
+  <li><a href="#messages-in-a-bottle" id="toc-messages-in-a-bottle" class="nav-link" data-scroll-target="#messages-in-a-bottle">Message(s) in a bottle</a></li>
+  <li><a href="#an-unexpected-and-sad-event" id="toc-an-unexpected-and-sad-event" class="nav-link" data-scroll-target="#an-unexpected-and-sad-event">An unexpected and sad event</a></li>
+  <li><a href="#responses" id="toc-responses" class="nav-link" data-scroll-target="#responses">Responses</a></li>
+  <li><a href="#in-conclusion" id="toc-in-conclusion" class="nav-link" data-scroll-target="#in-conclusion">In conclusion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Should auld acquaintance be forgot…</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 30, 2022</p>
+    </div>
+  </div>
+  
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">January 10, 2024</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+</header>
+
+<section id="tldr" class="level2">
+<h2 class="anchored" data-anchor-id="tldr">TL;DR</h2>
+<ul>
+<li>I sent over 500 Christmas and New Year’s messages last December to people in my LinkedIn network and received over 400 responses.</li>
+<li>LinkedIn’s tools didn’t make it easy.</li>
+<li>I would have sent more but for a tragic event that sent my reachouts in a different direction.</li>
+<li>I had many great responses and overall I felt it was very much worth the effort.</li>
+</ul>
+</section>
+<section id="backstory" class="level2">
+<h2 class="anchored" data-anchor-id="backstory">Backstory</h2>
+<p>A few days before Christmas last year, I got a LinkedIn message from a former colleague wishing me a happy holiday season. This was not someone I knew particularly well - I had only interacted with him a few times - but I appreciated his reaching out to me. It got me thinking I should do the same to my network and just send a simple season’s greetings message to people who I had not interacted with for a while.</p>
+</section>
+<section id="strong-ties-weak-ties-and-no-ties" class="level2">
+<h2 class="anchored" data-anchor-id="strong-ties-weak-ties-and-no-ties">Strong Ties, Weak Ties and No Ties</h2>
+<p>Now, LinkedIn gets a lot of criticism but the one thing I find it’s good for is keeping in touch with people that you have “weak ties” with, in particular former colleagues. I communicate with close friends (my “strong ties”) by calling or messaging them directly, but I typically don’t want to fill up my address book with contact details of people I worked with twenty years ago. Just trying to keep the details up to date would be a major effort. Instead I rely on LinkedIn to keep us connected.</p>
+<p>The problem for me though was that mixed in with those strong and weak ties were a very large amount of “no ties” - people who had asked to be added to my network but never communicated with me again. There were a lot of those, and I wanted to focus on the people in my network that I actually knew. I quickly figured out that trying to work through my network using the LinkedIn website was a waste of time. The sorting and filtering tools are rudimentary and paging through the list of connections was slow and frustrating, especially if you had to start again from the beginning if the page refreshed for some reason.</p>
+<p>Instead I used the facility LinkedIn provides to download your data to get a list of my contacts in CSV format. I loaded these into Excel and annotated them into Known, Unknown and Not Sure.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="known-contacts.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="messages-in-a-bottle" class="level2">
+<h2 class="anchored" data-anchor-id="messages-in-a-bottle">Message(s) in a bottle</h2>
+<p>After this I went about sending an individualized message to each person in the “Known” category, filtering out those who I would typically contact by some means other than LinkedIn. There is no (easy) way to do this programmatically (which is probably a good thing!) so I created a few different template messages - e.g.&nbsp;one for people in the US referencing “Happy Holidays”, one for those in the UK referencing “Merry Christmas and Happy New Year” etc. I then went one by one through my spreadsheet, creating a new message for each person, copying in the template text and customizing it, sending and finally marking that person as contacted on the spreadsheet.</p>
+<p>This took some time. Between December 22 and December 27 I sent 538 messages.</p>
+<p>Then something happened that took the wind from my sails.</p>
+</section>
+<section id="an-unexpected-and-sad-event" class="level2">
+<h2 class="anchored" data-anchor-id="an-unexpected-and-sad-event">An unexpected and sad event</h2>
+<p>I did have a morbid thought as I was sending out these messages, especially regarding those I had not been in touch with for many years: <em>“I hope everyone is still alive”.</em></p>
+<p>This background worry became shockingly true on December 28th, when I received an email from a mutual friend that my friend and boss for many years and across multiple companies, <strong>Andy Bishop</strong>, had passed away unexpectedly in his sleep over Christmas. He was the same age as me (within a few months) and had retired early to spend time with his family in Cornwall, far from the stress of life in London. I could write many pages on what a great guy Andy was and how much he will be missed by all those whom he interacted with. Instead let me direct you to a <a href="https://www.kudoboard.com/boards/EWJyy1J6">memorial page created by his colleagues at BP</a>.</p>
+<p>At that point I lost my appetite for sending out further season’s greetings and instead decided to leverage my contact list to pass on the sad news to everyone who I knew that had also worked with Andy. We had worked together at JP Morgan, Cygnifi and Bank of America so that list was over 100 people.</p>
+</section>
+<section id="responses" class="level2">
+<h2 class="anchored" data-anchor-id="responses">Responses</h2>
+<p>Out of the 538 season’s greetings messages I sent (actually 539 as I did send one more on New Year’s Day) I received responses to 459 of them. 350 of the responses came back within 3 days but I was still getting replies over 3 months later!</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="response-times-distribution.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>There were a few kurt “Thanks” responses but many people seemed genuinely happy to get my message and many of their responses put a smile on my face. Only one person (my very first manager at JP Morgan) was curious enough to ask what had prompted me to reach out after so many years.</p>
+<p>Some sample responses:</p>
+<blockquote class="blockquote">
+<p>“Wow blast from the past. Wonderful to hear from you. Hope you are well and have a great holidays!”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Hi Mahmood, it is lovely to hear from you and all the best Xmas wishes to you and your family”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Thanks Mahmood. Very kind of you to send the message.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Wow nice to hear from you! Happy Holidays to you too! 👍👍”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Thanks for thinking of me, and sending a short note! Happy Holidays to you and your family!”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Hey - how lovely to hear from you! Best wishes to all Hanifs too!”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Lovely to hear from you, Mahmood! All is well, thank you, hope the same for you and yours, and that you all have a peaceful Christmas and New Year ahead!”</p>
+</blockquote>
+</section>
+<section id="in-conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="in-conclusion">In conclusion</h2>
+<p>I found this to be a really worthwhile exercise, one that I hopefully will do again next holidays and one that I recommend to you, despite the effort involved. Life is short and it’s good to renew <strong><em>auld acquaintance</em></strong>.</p>
+<blockquote class="blockquote">
+<p><strong>And no matter how it ends</strong></p>
+<p><strong>You should always keep in touch with your friends</strong></p>
+</blockquote>
+<p><strong><a href="https://open.spotify.com/track/19eyF6yaUa0ZZcgZM3iN77?autoplay=true">“You should always keep in touch with your friends” by The Wedding Present</a></strong></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
