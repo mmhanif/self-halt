@@ -5,7 +5,19 @@ filters:
    - nutshell
 ---
 
-![Image generate by Dall-E](self-halt-2.jpeg){fig-align="left" width=40%}
+::: {.column-margin}
+Image generate by Dall-E with the prompt: Create a logo in the style of XKCD for a blog named "self halt" named after a command in the Smalltalk programming language.
+:::
+::: {.column-margin}
+Alternatives produced by Dall-E:
+
+![](self-halt-1.jpg){fig-align="center" width=60%}
+:::
+::: {.column-margin}
+![](self-halt-3.jpg){fig-align="center" width=60%}
+:::
+
+![](self-halt-2.jpeg){fig-align="center" width=50% fig-cap-location="margin"}
 
 'self halt' is the command used in the [:Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) programming language to stop normal execution and enter the debugger. One of the many cool things about Smalltalk was that then you could write some code in the debugger, accept it and resume execution, effectively debugging code into existence.
 
@@ -13,4 +25,21 @@ I guess this [blog](posts.qmd) is [my](about.qmd) personal analogy for debugging
 
 Mostly I blog about the [books I've read](what-i-read-in.qmd), but I hope to expand into other topics over time.
 
+---
+
+</br>
+
+::: {.column-margin}
+More Dall-E generated images.
+
+Prompt: Create an image for my blog about reading using this picture of me, modern style, subdued colors include references to technology, programming and management.
+
+*aside: The images produced don't look like me!*
+:::
+
+::: {layout="[[40,-20,40]]"}
+[![**What I read in...**](books-1.jpg){width=25%}](what-i-read-in.qmd)
+
+[![**Book Log**](books-2.jpg){width=25%}](books.qmd)
+:::
 
