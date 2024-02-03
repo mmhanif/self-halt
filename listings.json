@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
       "/posts/2022-12-31-what-i-read-in-2022/index.html",
       "/posts/2022-06-30-Should-Auld-Acquaintance/index.html",
       "/posts/2022-01-09-what-i-read-in-2021/index.html",
@@ -327,6 +328,7 @@
   {
     "listing": "/what-i-read-in.html",
     "items": [
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
       "/posts/2022-12-31-what-i-read-in-2022/index.html",
       "/posts/2022-01-09-what-i-read-in-2021/index.html",
       "/posts/2021-01-17-what-i-read-in-2020/index.html",
