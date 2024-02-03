@@ -7,6 +7,7 @@ listing:
     categories: "lists*"
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
+  fields: [image, date, title, description, reading-time]
 ---
 
 Blog posts that list out all the books I read in a particular, highlighting books that I particularly enjoyed.

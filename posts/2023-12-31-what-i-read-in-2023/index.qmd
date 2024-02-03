@@ -2,15 +2,15 @@
 title:  "What I read in 2023"
 categories: [books, lists]
 date: "12/31/2023"
-date-modified: "1/10/2024"
+date-modified: "2/2/2024"
 image: 2023Books-All-8x2.png
-draft: true
 execute:
   echo: false
 jupyter: python3
+reading-time: true
 ---
 
-I reached my target of ["reading" 50 books a year](https://www.goodreads.com/user_challenges/41048625) again this year. I put reading in quotes as actually for the majority of those 50 books, I listened to them on Audible. However, I did also increase the number of physical books I read.
+I reached my target of "reading" [50 books a year](https://www.goodreads.com/user_challenges/41048625) again this year. [I put "reading" in quotes as actually for the majority of those 50 books, I listened to them on Audible. However, I did also increase the number of physical books I read.]{.aside}
 
 Highlights from this year's reading list are given below. If you want to, you can [jump straight to the list of all 50 books here](#fig-y2023).
 
@@ -19,53 +19,84 @@ Highlights from this year's reading list are given below. If you want to, you ca
 
 ## [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
-Two of favorite books this year where about attention - why we can't pay attention and what we should pay attention to in our limited time left on this planet. ["Stolen Focus - Why You Can't Pay Attention"](../../books/2023-01-22-four-thousand-weeks/) by Johann Hari was a personal journey by journalist and author Johann Hari to recapture his stolen focus but also to undercover the wider forces at play in stealing our attention. Hari uncovers 12 causes for the attention crisis. A thought provoking book, though I found the more personal earlier chapters more appealing than the later ones where he talks about broader societal issues.  
+Two of favorite books this year were about attention - why we can't pay attention and what we should pay attention to in our limited time left on this planet. ["Stolen Focus - Why You Can't Pay Attention"](../../books/2023-01-22-four-thousand-weeks/) by Johann Hari was a personal journey by journalist and author Johann Hari to recapture his stolen focus but also to undercover the wider forces at play in stealing our attention. Hari uncovers 12 causes for the attention crisis. A thought provoking book, though I found the more personal earlier chapters more appealing than the later ones where he talks about broader societal issues.  
 
-["Four Thousand Weeks - Time Management for Mortals" by Oliver Burkeman](../../books/2023-01-22-four-thousand-weeks/) has a potentially misleading title, especially if you're reading it to find time saving tips and tricks. It's a much more philosophical work that starts with the premise that an average 80-year life consists of about 4,000 weeks. If, like me, you're well past the mid-point of the average life-span, thinking about the number of weeks you have left does make you ponder how much of that time should be spent doom-scrolling on social media or binge-watching a series on Netflix. Worth a read - pair with [this blog post](https://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) that lets you visualize the probability distribution of your remaining lifespan. Here's mine:
+["Four Thousand Weeks - Time Management for Mortals" by Oliver Burkeman](../../books/2023-01-22-four-thousand-weeks/) has a potentially misleading title, especially if you're reading it to find time saving tips and tricks. It's a much more philosophical work that starts with the premise that an average 80-year life consists of about 4,000 weeks. If, like me, you're well past the mid-point of the average life-span, thinking about the number of weeks you have left does make you ponder how much of that time should be spent doom-scrolling on social media or binge-watching a series on Netflix. Worth a read - pair with [this blog post](https://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) that lets you visualize the probability distribution of your remaining lifespan. 
+
+::: {.column-margin}
+Here's mine:
 ![](lifespan.png){fig-align="left"}
+:::
 
-## Let's talk about it
+## [We Can Work It Out](https://lyrics.lyricfind.com/lyrics/the-beatles-we-can-work-it-out)
 
-One topic I've been very interested in over the last few years is the idea of dialog and how personally and as a society we can discuss strongly held but opposing beliefs without it devolving into a shouting match (or silent seething). A number of books I read this year were on this or related topics. ["The Righteous Mind - Why Good People Are Divided by Politics and Religion"](../../books/2023-02-06-the-righteous-mind/) by pyschologist Jonathan Haidt was the 'deepest' of these books. It took me a while to read, not because the language was difficult but the concepts introduced deserved a lot of thought and digestion. Haidt covers the field of **moral psychology** and gives us a history of the different theories of how and why morals evolved drawing on research in neuroscience, genetics, social psychology and evolutionary modeling. As someone who leans liberal, I came away with a better understanding of why conservatives take the positions they do. Haidt has a distinctly secular view on religion and morals, which I don't personally agree with, but his theories are worth trying to understanding.
+One topic I've been very interested in over the last few years is the idea of dialog and how personally and as a society we can discuss strongly held but opposing beliefs without it devolving into a shouting match (or silent seething). A number of books I read this year were on this or related topics. ["The Righteous Mind - Why Good People Are Divided by Politics and Religion"](../../books/2023-02-06-the-righteous-mind/) by pyschologist Jonathan Haidt was the 'deepest' of these books. It took me a while to read, not because the language was difficult but the concepts introduced deserved a lot of thought and digestion. Haidt covers the field of **moral psychology** and gives us a history of the different theories of how and why morals evolved drawing on research in neuroscience, genetics, social psychology and evolutionary modeling. As someone who leans liberal, I came away with a better understanding of why conservatives take the positions they do. Haidt has a distinctly secular view on religion and morals, which I don't personally agree with, but his theories are worth trying to understand.
+
+::: {.column-margin}
+{{< video https://youtu.be/xedn8vp6W20?si=FSnNhrRtS8A0cM5Z >}}
+:::
+
 
 ["I Never Thought Of It That Way"](../../books/2023-11-24-i-never-thought-of-it-that-way/) by Monica Guzman is a much lighter read on a similar topic. It has a lot of anecdotes from the authors life with practical suggestions about bridging the divide with people who hold an opposing view. I enjoyed the book and came away with a bunch of practical (if not ground-breaking) tools.
 
-- ["You're Not Listening: What You're Missing and Why It Matters"](../../books/2023-07-08-you're-not-listening/) by Kate Murphy
-- ["Crucial Conversations: Tools for Talking When Stakes Are High"](../../books/2023-11-30-crucial-conversations/) by Kerry Patterson
-- ["Conflicted: How Productive Disagreements Lead to Better Outcomes"](../../books/2023-12-03-conflicted/) by Ian Leslie
+I read the first version of ["Crucial Conversations: Tools for Talking When Stakes Are High"](../../books/2023-11-30-crucial-conversations/) by Kerry Patterson many years ago and for some reasons it never made much of an impression (perhaps I was not mature enough at the time to understand the lessons from the book). This time around, I found this book full of practical and useful guidelines for approaching difficult conversations.
 
-- ["Narconomics: How to Run a Drug Cartel"](../../books/2023-02-25-narconomics/) by Tom Wainwright
-- ["Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency"](../../books/2023-03-07-tracers-in-the-dark/) by Andy Greenberg
-- ["Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"](../../books/2023-10-15-number-go-up/) by Zeke Faux
+["You're Not Listening: What You're Missing and Why It Matters"](../../books/2023-07-08-you're-not-listening/) by Kate Murphy
+and ["Conflicted: How Productive Disagreements Lead to Better Outcomes"](../../books/2023-12-03-conflicted/) by Ian Leslie were a couple of other books in this general area that I read - both were ok but essential reading.
 
-- ["Surrender: 40 Songs, One Story"](../../books/2023-05-03-surrender/) by Bono
-- ["Rememberings"](../../books/2023-09-05-rememberings/) by Sinead O'Connor
+## Tales from the Dark Side
 
-- ["Confessions of a Recovering Engineer: Transportation for a Strong Town"](../../books/2023-07-20-confessions-of-a-recovering-engineer/) by Charles L. Marohn Jr.
+["Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency"](../../books/2023-03-07-tracers-in-the-dark/) by Andy Greenberg was a solid recommendation from a friend. A story of how an IRS agent managed to trace Bitcoin transactions around the globe and identify the real people behind various corners of the dark web. A great read. Pair this with ["Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"](../../books/2023-10-15-number-go-up/) by Zeke Faux which goes into depth about a cryptocurrency called Tether as well diving into the rise and fall of Sam Bankman Fried and FTX. If you have ever gotten random texts from strangers (usually someone purporting to be an attractive Asian female) who try and draw you into a conversation, read the chapter on "Pig Butchering" to understand what is actually going on.  
 
-- ["How the World Really Works: The Science Behind How We Got Here and Where We're Going"](../../books/2023-09-08-how-the-world-really-works/) by Vaclav Smil
-- ["The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans"](../../books/2023-09-05-the-things-we-make/) by Bill Hammack
-- ["Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"](../../books/2023-09-05-stuff-matters/) by Mark Miodownik
+["Narconomics: How to Run a Drug Cartel"](../../books/2023-02-25-narconomics/) by Tom Wainwright was a fascinating insight into the economics of the drug trade. I learnt that relationship between drug cartels and the drug growers is similar to that between farmers and (say) Walmart and how focusing on eradicating a drug crop does little to harm the drug cartels and just increases the costs of the growers. 
 
-- ["Smart Brevity: The Power of Saying More With Less"](../../books/2023-06-08-smart-brevity/) by Jim Vandehei
+## Musical Icons 
 
-- ["The Siege of Mecca: The Forgotten Uprising in Islam's Holiest Shrine and the Birth of Al Qaeda"](../../books/2023-06-11-the-siege-of-mecca/) by Yaroslav Trofimov
+Both ["Surrender: 40 Songs, One Story"](../../books/2023-05-03-surrender/) by Bono and ["Rememberings"](../../books/2023-09-05-rememberings/) by Sinead O'Connor are autobiographies narrated by their respective authors and so give an extra air of intimacy to each.
 
-- ["Discipline Is Destiny: The Power of Self-Control"](../../books/2023-10-01-discipline-is-destiny/) by Ryan Holiday
+::: {.column-margin}
+{{< video https://youtu.be/n2Ym54zOWnU?si=mu4NbXPdo5l-0Uap >}}
+:::
 
+I actually had Rememberings in my Audible library for a while prior to Sinead O'Connor's untimely death, but brought it to the top of my "to-listen" list on news of her passing. The book is emotional, raw and not easy to listen to in some places. She had a difficult life and went through much more trauma than I knew about before listening to her autobiography. She never saw herself as a star and rebelled against the trappings of the music industry. RIP Sinead O'Connor.
+
+::: {.column-margin}
+{{< video https://youtu.be/bi3EsDgUauQ?si=nykmcEpbcfo-xxqN >}}
+:::
+
+Surrender is a much more "produced" affair, with music introducing each chapter and punctuating various parts of the book. Bono is definitely a polarizing figure and I'm sure some people would rather watch pain dry than listen to Bono pontificate. However, I have a soft spot for him and really enjoyed the book. There are a lot of intimate details of his early life, coping (or not) with the early death of his mother through to some of his wilder rock star moments. It's a good example of how an audiobook can be much more than just a straighforward narration of a written book.
+
+## Living in a Material World
+
+Vaclav Smil is apparently one of Bill Gates' favorite authors and is fast becoming one of mine. He focuses on data-driven analysis - his ["How the World Really Works: The Science Behind How We Got Here and Where We're Going"](../../books/2023-09-08-how-the-world-really-works/) was facinating. The chapters on Understanding Energy provided a lot of interesting information about how our energy usage and sources have changed over time, highlighting the huge shift in kinetic energy coming from draft animals and humans to engines driven primarily by fossil fuels. The chapter on Understanding Our Material World provided insights on society's reliance what Smil calls the 'The Four Pillars of Modern Civilization': Ammonia, Plastics, Steel and Concrete. The book provides a lot of data showing the difficulties of extricating ourselves from fossil fuels - a potentially depressing reality check. 
+
+["Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"](../../books/2023-09-05-stuff-matters/) by Mark Miodownik was an interesting companion read about common-place items and materials that we often take for granted: steel, paper, concrete, chocolate, foam, plastic, glass, graphite, porcelain and implants.
+
+["The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans"](../../books/2023-09-05-the-things-we-make/) by Bill Hammack is a homage to engineers and the "engineering method". Lots of interesting stories such as that of Hiram Maxim and his contributions to the creation of the electric bulb, or the invention of the microwave oven. 
+
+## Singletons
+
+I vaguely remember as a child seeing on the news the events described in detail by Yaroslav Trofimov in ["The Siege of Mecca: The Forgotten Uprising in Islam's Holiest Shrine and the Birth of Al Qaeda"](../../books/2023-06-11-the-siege-of-mecca/) that occurred during the Hajj in November 1979. Before reading the book, my recollection was that it was a Shia uprising, a view that still seems to be commonly held. With the American Embassy being stormed in Tehran only weeks earlier, the US government assumed [the Iranians were behind this attack and briefed the press accordingly](https://www.nytimes.com/1979/11/21/archives/mecca-mosque-seized-by-gunmen-believed-to-be-militants-from-iran.html?bgrp=g&smid=url-share). In fact this was very much a Sunni Salafi rebellion proclaiming the arrival of the awaited Mahdi. In the days before the Internet, mobile phones and social media the Saudi government was able to maintain an information blockade about the true nature and extent of the rebellion, which was eventually subdued with the help of French commandos but only after a large death toll. You can draw direct connections from this uprising to the assasination of Egyptian President Anwar Sadat and the birth of Al-Qaeda.
+
+If you've ever wondered why American towns and cities feel so different to their European counterparts, ["Confessions of a Recovering Engineer: Transportation for a Strong Town"](../../books/2023-07-20-confessions-of-a-recovering-engineer/) by Charles L. Marohn Jr. is a good place to start. Standard design practices adopted by traffic engineers have given supremacy to the car over the needs of humans. Highly recommended if you are interested in urban or transportation issues.
+
+["Discipline Is Destiny: The Power of Self-Control"](../../books/2023-10-01-discipline-is-destiny/) by Ryan Holiday was a short and easy read with bite sized chapters. Holiday provides examples from various figures from both ancient and modern history to show the benefits of self-discipline and temperance. 
+
+["Smart Brevity: The Power of Saying More With Less"](../../books/2023-06-08-smart-brevity/) by Jim Vandehei is best read in physical book form to get the full effect of its typography and visual design. Not super deep, but has plenty of actionable advice on how to succinctly but with impact.
 
 ## Fiction
 
-- ["Matterhorn"](../../books/2023-03-14-matterhorn/) by Karl Marlantes
-- ["The Making of Another Major Motion Picture"](../../books/2023-10-01-the-making-of-another-major-motion-picture-masterpiece/) by Tom Hanks
-- ["Tomorrow and Tomorrow and Tomorrow"](../../books/2023-12-12-tomorrow-and-tomorrow-and-tomorrow/) by Gabrielle Zevin
+["Matterhorn"](../../books/2023-03-14-matterhorn/) by Karl Marlantes came highly recommended by a colleague. It's the story of a company of Marines in Vietnam, narrated by the young lieutenant who's just been given charge of them. The author was a Marine in the Vietnam war and apprently wrote the book over a period of 35 years based on his personal experiences. I almost gave up on the book after the first couple of chapters which were not for the faint-hearted. I'm glad I didn't, although the book continued to be grim, it was also a heartbreaking  story about the futility of wat and about camaraderie and courage and sacrifice. This novel gave me a perspective and insight on what it was like to be a US soldier in Vietnam that I didn't get from any of the numerous movies set during the Vietnam War. 
 
-- ["The Midnight Library"](../../books/2023-05-22-the-midnight-library/) by Matt Haig
-- ["The Reading List"](../../books/2023-04-05-the-reading-list/) by Sara Nisha Adams
+["The Making of Another Major Motion Picture"](../../books/2023-10-01-the-making-of-another-major-motion-picture-masterpiece/) by Tom Hanks was basically a detailed explanation of how a movie is made and all the different behind-the-camera roles that are involved, wrapped up inside a novel. There's no real plot - once you get past waiting for something dramatic to happen and just enjoy the journey, the book is quite enjoyable. 
 
-- ["The Night Agent"](../../books/2023-02-07-the-night-agent/) by Matthew Quirk
+["The Reading List"](../../books/2023-04-05-the-reading-list/) by Sara Nisha Adams was a story about the important of reading and the insights good novels can provide into relationships and the human condition. 
 
-- ["Reamde"](../../books/2023-01-22-reamde/) by Neal Stephenson
+In ["The Midnight Library"](../../books/2023-05-22-the-midnight-library/) by Matt Haig the library is more of a metaphor. Each book is an alternate life you might have lived. Being a fan of multiverse scenarios I enjoyed this book, although its not really a science fiction book, it just uses that conceipt as a way of showing the different paths a person could have taken and the consequences of those decisions.  
+
+I read ["The Night Agent"](../../books/2023-02-07-the-night-agent/) by Matthew Quirk before watching the Netflix series based on the book. Both are enjoyable - as is typical, the plot in the book is a bit more involved than the TV series. 
+
+["Reamde"](../../books/2023-01-22-reamde/) by Neal Stephenson was the longest book I "read" (well, listened to) this year. Although a lot of the technology it references is now a bit dated, as a whole the book still holds up well with lots of twists and turns that come to a satisfying conclusion.
 
 ## Full book list
 ```{python}
