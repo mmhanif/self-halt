@@ -38,8 +38,8 @@ Prompt: Create an image for my blog about reading using this picture of me, mode
 :::
 
 ::: {layout="[[40,-20,40]]"}
-[![**What I read in...**](books-1.jpg){width=25%}](what-i-read-in.qmd)
+[![**What I read in...**](books-1.jpg)](what-i-read-in.qmd)
 
-[![**Book Log**](books-2.jpg){width=25%}](books.qmd)
+[![**Book Log**](books-2.jpg)](books.qmd)
 :::
 
