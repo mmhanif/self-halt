@@ -15,8 +15,23 @@
     ]
   },
   {
+    "listing": "/what-i-read-in.html",
+    "items": [
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
+      "/posts/2022-12-31-what-i-read-in-2022/index.html",
+      "/posts/2022-01-09-what-i-read-in-2021/index.html",
+      "/posts/2021-01-17-what-i-read-in-2020/index.html",
+      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
+      "/posts/2019-12-31-what-i-read-in-2019/index.html",
+      "/posts/2018-12-31-what-i-read-in-2018/index.html",
+      "/posts/2017-12-31-what-i-read-in-2017/index.html",
+      "/posts/2017-01-17-what-i-read-in-2016/index.html"
+    ]
+  },
+  {
     "listing": "/books.html",
     "items": [
+      "/books/2024-02-13-a-man-for-all-markets/index.html",
       "/books/2024-01-22-the-running-grave/index.html",
       "/books/2024-01-13-dragonfired/index.html",
       "/books/2024-01-13-the-man-who-solved-the-market/index.html",
@@ -326,20 +341,6 @@
       "/books/2016-12-01-few-lessons-from-sherlock-holmes/index.html",
       "/books/2016-12-01-song-of-the-dodo/index.html",
       "/books/2016-12-01-startup-stories/index.html"
-    ]
-  },
-  {
-    "listing": "/what-i-read-in.html",
-    "items": [
-      "/posts/2023-12-31-what-i-read-in-2023/index.html",
-      "/posts/2022-12-31-what-i-read-in-2022/index.html",
-      "/posts/2022-01-09-what-i-read-in-2021/index.html",
-      "/posts/2021-01-17-what-i-read-in-2020/index.html",
-      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
-      "/posts/2019-12-31-what-i-read-in-2019/index.html",
-      "/posts/2018-12-31-what-i-read-in-2018/index.html",
-      "/posts/2017-12-31-what-i-read-in-2017/index.html",
-      "/posts/2017-01-17-what-i-read-in-2016/index.html"
     ]
   }
 ]
