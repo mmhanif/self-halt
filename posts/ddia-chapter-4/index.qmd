@@ -1,0 +1,95 @@
+---
+title:  DDIA Chapter 4 - Encoding and Evolution
+image: ddia-cover.png
+date: "2/11/2024"
+filters:
+  - d2
+draft: true
+---
+
+![](ch04-map-ebook.png){fig-align="left" width=50%}
+
+This chapter introduces the concepts of *encoding*, how data structures are represented as bytes on a disk or over the network, and *evolution*, how we can change the structure of data (i.e. the *schema*) while maintaining backward and forward compatibility.
+
+# Backward and Forward Compatibility
+
+In a modern distributed application an upgrade involving a schema change typically cannot be deployed to all components of a system simultaneously. In addition you might not be able to take down your database to upgrade all the old data to a new schema. So you may have components on new code reading data in the old schema and potentially components on old code reading data that uses the new schema. In these cases, both backward and forward compatibility is desirable.
+
+```{.d2}
+grid-rows: 3
+grid-columns: 3
+a
+old code
+new code
+old data
+before release
+backwards compatibility
+new data
+forwards compatibility
+after release
+
+a.style.opacity: 0
+backwards compatibility.style.font-color: red
+forwards compatibility.style.font-color: red
+backwards compatibility.style.stroke: red
+forwards compatibility.style.stroke: red
+before release.style.italic: true
+after release.style.italic: true
+old code.style.stroke: black
+new code.style.stroke: black
+old data.style.stroke: black
+new data.style.stroke: black
+old data.shape: page
+new data.shape: page
+old code.shape: package
+new code.shape: package
+```
+- *Backward Compatibility*: Newer code can read the data written by older code.
+- *Forward Compatibility*: Older code can read the data written by newer code.
+
+Different ways of encoding data may allow for either backward or forward compatibility or both (or neither).
+
+# Encoding
+
+## Language Specific Formats
+
+- Examples java.io.serializable for Java or pickle for Python.
+- Usually very convenient but mean you are locked in to a specific programming language for both reading and writing.
+- Can introduce security risks as they need to allow instantiation of arbitrary object types.
+- Usually do not provide a means for backward or forward compatibility.
+- Can be slow
+
+## JSON, XML and Binary Variants
+
+[JSON](https://www.json.org/json-en.html), XML and CSV are textual formats that produce (somewhat) human-readable data. However they may have issues with encoding numbers (e.g. specifying integer versus float), the schema representation can be quite complicated and they typically result in a large-file size, especially when the data contains a large amount of numbers.
+
+JSON and XML have binary variants that are somewhat more efficient in storing numbers - e.g. [MessagePack](https://msgpack.org/index.html) and [BSON](https://bsonspec.org) but typically still store each field name for each record.
+
+## Thrift and Protocol Buffers
+
+[Apache Thrift](https://thrift.apache.org) was originally developed and Facebook, whereas [Protocol Buffers](https://protobuf.dev) originated at Google.
+
+::: aside
+[Thrift: The Missing Guide](http://diwakergupta.github.io/thrift-missing-guide/) is a better into to Thrift than the official documentation
+:::
+
+Both define an interface definition language (IDL) used to describe a data structure as well as compilers for different programming languages that take an IDL and generate code to read/write data in that format. 
+
+## Avro
+
+[Apache Avro](https://avro.apache.org)
+
+## Parquet
+
+[Apache Parquet](https://parquet.apache.org)
+
+## Schema Evolution
+
+# Modes of Dataflow
+
+## Dataflow through Databases
+
+## Dataflow through Services: REST and RPC
+
+## Message-passing Dataflow
+

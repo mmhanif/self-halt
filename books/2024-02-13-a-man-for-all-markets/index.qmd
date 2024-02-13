@@ -1,0 +1,55 @@
+---
+title: "A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market"
+description: "**A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp"
+date: 2024-02-13
+categories: [books, 2024, Audible, fiction]
+image: A_Man_for_All_Markets.jpg
+---
+![**A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp](A_Man_for_All_Markets.jpg){fig-align="left"}
+
+<sup>isbn-13: 9781400067961</sup>
+
+*Audible*
+
+I read this after finishing ["The Man Who Solved The Market"](../2024-01-13-the-man-who-solved-the-market/) about the founder of Renaissance Technologies' Jim Simons. It's interesting to compare and contrast Thorp and Simons - both came from relatively modest backgrounds, studied mathematics eventually leading Maths departments (Thorp at UC Irvine and Simons at SUNY Stony Brook) before becoming Hedge Fund managers. Thorp is older than Simons by about 6 years but started in finance about 10 years prior to Simons, founding Princeton Newport Partners (PNP) in 1969, whereas Simons started the precursor to Rennaisance Technologies in 1978. Thorp is probably more well known due to his work in trying to beat the Las Vegas casinos at Blackjack, Bacarat and Roulette (using a wearable computer he created with the help of Claude Shannon). Simons is probably the more mathematically accomplished having won the Veblen Prize in Geometry and worked for the NSA cracking codes during the Cold War. While both were very succesful as Hedge Fund managers, Thorps wealth pales in comparison to Simons.
+
+"A Man for All Markets" is an autobiography, whereas "The Man Who Solved the Market" is a biography written by a financial journalist with minimal co-operation from Simons. It's no surprise then that this reader came away liking Thorp much more than Simons. Thorp certainly seems to have a more well rounded view of life and what the truly important things in life are. He stepped away from managing other peoples to spend more time with family and doing things he enjoys whereas Simons seemed much more driven to acquire more and more wealth. But, it must be taken with a pinch of salt as an autobiography is always a somewhat sanitized view of a person's life.
+
+Overall the book was worth reading, although the more personal early chapters were much more interesting than the later chapters which had more editorializing from Thorp about the financial markets.
+
+The audiobook was narrated by Thorp himself, which in this case was not an advantage - his narration was slow (I sped it up to 1.2x) and with somewhat strange pauses in the sentences. Sometimes the author brings something extra to a narration, but here it would probably have been better to have a professional narrator.
+
+*Publisher's Description*
+
+The incredible true story of the card-counting mathematics professor who
+taught the world how to beat the dealer and, as the first of the great
+quantitative investors, ushered in a revolution on Wall Street. A child of
+the Great Depression, legendary mathematician Edward O. Thorp invented card
+counting, proving the seemingly impossible: that you could beat the dealer
+at the blackjack table. As a result he launched a gambling renaissance. His
+remarkable success—and mathematically unassailable method—caused such an
+uproar that casinos altered the rules of the game to thwart him and the
+legions he inspired. They barred him from their premises, even put his life
+in jeopardy. Nonetheless, gambling was forever changed. Thereafter, Thorp
+shifted his sights to “the biggest casino in the world”: Wall Street.
+Devising and then deploying mathematical formulas to beat the market, Thorp
+ushered in the era of quantitative finance we live in today. Along the way,
+the so-called godfather of the quants played bridge with Warren Buffett,
+crossed swords with a young Rudy Giuliani, detected the Bernie Madoff
+scheme, and, to beat the game of roulette, invented, with Claude Shannon,
+the world’s first wearable computer. Here, for the first time, Thorp tells
+the story of what he did, how he did it, his passions and motivations, and
+the curiosity that has always driven him to disregard conventional wisdom
+and devise game-changing solutions to seemingly insoluble problems. An
+intellectual thrill ride, replete with practical wisdom that can guide us
+all in uncertain financial waters, A Man for All Markets is an instant
+classic—a book that challenges its readers to think logically about a
+seemingly irrational world. Praise for A Man for All Markets “In A Man for
+All Markets, [Thorp] delightfully recounts his progress (if that is the
+word) from college teacher to gambler to hedge-fund manager. Along the way
+we learn important lessons about the functioning of markets and the logic
+of investment.”—The Wall Street Journal “[Thorp] gives a biological
+summation (think Richard Feynman’s Surely You’re Joking, Mr. Feynman!) of
+his quest to prove the aphorism ‘the house always wins’ is flawed. . . .
+Illuminating for the mathematically inclined, and cautionary for would-be
+gamblers and day traders”— Library Journal
