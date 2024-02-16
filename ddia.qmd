@@ -1,0 +1,14 @@
+---
+title: "DDIA"
+listing: 
+  id: ddia-listings
+  contents: projects/ddia
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  fields: [image, date, title, description, reading-time]
+---
+
+Notes from reading **Designing Data Intensive Applications* by Martin Kleppmann
+
+::: {#ddia-listings}
+:::

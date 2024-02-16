@@ -43,3 +43,6 @@ Prompt: Create an image for my blog about reading using this picture of me, mode
 [![**Book Log**](books-2.jpg)](books.qmd)
 :::
 
+## Projects
+
+- [Computer Science Book Club Notes: Designing Data Intensive Applications](ddia.qmd)
