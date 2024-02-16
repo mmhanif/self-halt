@@ -8,7 +8,7 @@ listing:
   fields: [image, date, title, description, reading-time]
 ---
 
-Notes from reading **Designing Data Intensive Applications* by Martin Kleppmann
+Notes from reading **Designing Data Intensive Applications** by Martin Kleppmann
 
 ::: {#ddia-listings}
 :::
