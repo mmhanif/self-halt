@@ -2,8 +2,9 @@
 title:  DDIA Chapter 4 - Encoding and Evolution
 image: ddia-cover.png
 date: "2/16/2024"
-filters:
-  - d2
+format:
+  revealjs:
+    smaller: true
 ---
 
 ![](ch04-map-ebook.png){fig-align="left" width=50%}
@@ -14,35 +15,10 @@ This chapter introduces the concepts of *encoding*, how data structures are repr
 
 In a modern distributed application an upgrade involving a schema change typically cannot be deployed to all components of a system simultaneously. In addition you might not be able to take down your database to upgrade all the old data to a new schema. So you may have components on new code reading data in the old schema and potentially components on old code reading data that uses the new schema. In these cases, both backward and forward compatibility is desirable.
 
-```{.d2}
-grid-rows: 3
-grid-columns: 3
-a
-old code
-new code
-old data
-before release
-backwards compatibility
-new data
-forwards compatibility
-after release
 
-a.style.opacity: 0
-backwards compatibility.style.font-color: red
-forwards compatibility.style.font-color: red
-backwards compatibility.style.stroke: red
-forwards compatibility.style.stroke: red
-before release.style.italic: true
-after release.style.italic: true
-old code.style.stroke: black
-new code.style.stroke: black
-old data.style.stroke: black
-new data.style.stroke: black
-old data.shape: page
-new data.shape: page
-old code.shape: package
-new code.shape: package
-```
+## Backward and Forward Compatibility
+![](compatibility.png)
+
 - *Backward Compatibility*: Newer code can read the data written by older code.
 - *Forward Compatibility*: Older code can read the data written by newer code.
 
@@ -103,32 +79,46 @@ The MessagePack encoding is 66 bytes, only about 20% smaller than the textual re
 
 ## Thrift example
 
+:::: {.columns}
+
+:::: {.column width=40%}
 Thrift IDL:
 ```
 struct Person {
-  1: required string            userName,
-  2: optional i64               favoriteNumber,
-  3: optional list<string>      interests
+  1: required string        userName,
+  2: optional i64           favoriteNumber,
+  3: optional list<string>  interests
 }
 ```
-The Thrift Compact Protocol encodes the struct in 34 bytes. It use a variable integer encoding, so 1337 is encoded as 2 bytes rather than 8 bytes. It also stores field tags instead of field names, as well as a code idetifying the type of each field. (Protocol Buffers use a similar encoding)
-
+:::
+:::: {.column width=60%}
 ![Thrift Compact Protocol encoding example](thrift-compact-example.png)
+:::
+:::
+
+The Thrift Compact Protocol encodes the struct in 34 bytes. It use a variable integer encoding, so 1337 is encoded as 2 bytes rather than 8 bytes. It also stores field tags instead of field names, as well as a code idetifying the type of each field. (Protocol Buffers use a similar encoding)
 
 ## Avro example
 
+:::: {.columns}
+
+:::: {.column width=45%}
 Avro IDL:
 ```
 record Person {
-    string               userName;
-    union { null, long } favoriteNumber = null;
-    array<string>        interests;
+  string               userName;
+  union { null, long } favoriteNumber = null;
+  array<string>        interests;
 }
 ```
-
-The Avro encoding for this struct is 32 bytes. Like Thrift integers are encoded with a variable-length encoding. Unlike Thrift and Protocol Buffers, there are no field tags identifying each field or type codes identifying the type of the field. Instead the code reading the data relies on the schema to interpret the bytes - so that the schema used to read the data must be the same as that used to write the data.
+:::
+:::: {.column width=55%}
 
 ![Avro encoding example](avro-example.png)
+:::
+:::
+
+The Avro encoding for this struct is 32 bytes. Like Thrift integers are encoded with a variable-length encoding. Unlike Thrift and Protocol Buffers, there are no field tags identifying each field or type codes identifying the type of the field. Instead the code reading the data relies on the schema to interpret the bytes - so that the schema used to read the data must be the same as that used to write the data.
 
 ## Schema Evolution
 
