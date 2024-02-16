@@ -96,7 +96,7 @@ struct Person {
 :::
 :::
 
-The Thrift Compact Protocol encodes the struct in 34 bytes. It use a variable integer encoding, so 1337 is encoded as 2 bytes rather than 8 bytes. It also stores field tags instead of field names, as well as a code idetifying the type of each field. (Protocol Buffers use a similar encoding)
+The Thrift Compact Protocol encodes the struct in 34 bytes. It use a variable integer encoding, so 1337 is encoded as 2 bytes rather than 8 bytes. It also stores field tags instead of field names, as well as a code identifying the type of each field. (Protocol Buffers use a similar encoding)
 
 ## Avro example
 
