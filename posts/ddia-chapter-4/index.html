@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-02-11">
+<meta name="dcterms.date" content="2024-02-16">
 
 <title>self halt - DDIA Chapter 4 - Encoding and Evolution</title>
 <style>
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -137,6 +171,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#thrift-and-protocol-buffers" id="toc-thrift-and-protocol-buffers" class="nav-link" data-scroll-target="#thrift-and-protocol-buffers">Thrift and Protocol Buffers</a></li>
   <li><a href="#avro" id="toc-avro" class="nav-link" data-scroll-target="#avro">Avro</a></li>
   <li><a href="#parquet" id="toc-parquet" class="nav-link" data-scroll-target="#parquet">Parquet</a></li>
+  </ul></li>
+  <li><a href="#example-storing-a-struct-in-different-binary-formats" id="toc-example-storing-a-struct-in-different-binary-formats" class="nav-link" data-scroll-target="#example-storing-a-struct-in-different-binary-formats">Example: Storing a struct in different binary formats</a>
+  <ul class="collapse">
+  <li><a href="#messagepack-example" id="toc-messagepack-example" class="nav-link" data-scroll-target="#messagepack-example">MessagePack example</a></li>
+  <li><a href="#thrift-example" id="toc-thrift-example" class="nav-link" data-scroll-target="#thrift-example">Thrift example</a></li>
+  <li><a href="#avro-example" id="toc-avro-example" class="nav-link" data-scroll-target="#avro-example">Avro example</a></li>
   <li><a href="#schema-evolution" id="toc-schema-evolution" class="nav-link" data-scroll-target="#schema-evolution">Schema Evolution</a></li>
   </ul></li>
   <li><a href="#modes-of-dataflow" id="toc-modes-of-dataflow" class="nav-link" data-scroll-target="#modes-of-dataflow">Modes of Dataflow</a>
@@ -164,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 11, 2024</p>
+      <p class="date">February 16, 2024</p>
     </div>
   </div>
   
@@ -219,26 +259,84 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="avro" class="level2">
 <h2 class="anchored" data-anchor-id="avro">Avro</h2>
-<p><a href="https://avro.apache.org">Apache Avro</a></p>
+<p><a href="https://avro.apache.org">Apache Avro</a> is a binary encoding format that grew out of the Hadoop ecosystem.</p>
 </section>
-<section id="parquet" class="level2">
+<section id="parquet" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="parquet">Parquet</h2>
-<p><a href="https://parquet.apache.org">Apache Parquet</a></p>
+<div class="page-columns page-full"><p><a href="https://parquet.apache.org">Apache Parquet</a> differs from Avro in that Parquet os column-oriented whereas Avro is row-oriented. This makes it an efficient way to store and retrieve large data sets and is especially useful for data analysis applications. Being column oriented it can use more efficient compression schemes for each column as the data type for contiguous records is homogenous. </p><div class="no-row-height column-margin column-container"><span class="margin-aside"><a href="https://airbyte.com/data-engineering-resources/parquet-vs-avro">Comparison of Avro and Parquet</a></span></div></div>
+</section>
+</section>
+<section id="example-storing-a-struct-in-different-binary-formats" class="level1">
+<h1>Example: Storing a struct in different binary formats</h1>
+<p>Example record which we’ll encode in various binary formats</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode json code-with-copy"><code class="sourceCode json"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">{</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">"userName"</span><span class="fu">:</span> <span class="st">"Martin"</span><span class="fu">,</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">"favoriteNumber"</span><span class="fu">:</span> <span class="dv">1337</span><span class="fu">,</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">"interests"</span><span class="fu">:</span> <span class="ot">[</span><span class="st">"daydreaming"</span><span class="ot">,</span> <span class="st">"hacking"</span><span class="ot">]</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">}</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>With whitespace removed, the textual JSON encoding takes 81 bytes.</p>
+<section id="messagepack-example" class="level2">
+<h2 class="anchored" data-anchor-id="messagepack-example">MessagePack example</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="messagepack-example.png" class="img-fluid figure-img"></p>
+<figcaption>MessagePack encoding example</figcaption>
+</figure>
+</div>
+<p>The MessagePack encoding is 66 bytes, only about 20% smaller than the textual representation. The field names are included for every record, bloating the size.</p>
+</section>
+<section id="thrift-example" class="level2">
+<h2 class="anchored" data-anchor-id="thrift-example">Thrift example</h2>
+<p>Thrift IDL:</p>
+<pre><code>struct Person {
+  1: required string            userName,
+  2: optional i64               favoriteNumber,
+  3: optional list&lt;string&gt;      interests
+}</code></pre>
+<p>The Thrift Compact Protocol encodes the struct in 34 bytes. It use a variable integer encoding, so 1337 is encoded as 2 bytes rather than 8 bytes. It also stores field tags instead of field names, as well as a code idetifying the type of each field. (Protocol Buffers use a similar encoding)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="thrift-compact-example.png" class="img-fluid figure-img"></p>
+<figcaption>Thrift Compact Protocol encoding example</figcaption>
+</figure>
+</div>
+</section>
+<section id="avro-example" class="level2">
+<h2 class="anchored" data-anchor-id="avro-example">Avro example</h2>
+<p>Avro IDL:</p>
+<pre><code>record Person {
+    string               userName;
+    union { null, long } favoriteNumber = null;
+    array&lt;string&gt;        interests;
+}</code></pre>
+<p>The Avro encoding for this struct is 32 bytes. Like Thrift integers are encoded with a variable-length encoding. Unlike Thrift and Protocol Buffers, there are no field tags identifying each field or type codes identifying the type of the field. Instead the code reading the data relies on the schema to interpret the bytes - so that the schema used to read the data must be the same as that used to write the data.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="avro-example.png" class="img-fluid figure-img"></p>
+<figcaption>Avro encoding example</figcaption>
+</figure>
+</div>
 </section>
 <section id="schema-evolution" class="level2">
 <h2 class="anchored" data-anchor-id="schema-evolution">Schema Evolution</h2>
+<p>Field tags are critical to the encoding of data for both Thrift and Protocol Buffers. Field names can be changed without impact but field tags cannot be changed without invalidating any data already written. To maintain forward compatibility, a new scheme can add a field (using a new field tag) - old code will just skip the bytes following an unrecognized field tag. For backward compatibility, a new field can be added so long as it is optional - otherwise new code reading old data will not find the new required field. When removing a field, to maintain both forward and backward compatibility, the removed field must be optional (and you can’t use the same field tag again).</p>
+<p>Avro handles schema evolution by storing the <em>writer’s schema</em> in the file. When code with a new schema reads the file, it can compare the new schema with the old schema in the file. To maintain compatibility, only fields with a default value can be added or removed.</p>
 </section>
 </section>
 <section id="modes-of-dataflow" class="level1">
 <h1>Modes of Dataflow</h1>
+<p>Data can flow between processes in different ways. As these processes don’t share memory, the data must be encoded as a sequence of bytes to move from one process to the other.</p>
 <section id="dataflow-through-databases" class="level2">
 <h2 class="anchored" data-anchor-id="dataflow-through-databases">Dataflow through Databases</h2>
+<p>The process writing to the database encodes the data and the process reading from the database decodes it.</p>
 </section>
 <section id="dataflow-through-services-rest-and-rpc" class="level2">
 <h2 class="anchored" data-anchor-id="dataflow-through-services-rest-and-rpc">Dataflow through Services: REST and RPC</h2>
+<p>The client encodes a request, the server decodes the request and encodes a response, and the client finally decodes the response.</p>
 </section>
 <section id="message-passing-dataflow" class="level2">
 <h2 class="anchored" data-anchor-id="message-passing-dataflow">Message-passing Dataflow</h2>
+<p>Asynchronous message passing (using message brokers or actors), where nodes communicate by sending each other messages that are encoded by the sender and decoded by the recipient.</p>
 
 
 </section>
