@@ -2,8 +2,6 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/ddia-chapter-4/index.html",
-      "/posts/ddia-chapter-4-presentation/index.html",
       "/posts/2023-12-31-what-i-read-in-2023/index.html",
       "/posts/2022-12-31-what-i-read-in-2022/index.html",
       "/posts/2022-06-30-Should-Auld-Acquaintance/index.html",
@@ -28,6 +26,13 @@
       "/posts/2018-12-31-what-i-read-in-2018/index.html",
       "/posts/2017-12-31-what-i-read-in-2017/index.html",
       "/posts/2017-01-17-what-i-read-in-2016/index.html"
+    ]
+  },
+  {
+    "listing": "/ddia.html",
+    "items": [
+      "/projects/ddia/ddia-chapter-4/index.html",
+      "/projects/ddia/ddia-chapter-4-presentation/index.html"
     ]
   },
   {

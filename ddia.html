@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>self halt</title>
+<title>self halt - DDIA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -39,7 +41,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/nutshell-1.0.0/nutshell.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,13 +68,73 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ddia-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ddia-listings'] = new List('listing-ddia-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="self halt">
+<meta property="og:title" content="self halt - DDIA">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://blog.hanif.io/self-halt-2.jpeg">
+<meta property="og:image" content="https://blog.hanif.io/projects/ddia/ddia-chapter-4/ddia-cover.png">
 <meta property="og:site_name" content="self halt">
+<meta property="og:image:height" content="982">
+<meta property="og:image:width" content="748">
 </head>
 
 <body class="nav-fixed">
@@ -94,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -123,20 +184,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">self halt</h1>
+<h1 class="title">DDIA</h1>
 </div>
 
 
@@ -153,73 +208,67 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Notes from reading **Designing Data Intensive Applications* by Martin Kleppmann</p>
+<div id="listing-ddia-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1708059600000" data-listing-file-modified-sort="1708051592344" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1047">
+<a href="./projects/ddia/ddia-chapter-4/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/ddia/ddia-chapter-4/ddia-cover.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+DDIA Chapter 4 - Encoding and Evolution
+</h5>
+<div class="listing-reading-time card-text text-muted">
+6 min
+</div>
+<div class="card-text listing-description">
+This chapter introduces the concepts of <em>encoding</em>, how data structures are represented as bytes on a disk or over the network, and <em>evolution</em>, how we can change the structure…<em></em>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 16, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1708059600000" data-listing-file-modified-sort="1708052616921" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1004">
+<a href="./projects/ddia/ddia-chapter-4-presentation/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/ddia/ddia-chapter-4-presentation/ddia-cover.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+DDIA Chapter 4 - Presentation
+</h5>
+<div class="listing-reading-time card-text text-muted">
+6 min
+</div>
+<div class="card-text listing-description">
 
-<div class="no-row-height column-margin column-container"><div class="">
-<p>Image generate by Dall-E with the prompt: Create a logo in the style of XKCD for a blog named “self halt” named after a command in the Smalltalk programming language.</p>
-</div><div class="">
-<p>Alternatives produced by Dall-E:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="self-halt-1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
-</figure>
 </div>
-</div><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="self-halt-3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
-</figure>
-</div>
-</div></div>
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="self-halt-2.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%" data-fig-cap-location="margin"></p>
-</figure>
-</div>
-<p>‘self halt’ is the command used in the <a href="https://en.wikipedia.org/wiki/Smalltalk">:Smalltalk</a> programming language to stop normal execution and enter the debugger. One of the many cool things about Smalltalk was that then you could write some code in the debugger, accept it and resume execution, effectively debugging code into existence.</p>
-<p>I guess this <a href="./posts.html">blog</a> is <a href="./about.html">my</a> personal analogy for debugging my thoughts and musings into existence.</p>
-<p>Mostly I blog about the <a href="./what-i-read-in.html">books I’ve read</a>, but I hope to expand into other topics over time.</p>
-<hr>
-<p><br></p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p>More Dall-E generated images.</p>
-<p>Prompt: Create an image for my blog about reading using this picture of me, modern style, subdued colors include references to technology, programming and management.</p>
-<p><em>aside: The images produced don’t look like me!</em></p>
-</div></div><div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[[40,-20,40]]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./what-i-read-in.html"><img src="books-1.jpg" class="img-fluid figure-img" alt="What I read in…"></a></p>
-<figcaption><strong>What I read in…</strong></figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
-<p>&nbsp;</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./books.html"><img src="books-2.jpg" class="img-fluid figure-img" alt="Book Log"></a></p>
-<figcaption><strong>Book Log</strong></figcaption>
-</figure>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 16, 2024
 </div>
 </div>
 </div>
 </div>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<ul>
-<li><a href="./ddia.html">Computer Science Book Club Notes: Designing Data Intensive Applications</a></li>
-</ul>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 
 
-</section>
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
