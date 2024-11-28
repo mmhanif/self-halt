@@ -15,29 +15,55 @@
     ]
   },
   {
-    "listing": "/what-i-read-in.html",
-    "items": [
-      "/posts/2023-12-31-what-i-read-in-2023/index.html",
-      "/posts/2022-12-31-what-i-read-in-2022/index.html",
-      "/posts/2022-01-09-what-i-read-in-2021/index.html",
-      "/posts/2021-01-17-what-i-read-in-2020/index.html",
-      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
-      "/posts/2019-12-31-what-i-read-in-2019/index.html",
-      "/posts/2018-12-31-what-i-read-in-2018/index.html",
-      "/posts/2017-12-31-what-i-read-in-2017/index.html",
-      "/posts/2017-01-17-what-i-read-in-2016/index.html"
-    ]
-  },
-  {
-    "listing": "/ddia.html",
-    "items": [
-      "/projects/ddia/ddia-chapter-4/index.html",
-      "/projects/ddia/ddia-chapter-4-presentation/index.html"
-    ]
-  },
-  {
     "listing": "/books.html",
     "items": [
+      "/books/2024-11-12-muslims-dont-matter/index.html",
+      "/books/2024-11-10-2034/index.html",
+      "/books/2024-10-31-the-waiting/index.html",
+      "/books/2024-10-24-american-spy/index.html",
+      "/books/2024-10-19-simply-said/index.html",
+      "/books/2024-10-15-the-art-thief/index.html",
+      "/books/2024-10-14-authentic-gravitas/index.html",
+      "/books/2024-10-07-all-the-sinners-bleed/index.html",
+      "/books/2024-10-01-such-big-dreams/index.html",
+      "/books/2024-09-22-glucose-revolution/index.html",
+      "/books/2024-09-18-difficult-conversations-dont-have-to-be-difficult/index.html",
+      "/books/2024-09-17-the-hundred-years-war-on-palestine/index.html",
+      "/books/2024-09-17-ss-gb/index.html",
+      "/books/2024-09-07-under-the-tamarind-tree/index.html",
+      "/books/2024-09-07-why-fish-dont-exist/index.html",
+      "/books/2024-08-29-the-prosperity-paradox/index.html",
+      "/books/2024-08-24-what-happened-to-nina?/index.html",
+      "/books/2024-08-21-a-quantum-love-story/index.html",
+      "/books/2024-08-18-clear-thinking/index.html",
+      "/books/2024-08-14-funny-story/index.html",
+      "/books/2024-07-24-influence-is-your-superpower/index.html",
+      "/books/2024-07-22-standing-by-the-wall/index.html",
+      "/books/2024-07-20-the-secret-hours/index.html",
+      "/books/2024-07-14-bad-actors/index.html",
+      "/books/2024-07-11-slough-house/index.html",
+      "/books/2024-07-04-joe-country/index.html",
+      "/books/2024-06-25-london-rules/index.html",
+      "/books/2024-06-20-hello-world/index.html",
+      "/books/2024-06-16-spook-street/index.html",
+      "/books/2024-06-06-real-tigers/index.html",
+      "/books/2024-06-01-the-lost-cause/index.html",
+      "/books/2024-05-28-how-to-know-a-person/index.html",
+      "/books/2024-05-25-listen-for-the-lie/index.html",
+      "/books/2024-05-19-dead-lions/index.html",
+      "/books/2024-05-17-war-and-peace-and-it/index.html",
+      "/books/2024-05-16-the-spider-network/index.html",
+      "/books/2024-05-16-how-to-listen/index.html",
+      "/books/2024-04-28-leadership-is-language/index.html",
+      "/books/2024-04-28-mbs/index.html",
+      "/books/2024-04-21-judgment/index.html",
+      "/books/2024-04-08-demings-journey-to-profound-knowledge/index.html",
+      "/books/2024-04-08-supercommunicators/index.html",
+      "/books/2024-04-03-slow-horses/index.html",
+      "/books/2024-03-27-knowledge-and-decisions/index.html",
+      "/books/2024-03-21-the-hunter/index.html",
+      "/books/2024-03-08-the-plinko-bounce/index.html",
+      "/books/2024-02-18-forever-home/index.html",
       "/books/2024-02-13-a-man-for-all-markets/index.html",
       "/books/2024-01-22-the-running-grave/index.html",
       "/books/2024-01-13-dragonfired/index.html",
@@ -348,6 +374,27 @@
       "/books/2016-12-01-few-lessons-from-sherlock-holmes/index.html",
       "/books/2016-12-01-song-of-the-dodo/index.html",
       "/books/2016-12-01-startup-stories/index.html"
+    ]
+  },
+  {
+    "listing": "/ddia.html",
+    "items": [
+      "/projects/ddia/ddia-chapter-4/index.html",
+      "/projects/ddia/ddia-chapter-4-presentation/index.html"
+    ]
+  },
+  {
+    "listing": "/what-i-read-in.html",
+    "items": [
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
+      "/posts/2022-12-31-what-i-read-in-2022/index.html",
+      "/posts/2022-01-09-what-i-read-in-2021/index.html",
+      "/posts/2021-01-17-what-i-read-in-2020/index.html",
+      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
+      "/posts/2019-12-31-what-i-read-in-2019/index.html",
+      "/posts/2018-12-31-what-i-read-in-2018/index.html",
+      "/posts/2017-12-31-what-i-read-in-2017/index.html",
+      "/posts/2017-01-17-what-i-read-in-2016/index.html"
     ]
   }
 ]
