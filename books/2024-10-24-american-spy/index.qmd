@@ -1,0 +1,25 @@
+---
+title: "American Spy"
+description: "**American Spy** by Lauren Wilkinson"
+date: 2024-10-24
+categories: [books, 2024, Hardcover, fiction]
+image: American_Spy.jpg
+---
+![**American Spy** by Lauren Wilkinson](American_Spy.jpg){fig-align="left"}
+
+<sup>isbn-13: 9780812998955</sup>
+
+*Hardcover*
+
+*Publisher's Description*
+
+1986, the heart of the Cold War. A young black woman working in an old
+boys' club, Marie Mitchell's FBI career has stalled out and her days are
+filled with monotonous paperwork. Given the opportunity to join a task
+force aimed at undermining Thomas Sankara, the charismatic revolutionary
+president of Burkina Faso whose Communist ideology has made him a target
+for American intervention, she says yes. In the year that follows Marie
+observes Sankara, seduces him-- and has a hand in the coup that will bring
+him down. But doing so will change everything she believes about what it
+means to be a spy, a lover, a sister, and a good American. -- adapted from
+jacket.
