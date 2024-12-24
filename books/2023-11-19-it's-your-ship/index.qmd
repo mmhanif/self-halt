@@ -2,7 +2,7 @@
 title: "It's Your Ship: Management Techniques from the Best Damn Ship in the Navy"
 description: "**It's Your Ship: Management Techniques from the Best Damn Ship in the Navy** by D. Michael Abrashoff"
 date: 2023-11-19
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: It's_Your_Ship.jpg
 ---
 ![**It's Your Ship: Management Techniques from the Best Damn Ship in the Navy** by D. Michael Abrashoff](It's_Your_Ship.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Unicorn Project"
 description: "**The Unicorn Project** by Gene Kim"
 date: 2019-12-01
-categories: [books, 2019, Hardcover, fiction, software-development, business-fable]
+categories: [books, "2019", Hardcover, fiction, software-development, business-fable]
 image: the-unicorn-project.jpg
 ---
 ![**The Unicorn Project** by Gene Kim](the-unicorn-project.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Secret Hours"
 description: "**The Secret Hours** by Mick Herron"
 date: 2024-07-20
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Secret_Hours.jpg
 ---
 ![**The Secret Hours** by Mick Herron](The_Secret_Hours.jpg){fig-align="left"}

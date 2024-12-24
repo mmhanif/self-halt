@@ -2,7 +2,7 @@
 title: "MBS: The Rise to Power of Mohammed bin Salman"
 description: "**MBS: The Rise to Power of Mohammed bin Salman** by Ben  Hubbard"
 date: 2024-04-28
-categories: [books, 2024, Audible, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: MBS.jpg
 ---
 ![**MBS: The Rise to Power of Mohammed bin Salman** by Ben  Hubbard](MBS.jpg){fig-align="left"}

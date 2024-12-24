@@ -2,7 +2,7 @@
 title: "The Making Of A Manager"
 description: "**The Making Of A Manager** by Julie Zhuo"
 date: 2021-03-23
-categories: [books, non-fiction, 2021, Kindle, management]
+categories: [books, non-fiction, "2021", Kindle, management]
 image: the-making-of-a-manager.jpg
 ---
 ![**The Making Of A Manager** by Julie Zhuo](the-making-of-a-manager.jpg){fig-align="left"}

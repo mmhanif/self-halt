@@ -2,7 +2,7 @@
 title: "The Art Of Statistics"
 description: "**The Art Of Statistics** by David Spiegelhalter"
 date: 2020-01-20
-categories: [books, non-fiction, 2020, Hardcover]
+categories: [books, non-fiction, "2020", Hardcover]
 image: the-art-of-statistics.jpg
 ---
 ![**The Art Of Statistics** by David Spiegelhalter](the-art-of-statistics.jpg){fig-align="left"}

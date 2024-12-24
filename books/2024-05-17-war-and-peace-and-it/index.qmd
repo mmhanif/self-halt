@@ -2,7 +2,7 @@
 title: "War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age"
 description: "**War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age** by Mark Schwartz"
 date: 2024-05-17
-categories: [books, 2024, Kindle, non-fiction]
+categories: [books, "2024", Kindle, non-fiction]
 image: War_and_Peace_and_IT.jpg
 ---
 ![**War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age** by Mark Schwartz](War_and_Peace_and_IT.jpg){fig-align="left"}

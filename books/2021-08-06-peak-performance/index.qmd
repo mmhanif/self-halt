@@ -2,7 +2,7 @@
 title: "Peak Performance"
 description: "**Peak Performance** by Brad Stulberg, Steve Magness"
 date: 2021-08-06
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: peak-performance.jpg
 ---
 ![**Peak Performance** by Brad Stulberg, Steve Magness](peak-performance.jpg){fig-align="left"}

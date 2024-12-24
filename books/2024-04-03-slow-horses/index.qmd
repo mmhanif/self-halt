@@ -2,7 +2,7 @@
 title: "Slow Horses (Slough House, #1)"
 description: "**Slow Horses (Slough House, #1)** by Mick Herron"
 date: 2024-04-03
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Slow_Horses.jpg
 ---
 ![**Slow Horses (Slough House, #1)** by Mick Herron](Slow_Horses.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Motive"
 description: "**The Motive** by Patrick M. Lencioni"
 date: 2020-02-29
-categories: [books, fiction, 2020, Hardcover]
+categories: [books, fiction, "2020", Hardcover]
 image: the-motive.jpg
 ---
 ![**The Motive** by Patrick M. Lencioni](the-motive.jpg){fig-align="left"}

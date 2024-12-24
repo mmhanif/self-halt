@@ -2,7 +2,7 @@
 title: "Ex-Heroes Series"
 description: "**Ex-Heroes Series** by Peter Clines"
 date: 2016-12-01
-categories: [2016, fiction, science-fiction]
+categories: ["2016", fiction, science-fiction]
 image: ex-heroes-series.jpg
 ---
 ![Ex-Heroes Series by Peter Cline)](ex-heroes-series.jpg){fig-align="left"}

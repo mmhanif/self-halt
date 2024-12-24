@@ -2,7 +2,7 @@
 title: "To Kill A Mockingbird"
 description: "**To Kill A Mockingbird** by Harper Lee"
 date: 2020-06-07
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 ---
 ![**To Kill A Mockingbird** by Harper Lee](to-kill-a-mockingbird.jpg){fig-align="left"}
 

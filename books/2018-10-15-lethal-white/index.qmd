@@ -2,7 +2,7 @@
 title: "Lethal White"
 description: "**Lethal White (A Cormoran Strike novel)** by Robert Galbraith - (*Kindle*)"
 date: 2018-10-15
-categories: [books, fiction, detective, 2018, Kindle]
+categories: [books, fiction, detective,"2018", Kindle]
 image: lethal-white.jpg
 ---
 ![**Lethal White (A Cormoran Strike novel)** by Robert Galbraith - (*Kindle*)](lethal-white.jpg){fig-align="left"}

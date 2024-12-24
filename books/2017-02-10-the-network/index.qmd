@@ -2,7 +2,7 @@
 title: "The Network"
 description: "**The Network: The Battle for the Airwaves and the Birth of the Communications Age** by Scott Woolley "
 date: 2017-02-10
-categories: [2017, Audible, non-fiction, engineering]
+categories: ["2017", Audible, non-fiction, engineering]
 image: the-network.jpg
 ---
 ![**The Network: The Battle for the Airwaves and the Birth of the Communications Age** by Scott Woolley](the-network.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "2034: A Novel of the Next World War"
 description: "**2034: A Novel of the Next World War** by Elliot Ackerman"
 date: 2024-11-10
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 image: 2034.jpg
 ---
 ![**2034: A Novel of the Next World War** by Elliot Ackerman](2034.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "High Conflict - Why We Get Trapped And How We Get Out"
 description: "**High Conflict - Why We Get Trapped And How We Get Out** by Amanda Ripley"
 date: 2022-09-18
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: high-conflict.jpg
 ---
 ![**High Conflict - Why We Get Trapped And How We Get Out** by Amanda Ripley](high-conflict.jpg){fig-align="left"}

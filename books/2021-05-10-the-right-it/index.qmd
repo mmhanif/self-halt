@@ -2,7 +2,7 @@
 title: "The Right It"
 description: "**The Right It** by Alberto Savoia"
 date: 2021-05-10
-categories: [books, non-fiction, 2021, Hardcover]
+categories: [books, non-fiction, "2021", Hardcover]
 image: the-right-it.jpg
 ---
 ![**The Right It** by Alberto Savoia](the-right-it.jpg){fig-align="left"}

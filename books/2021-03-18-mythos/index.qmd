@@ -2,7 +2,7 @@
 title: "Mythos"
 description: "**Mythos** by Stephen Fry"
 date: 2021-03-18
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: mythos.jpg
 ---
 ![**Mythos** by Stephen Fry](mythos.jpg){fig-align="left"}

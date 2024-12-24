@@ -2,7 +2,7 @@
 title: "The Yiddish Policemen's Union - A Novel"
 description: "**The Yiddish Policemen's Union - A Novel** by Michael Chabon"
 date: 2022-02-02
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-yiddish-policemens-union.jpg
 ---
 ![**The Yiddish Policemen's Union - A Novel** by Michael Chabon](the-yiddish-policemens-union.jpg){fig-align="left"}

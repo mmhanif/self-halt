@@ -2,7 +2,7 @@
 title: "Difficult Conversations Don't Have to Be Difficult: A Simple, Smart Way to Make Your Relationships and Team Better (Jon Gordon)"
 description: "**Difficult Conversations Don't Have to Be Difficult: A Simple, Smart Way to Make Your Relationships and Team Better (Jon Gordon)** by Jon Gordon"
 date: 2024-09-18
-categories: [books, 2024, Hardcover, non-fiction]
+categories: [books, "2024", Hardcover, non-fiction]
 image: Difficult_Conversations_Dont_Have_to_Be_Difficult.jpg
 ---
 ![**Difficult Conversations Don't Have to Be Difficult: A Simple, Smart Way to Make Your Relationships and Team Better (Jon Gordon)** by Jon Gordon](Difficult_Conversations_Dont_Have_to_Be_Difficult.jpg){fig-align="left"}

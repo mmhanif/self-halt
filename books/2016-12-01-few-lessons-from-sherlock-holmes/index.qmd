@@ -2,7 +2,7 @@
 title: "A Few Lessons from Sherlock Holmes"
 description: "**A Few Lessons from Sherlock Holmes** by Peter Bevelin"
 date: 2016-12-01
-categories: [2016, non-fiction]
+categories: ["2016", non-fiction]
 image: few-lessons-from-sherlock-holmes.jpg
 ---
 ![**A Few Lessons from Sherlock Holmes** by Peter Bevelin](few-lessons-from-sherlock-holmes.jpg){fig-align="left"}

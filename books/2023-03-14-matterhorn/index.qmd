@@ -2,7 +2,7 @@
 title: "Matterhorn"
 description: "**Matterhorn** by Karl Marlantes"
 date: 2023-03-14
-categories: [books, 2023, Paperback, fiction]
+categories: [books, "2023", Paperback, fiction]
 image: Matterhorn.jpg
 ---
 ![**Matterhorn** by Karl Marlantes](Matterhorn.jpg){fig-align="left"}

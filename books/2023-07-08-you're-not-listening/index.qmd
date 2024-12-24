@@ -2,7 +2,7 @@
 title: "You're Not Listening: What You're Missing and Why It Matters"
 description: "**You're Not Listening: What You're Missing and Why It Matters** by Kate   Murphy"
 date: 2023-07-08
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: You're_Not_Listening.jpg
 ---
 ![**You're Not Listening: What You're Missing and Why It Matters** by Kate   Murphy](You're_Not_Listening.jpg){fig-align="left"}

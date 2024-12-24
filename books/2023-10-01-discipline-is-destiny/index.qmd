@@ -2,7 +2,7 @@
 title: "Discipline Is Destiny: The Power of Self-Control"
 description: "**Discipline Is Destiny: The Power of Self-Control** by Ryan Holiday"
 date: 2023-10-01
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: Discipline_Is_Destiny.jpg
 ---
 ![**Discipline Is Destiny: The Power of Self-Control** by Ryan Holiday](Discipline_Is_Destiny.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Spark"
 description: "**Spark: The Revolutionary New Science of Exercise and the Brain** by John J. Ratey - (*Audible*)"
 date: 2017-11-05
-categories: [2017, Audible, non-fiction, science]
+categories: ["2017", Audible, non-fiction, science]
 image: spark.jpg
 ---
 ![**Spark: The Revolutionary New Science of Exercise and the Brain** by John J. Ratey](spark.jpg){fig-align="left"}

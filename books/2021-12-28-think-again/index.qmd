@@ -2,7 +2,7 @@
 title: "Think Again"
 description: "**Think Again** by Adam Grant"
 date: 2021-12-28
-categories: [books, non-fiction, 2021, Hardcover]
+categories: [books, non-fiction, "2021", Hardcover]
 image: think-again.jpg
 ---
 ![**Think Again** by Adam Grant](think-again.jpg){fig-align="left"}

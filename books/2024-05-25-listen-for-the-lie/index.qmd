@@ -2,7 +2,7 @@
 title: "Listen for the Lie"
 description: "**Listen for the Lie** by Amy Tintera"
 date: 2024-05-25
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Listen_for_the_Lie.jpg
 ---
 ![**Listen for the Lie** by Amy Tintera](Listen_for_the_Lie.jpg){fig-align="left"}

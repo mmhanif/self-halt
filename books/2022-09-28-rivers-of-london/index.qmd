@@ -2,7 +2,7 @@
 title: "Rivers Of London"
 description: "**Rivers Of London** by Ben Aaronovitch"
 date: 2022-09-28
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: rivers-of-london.jpg
 ---
 ![**Rivers Of London** by Ben Aaronovitch](rivers-of-london.jpg){fig-align="left"}

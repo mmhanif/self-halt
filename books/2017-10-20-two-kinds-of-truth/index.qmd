@@ -2,7 +2,7 @@
 title: "Two Kinds of Truth"
 description: "**Two Kinds of Truth** by Michael Connelly - (*Audible*)"
 date: 2017-10-20
-categories: [2017, Audible, fiction]
+categories: ["2017", Audible, fiction]
 image: two-kinds-of-truth.jpg
 ---
 ![**Two Kinds of Truth** by Michael Connelly](two-kinds-of-truth.jpg){fig-align="left"}

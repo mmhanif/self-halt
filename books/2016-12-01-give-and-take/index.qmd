@@ -2,7 +2,7 @@
 title: "Give and Take"
 description: "**Give and Take: Why Helping Others Drives Our Success** by Adam M. Grant"
 date: 2016-12-01
-categories: [2016, non-fiction]
+categories: ["2016", non-fiction]
 image: give-and-take.jpg
 ---
 ![**Give and Take: Why Helping Others Drives Our Success** by Adam M. Grant - (This book was recommended by a former manager - it was actually required pre-reading for a management "offsite". It turned out to be a great read and very thought provoking. )](give-and-take.jpg){fig-align="left"}

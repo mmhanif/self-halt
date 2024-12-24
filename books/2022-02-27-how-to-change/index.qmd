@@ -2,7 +2,7 @@
 title: "How To Change - The Science Of Getting From Where You Are To Where You Want To Be"
 description: "**How To Change - The Science Of Getting From Where You Are To Where You Want To Be** by Katy Milkman"
 date: 2022-02-27
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: how-to-change.jpg
 ---
 ![**How To Change - The Science Of Getting From Where You Are To Where You Want To Be** by Katy Milkman](how-to-change.jpg){fig-align="left"}

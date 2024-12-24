@@ -2,7 +2,7 @@
 title: "Generative Art"
 description: "**Generative Art: A Practical Guide Using Processing** by Matt Pearson"
 date: 2016-12-01
-categories: [2016, non-fiction, programming]
+categories: ["2016", non-fiction, programming]
 image: generative-art.jpg
 ---
 ![**Generative Art: A Practical Guide Using Processing** by Matt Pearson](generative-art.jpg){fig-align="left"}

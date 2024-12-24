@@ -2,7 +2,7 @@
 title: "Educated"
 description: "**Educated** by Tara Westover"
 date: 2019-04-19
-categories: [books, 2019, Audible, non-fiction, memoir]
+categories: [books, "2019", Audible, non-fiction, memoir]
 image: educated.jpg
 ---
 ![**Educated** by Tara Westover](educated.jpg){fig-align="left"}

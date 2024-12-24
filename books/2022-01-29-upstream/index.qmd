@@ -2,7 +2,7 @@
 title: "Upstream - The Quest To Solve Problems Before They Happen"
 description: "**Upstream - The Quest To Solve Problems Before They Happen** by Dan Heath"
 date: 2022-01-29
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: upstream.jpg
 ---
 ![**Upstream - The Quest To Solve Problems Before They Happen** by Dan Heath](upstream.jpg){fig-align="left"}

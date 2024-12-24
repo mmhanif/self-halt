@@ -2,7 +2,7 @@
 title: "Dade County Death Cruise"
 description: "**Dade County Death Cruise (Orlando People #2)** by Alexander C. Kane"
 date: 2021-12-27
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 ---
 ![**Dade County Death Cruise (Orlando People #2)** by Alexander C. Kane](dade-county-death-cruise.jpg){fig-align="left"}
 

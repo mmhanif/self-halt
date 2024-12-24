@@ -2,7 +2,7 @@
 title: "The Three Body Problem"
 description: "**The Three-Body Problem (Remembrance of Earth's Past #1)** by Liu Cixin, translated by Ken Liu - (*Audible*)"
 date: 2017-10-30
-categories: [2017, Audible, fiction, science-fiction]
+categories: ["2017", Audible, fiction, science-fiction]
 image: three-body-problem.jpg
 ---
 ![**The Three-Body Problem (Remembrance of Earth's Past #1)** by Liu Cixin](three-body-problem.jpg){fig-align="left"}

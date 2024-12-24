@@ -2,7 +2,7 @@
 title: "Beyond The Phoenix Project"
 description: "**Beyond The Phoenix Project** by Gene Kim, John Willis"
 date: 2019-04-25
-categories: [books, 2019, Audible, podcast, non-fiction]
+categories: [books, "2019", Audible, podcast, non-fiction]
 image: beyond-the-phoenix-project.jpg
 ---
 ![**Beyond The Phoenix Project** by Gene Kim, John Willis](beyond-the-phoenix-project.jpg){fig-align="left"}

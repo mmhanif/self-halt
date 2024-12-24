@@ -2,7 +2,7 @@
 title: "Sophia Of Silicon Valley"
 description: "**Sophia Of Silicon Valley** by Anna Yen"
 date: 2021-07-13
-categories: [books, fiction, 2021, Kindle]
+categories: [books, fiction, "2021", Kindle]
 image: sophia-of-silicon-valley.jpg
 ---
 ![**Sophia Of Silicon Valley** by Anna Yen](sophia-of-silicon-valley.jpg){fig-align="left"}

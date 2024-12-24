@@ -2,7 +2,7 @@
 title: "The Law Of Innocence"
 description: "**The Law Of Innocence** by Michael Connelly"
 date: 2020-11-27
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: the-law-of-innocence.jpg
 ---
 ![**The Law Of Innocence** by Michael Connelly](the-law-of-innocence.jpg){fig-align="left"}

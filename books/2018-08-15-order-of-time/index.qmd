@@ -2,7 +2,7 @@
 title: "The Order of Time"
 description: "**The Order of Time** by Carlos Rovelli - (*Hardcover*)"
 date: 2018-08-15
-categories: [books, non-fiction, science, 2018, Hardcover]
+categories: [books, non-fiction, science,"2018", Hardcover]
 image: order-of-time.jpg
 ---
 ![**The Order of Time** by Carlos Rovelli - (*Hardcover*)](order-of-time.jpg){fig-align="left"}

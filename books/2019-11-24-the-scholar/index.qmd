@@ -2,7 +2,7 @@
 title: "The Scholar"
 description: "**The Scholar** by Dervla McTiernan"
 date: 2019-11-24
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: the-scholar.jpg
 ---
 ![**The Scholar** by Dervla McTiernan](the-scholar.jpg){fig-align="left"}

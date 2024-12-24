@@ -2,7 +2,7 @@
 title: "Alchemy"
 description: "**Alchemy** by Rory Sutherland"
 date: 2020-06-29
-categories: [books, non-fiction, 2020, Audible]
+categories: [books, non-fiction, "2020", Audible]
 image: alchemy.jpg
 ---
 ![**Alchemy** by Rory Sutherland](alchemy.jpg){fig-align="left"}

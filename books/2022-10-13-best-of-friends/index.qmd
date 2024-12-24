@@ -2,7 +2,7 @@
 title: "Best Of Friends - A Novel"
 description: "**Best Of Friends - A Novel** by Kamila Shamsie"
 date: 2022-10-13
-categories: [books, fiction, 2022, Paperback]
+categories: [books, fiction, "2022", Paperback]
 image: best-of-friends.jpg
 ---
 ![**Best Of Friends - A Novel** by Kamila Shamsie](best-of-friends.jpg){fig-align="left"}

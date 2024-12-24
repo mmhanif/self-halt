@@ -2,7 +2,7 @@
 title: "Stolen Thoughts (Watch What You Wish For #2)"
 description: "**Stolen Thoughts (Watch What You Wish For #2)** by Tim Tigner"
 date: 2023-09-23
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 image: Stolen_Thoughts.jpg
 ---
 ![**Stolen Thoughts (Watch What You Wish For #2)** by Tim Tigner](Stolen_Thoughts.jpg){fig-align="left"}

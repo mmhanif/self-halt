@@ -2,7 +2,7 @@
 title: "The People's House"
 description: "**The People's House** by David Pepper"
 date: 2022-08-12
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-peoples-house.jpg
 ---
 ![**The People's House** by David Pepper](the-peoples-house.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "When: The Scientific Secrets of Perfect Timing"
 description: "**When: The Scientific Secrets of Perfect Timing** by Daniel H. Pink"
 date: 2023-01-29
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: When.jpg
 ---
 ![**When: The Scientific Secrets of Perfect Timing** by Daniel H. Pink](When.jpg){fig-align="left"}

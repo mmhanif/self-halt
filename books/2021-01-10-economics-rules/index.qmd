@@ -2,7 +2,7 @@
 title: "Economics Rules"
 description: "**Economics Rules** by Dani Rodrik"
 date: 2021-01-10
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: economics-rules.jpg
 ---
 ![**Economics Rules** by Dani Rodrik](economics-rules.jpg){fig-align="left"}

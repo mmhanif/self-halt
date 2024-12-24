@@ -2,7 +2,7 @@
 title: "Son Of A Liche"
 description: "**Son Of A Liche** by J. Zachary Pike"
 date: 2020-11-23
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: son-of-a-liche.jpg
 ---
 ![**Son Of A Liche** by J. Zachary Pike](son-of-a-liche.jpg){fig-align="left"}

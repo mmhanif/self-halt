@@ -2,7 +2,7 @@
 title: "Be The Hero - Three Powerful Ways To Overcome Challenges In Work And Life"
 description: "**Be The Hero - Three Powerful Ways To Overcome Challenges In Work And Life** by Noah Blumenthal"
 date: 2022-08-23
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: be-the-hero.jpg
 ---
 ![**Be The Hero - Three Powerful Ways To Overcome Challenges In Work And Life** by Noah Blumenthal](be-the-hero.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Night Fire"
 description: "**The Night Fire** by Michael Connelly"
 date: 2019-10-26
-categories: [books, 2019, Audible, Kindle, fiction]
+categories: [books, "2019", Audible, Kindle, fiction]
 image: the-night-fire.jpg
 ---
 ![**The Night Fire** by Michael Connelly](the-night-fire.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Talk Lean - Shorter Meetings. Quicker Results. Better Relations"
 description: "**Talk Lean - Shorter Meetings. Quicker Results. Better Relations** by Alan Palmer"
 date: 2022-10-21
-categories: [books, non-fiction, 2022, Paperback]
+categories: [books, non-fiction, "2022", Paperback]
 image: talk-lean.jpg
 ---
 ![**Talk Lean - Shorter Meetings. Quicker Results. Better Relations** by Alan Palmer](talk-lean.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Communication for Engineers"
 description: "Communication for Engineers"
 date: 2021-04-19
-categories: [books, non-fiction, 2021, Paperback]
+categories: [books, non-fiction, "2021", Paperback]
 image: communication-for-engineers.jpg
 ---
 ![Communication for Engineers](communication-for-engineers.jpg){fig-align="left"}

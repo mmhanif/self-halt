@@ -2,7 +2,7 @@
 title: "Humans vs Computers"
 description: "**Humans vs Computers** by Gojko Adzic, Nikola Korac - (*Kindle*)"
 date: 2018-03-16
-categories: [books, non-fiction, software-development, 2018, Kindle]
+categories: [books, non-fiction, software-development,"2018", Kindle]
 image: humans-vs-computers.jpg
 ---
 ![**Humans vs Computers** by Gojko Adzic, Nikola Korac - (*Kindle*)](humans-vs-computers.jpg){fig-align="left"}

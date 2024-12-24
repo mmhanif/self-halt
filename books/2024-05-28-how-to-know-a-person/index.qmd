@@ -2,7 +2,7 @@
 title: "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen"
 description: "**How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** by David  Brooks"
 date: 2024-05-28
-categories: [books, 2024, Audible, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: How_to_Know_a_Person.jpg
 ---
 ![**How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** by David  Brooks](How_to_Know_a_Person.jpg){fig-align="left"}

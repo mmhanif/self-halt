@@ -2,7 +2,7 @@
 title: "Red Notice"
 description: "**Red Notice** by Bill Browder"
 date: 2021-12-12
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: red-notice.jpg
 ---
 ![**Red Notice** by Bill Browder](red-notice.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Deep Work"
 description: "**Deep Work: Rules for Focused Success in a Distracted World** by Cal Newport - (*Kindle*)"
 date: 2017-01-12
-categories: [2017, Kindle, productivity, non-fiction]
+categories: ["2017", Kindle, productivity, non-fiction]
 image: deep-work.jpg
 ---
 ![**Deep Work: Rules for Focused Success in a Distracted World** by Cal Newport](deep-work.jpg){fig-align="left"}

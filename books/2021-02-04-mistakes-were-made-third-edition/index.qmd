@@ -2,7 +2,7 @@
 title: "Mistakes Were Made Third Edition"
 description: "**Mistakes Were Made Third Edition** by Carol Tavris, Elliot Aronson"
 date: 2021-02-04
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: mistakes-were-made-third-edition.jpg
 ---
 ![**Mistakes Were Made Third Edition** by Carol Tavris, Elliot Aronson](mistakes-were-made-third-edition.jpg){fig-align="left"}

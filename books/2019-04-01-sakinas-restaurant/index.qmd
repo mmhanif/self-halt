@@ -2,7 +2,7 @@
 title: "Sakina's Restaurant"
 description: "**Sakina's Restaurant** by Aasif Mandvi"
 date: 2019-04-01
-categories: [books, 2019, Audible, play]
+categories: [books, "2019", Audible, play]
 ---
 ![**Sakina's Restaurant** by Aasif Mandvi](sakinas-restaurant.jpg){fig-align="left"}
 

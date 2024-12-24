@@ -2,7 +2,7 @@
 title: "The Holy Quran with Arabic Text and English Translation"
 description: "**The Holy Quran with Arabic Text and English Translation**"
 date: 2020-09-20
-categories: [books, religious text, 2020, Hardcover]
+categories: [books, religious text, "2020", Hardcover]
 image: holy-quran.png
 ---
 ![**The Holy Quran with Arabic Text and English Translation**](holy-quran.png){fig-align="left"}

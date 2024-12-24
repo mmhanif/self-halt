@@ -2,7 +2,7 @@
 title: "Wrecked"
 description: "**Wrecked** by Joe Ide"
 date: 2019-03-01
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: wrecked.jpg
 ---
 ![**Wrecked** by Joe Ide](wrecked.jpg){fig-align="left"}

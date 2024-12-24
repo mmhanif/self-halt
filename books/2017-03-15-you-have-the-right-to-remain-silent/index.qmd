@@ -2,7 +2,7 @@
 title: "It Worked For Me"
 description: "**You Have the Right to Remain Innocent** by James Duane - (*Audible*)"
 date: 2017-03-15
-categories: [2017, Audible, non-fiction, law]
+categories: ["2017", Audible, non-fiction, law]
 image: you-have-the-right-to-remain-silent.jpg
 ---
 ![**You Have the Right to Remain Innocent** by James Duane](you-have-the-right-to-remain-silent.jpg){fig-align="left"}

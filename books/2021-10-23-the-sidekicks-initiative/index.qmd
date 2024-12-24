@@ -2,7 +2,7 @@
 title: "The Sidekicks Initiative"
 description: "**The Sidekicks Initiative: A Comedy Superhero Adventure** by Barry Hutchinson"
 date: 2021-10-23
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 ---
 ![**The Sidekicks Initiative: A Comedy Superhero Adventure** by Barry Hutchinson](sidekicks-initiative.jpg){fig-align="left"}
 

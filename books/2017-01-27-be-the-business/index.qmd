@@ -2,7 +2,7 @@
 title: "Be the Business"
 description: "**Be the Business: CIOs in the New Era of IT** by Martha Heller - (*Kindle*)"
 date: 2017-01-27
-categories: [2017, Kindle, non-fiction, business]
+categories: ["2017", Kindle, non-fiction, business]
 image: be-the-business.jpg
 ---
 ![**Be the Business: CIOs in the New Era of IT** by Martha Heller](be-the-business.jpg){fig-align="left"}

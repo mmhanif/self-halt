@@ -2,7 +2,7 @@
 title: "Naval Stories"
 description: "**Turn the Ship Around!: A True Story of Turning Followers into Leaders** by L. David Marquet / \n**It's Your Ship: Management Techniques from the Best Damn Ship in the Navy** by Michael Abrashoff"
 date: 2016-12-01
-categories: [2016, non-fiction, management]
+categories: ["2016", non-fiction, management]
 image: turn_the_ship_around.jpeg
 ---
 ![**Turn the Ship Around!: A True Story of Turning Followers into Leaders** by L. David Marquet)](turn_the_ship_around.jpeg){fig-align="left"}

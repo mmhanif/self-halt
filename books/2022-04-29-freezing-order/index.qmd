@@ -2,7 +2,7 @@
 title: "Freezing Order - A True Story Of Money Laundering, Murder, And Surviving Vladimir Putin's Wrath"
 description: "**Freezing Order - A True Story Of Money Laundering, Murder, And Surviving Vladimir Putin's Wrath** by Bill Browder"
 date: 2022-04-29
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: freezing-order.jpg
 ---
 ![**Freezing Order - A True Story Of Money Laundering, Murder, And Surviving Vladimir Putin's Wrath** by Bill Browder](freezing-order.jpg){fig-align="left"}

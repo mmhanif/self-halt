@@ -2,7 +2,7 @@
 title: "The Thief Lord"
 description: "**The Thief Lord** by Cornelia Funke"
 date: 2016-12-01
-categories: [2016, fiction]
+categories: ["2016", fiction]
 image: the-thief-lord.jpg
 ---
 ![**The Thief Lord** by Cornelia Funke](the-thief-lord.jpg){fig-align="left"}

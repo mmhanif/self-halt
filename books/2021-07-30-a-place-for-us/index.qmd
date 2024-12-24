@@ -2,7 +2,7 @@
 title: "A Place For Us"
 description: "**A Place For Us** by Fatima Farheen Mirza"
 date: 2021-07-30
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: a-place-for-us.jpg
 ---
 ![**A Place For Us** by Fatima Farheen Mirza](a-place-for-us.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Obstacle is the Way"
 description: "**The Obstacle is the Way** by Ryan Holiday"
 date: 2019-12-15
-categories: [books, 2019, Audible, non-fiction, stoicism]
+categories: [books, "2019", Audible, non-fiction, stoicism]
 image: the-obstacle-is-the-way.jpg
 ---
 ![**The Obstacle is the Way** by Ryan Holiday](the-obstacle-is-the-way.jpg){fig-align="left"}

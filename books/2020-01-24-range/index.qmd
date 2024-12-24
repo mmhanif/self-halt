@@ -2,7 +2,7 @@
 title: "Range"
 description: "**Range** by David Epstein"
 date: 2020-01-24
-categories: [books, non-fiction, 2020, Audible]
+categories: [books, non-fiction, "2020", Audible]
 image: range.jpg
 ---
 ![**Range** by David Epstein](range.jpg){fig-align="left"}

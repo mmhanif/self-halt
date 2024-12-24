@@ -2,7 +2,7 @@
 title: "The Siege of Mecca: The Forgotten Uprising in Islam's Holiest Shrine and the Birth of Al Qaeda"
 description: "**The Siege of Mecca: The Forgotten Uprising in Islam's Holiest Shrine and the Birth of Al Qaeda** by Yaroslav Trofimov"
 date: 2023-06-11
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: The_Siege_of_Mecca.jpg
 ---
 ![**The Siege of Mecca: The Forgotten Uprising in Islam's Holiest Shrine and the Birth of Al Qaeda** by Yaroslav Trofimov](The_Siege_of_Mecca.jpg){fig-align="left"}

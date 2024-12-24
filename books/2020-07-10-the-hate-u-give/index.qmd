@@ -2,7 +2,7 @@
 title: "The Hate U Give"
 description: "**The Hate U Give** by Angie Thomas"
 date: 2020-07-10
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: the-hate-u-give.jpg
 ---
 ![**The Hate U Give** by Angie Thomas](the-hate-u-give.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "First 100 Days"
 description: "**The New Leader's 100-Day Action Plan** by George Bradt, Jayme Check, Jogn Lawler / \n**Your First 100 Days in a New Executive Job** by Robert Hargrove"
 date: 2016-12-01
-categories: [2016, non-fiction]
+categories: ["2016", non-fiction]
 image: new_leaders_100_day_action_plan.jpg
 ---
 ![**The New Leader's 100-Day Action Plan: How to Take Charge, Build or Merge Your Team, and Get Immediate Results** by George Bradt, Jayme Check, Jogn Lawler)](new_leaders_100_day_action_plan.jpg){fig-align="left"}

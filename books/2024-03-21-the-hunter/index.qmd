@@ -2,7 +2,7 @@
 title: "The Hunter (Cal Hooper #2)"
 description: "**The Hunter (Cal Hooper #2)** by Tana French"
 date: 2024-03-21
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Hunter.jpg
 ---
 ![**The Hunter (Cal Hooper #2)** by Tana French](The_Hunter.jpg){fig-align="left"}

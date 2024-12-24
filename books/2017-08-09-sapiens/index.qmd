@@ -2,7 +2,7 @@
 title: "Sapiens"
 description: "**Sapiens: A Brief History of Humankind** by Yuval Noah Harari - (*Kindle* and *Audible*)"
 date: 2017-08-09
-categories: [2017, Kindle, Audible, non-fiction, history]
+categories: ["2017", Kindle, Audible, non-fiction, history]
 image: sapiens.jpg
 ---
 ![**Sapiens: A Brief History of Humankind** by Yuval Noah Harari](sapiens.jpg){fig-align="left"}

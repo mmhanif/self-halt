@@ -2,7 +2,7 @@
 title: "The Undoing Project"
 description: "**The Undoing Project** by Michael Lewis"
 date: 2019-12-31
-categories: [books, 2019, Audible, non-fiction, science]
+categories: [books, "2019", Audible, non-fiction, science]
 image: the-undoing-project.jpg
 ---
 ![**The Undoing Project** by Michael Lewis](the-undoing-project.jpg){fig-align="left"}

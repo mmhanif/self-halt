@@ -2,7 +2,7 @@
 title: "Joe Country (Slough House, #6)"
 description: "**Joe Country (Slough House, #6)** by Mick Herron"
 date: 2024-07-04
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Joe_Country.jpg
 ---
 ![**Joe Country (Slough House, #6)** by Mick Herron](Joe_Country.jpg){fig-align="left"}

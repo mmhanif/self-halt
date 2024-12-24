@@ -2,7 +2,7 @@
 title: "The More of Less"
 description: "**The More of Less: Finding the Life You Want Under Everything You Own** by Joshua Becker"
 date: 2016-12-01
-categories: [2016, non-fiction]
+categories: ["2016", non-fiction]
 image: the_more_of_less.jpg
 ---
 ![**The More of Less: Finding the Life You Want Under Everything You Own** by Joshua Becker](the_more_of_less.jpg){fig-align="left"}

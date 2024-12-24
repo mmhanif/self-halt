@@ -2,7 +2,7 @@
 title: "Kill Process"
 description: "**Kill Process** by William Hertling"
 date: 2021-06-26
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: kill-process.jpg
 ---
 ![**Kill Process** by William Hertling](kill-process.jpg){fig-align="left"}

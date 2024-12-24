@@ -2,7 +2,7 @@
 title: "Someone Like Her"
 description: "**Someone Like Her** by Awais Khan"
 date: 2023-09-24
-categories: [books, 2023, Paperback, fiction]
+categories: [books, "2023", Paperback, fiction]
 image: Someone_Like_Her.jpg
 ---
 ![**Someone Like Her** by Awais Khan](Someone_Like_Her.jpg){fig-align="left"}

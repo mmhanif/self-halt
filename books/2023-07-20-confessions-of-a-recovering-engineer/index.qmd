@@ -2,7 +2,7 @@
 title: "Confessions of a Recovering Engineer: Transportation for a Strong Town"
 description: "**Confessions of a Recovering Engineer: Transportation for a Strong Town** by Charles L. Marohn Jr."
 date: 2023-07-20
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: Confessions_of_a_Recovering_Engineer.jpg
 ---
 ![**Confessions of a Recovering Engineer: Transportation for a Strong Town** by Charles L. Marohn Jr.](Confessions_of_a_Recovering_Engineer.jpg){fig-align="left"}

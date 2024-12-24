@@ -2,7 +2,7 @@
 title: "SS-GB"
 description: "**SS-GB** by Len Deighton"
 date: 2024-09-17
-categories: [books, 2024, Mass Market Paperback, fiction]
+categories: [books, "2024", Mass Market Paperback, fiction]
 image: SS-GB.jpg
 ---
 ![**SS-GB** by Len Deighton](SS-GB.jpg){fig-align="left"}

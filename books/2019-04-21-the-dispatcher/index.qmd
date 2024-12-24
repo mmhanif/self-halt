@@ -2,7 +2,7 @@
 title: "The dispatcher"
 description: "**The dispatcher** by John Scalzi"
 date: 2019-04-21
-categories: [books, 2019, Audible, fiction, science-fiction]
+categories: [books, "2019", Audible, fiction, science-fiction]
 ---
 ![**The dispatcher** by John Scalzi](the-dispatcher.jpg){fig-align="left"}
 

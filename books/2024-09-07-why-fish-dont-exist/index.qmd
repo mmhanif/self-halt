@@ -2,7 +2,7 @@
 title: "Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life"
 description: "**Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life** by Lulu Miller"
 date: 2024-09-07
-categories: [books, 2024, Hardcover, non-fiction]
+categories: [books, "2024", Hardcover, non-fiction]
 image: Why_Fish_Dont_Exist.jpg
 ---
 ![**Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life** by Lulu Miller](Why_Fish_Dont_Exist.jpg){fig-align="left"}

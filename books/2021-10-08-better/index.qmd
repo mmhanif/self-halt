@@ -2,7 +2,7 @@
 title: "Better"
 description: "**Better** by Atul Gawande"
 date: 2021-10-08
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: better.jpg
 ---
 ![**Better** by Atul Gawande](better.jpg){fig-align="left"}

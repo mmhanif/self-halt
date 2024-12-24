@@ -2,7 +2,7 @@
 title: "The Long Game: How to Be a Long-Term Thinker in a Short-Term World"
 description: "**The Long Game: How to Be a Long-Term Thinker in a Short-Term World** by Dorie Clark"
 date: 2023-09-25
-categories: [books, 2023, Kindle, non-fiction]
+categories: [books, "2023", Kindle, non-fiction]
 image: The_Long_Game.jpg
 ---
 ![**The Long Game: How to Be a Long-Term Thinker in a Short-Term World** by Dorie Clark](The_Long_Game.jpg){fig-align="left" width=25%}

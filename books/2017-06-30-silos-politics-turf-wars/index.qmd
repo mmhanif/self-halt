@@ -2,7 +2,7 @@
 title: "Silos, Politics and Turf Wars"
 description: "**Silos, Politics and Turf Wars: A Leadership Fable about Destroying the Barriers That Turn Colleagues Into Competitors** by Patrick Lencioni - (*Audible*)"
 date: 2017-06-30
-categories: [2017, Audible, non-fiction, management]
+categories: ["2017", Audible, non-fiction, management]
 image: silos-politics-turf-wars.jpg
 ---
 ![**Silos, Politics and Turf Wars](silos-politics-turf-wars.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Andrea Vernon and the Big Axe Acquisition"
 description: "**Andrea Vernon and the Big Axe Acquisition** by Alexander C. Kane"
 date: 2022-11-11
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 ---
 ![**Andrea Vernon and the Big Axe Acquisition** by Alexander C. Kane](andrea-vernon-and-baa.jpg){fig-align="left"}
 

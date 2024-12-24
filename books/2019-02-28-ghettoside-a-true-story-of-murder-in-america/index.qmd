@@ -2,7 +2,7 @@
 title: "Ghettoside - a true story of murder in America"
 description: "**Ghettoside: a true story of murder in America** by Jill Leovy"
 date: 2019-02-28
-categories: [books, 2019, Audible, non-fiction]
+categories: [books, "2019", Audible, non-fiction]
 image: ghettoside-a-true-story-of-murder-in-america.jpg
 ---
 ![**Ghettoside: a true story of murder in America** by Jill Leovy](ghettoside-a-true-story-of-murder-in-america.jpg){fig-align="left"}

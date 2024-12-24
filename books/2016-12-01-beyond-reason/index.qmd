@@ -2,7 +2,7 @@
 title: "Beyond Reason"
 description: "**Beyond Reason: Using Emotions as You Negotiate** by Roger Fisher and Daniel Shapiro"
 date: 2016-12-01
-categories: [2016, negotiation]
+categories: ["2016", negotiation]
 image: beyond-reason.jpg
 ---
 ![**Beyond Reason: Using Emotions as You Negotiate** by Roger Fisher and Daniel Shapiro](beyond-reason.jpg){fig-align="left"}

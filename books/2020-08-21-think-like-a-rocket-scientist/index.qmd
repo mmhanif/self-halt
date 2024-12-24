@@ -2,7 +2,7 @@
 title: "Think Like A Rocket Scientist"
 description: "**Think Like A Rocket Scientist** by Ozan Varol"
 date: 2020-08-21
-categories: [books, non-fiction, 2020, Audible]
+categories: [books, non-fiction, "2020", Audible]
 image: think-like-a-rocket-scientist.jpg
 ---
 ![**Think Like A Rocket Scientist** by Ozan Varol](think-like-a-rocket-scientist.jpg){fig-align="left"}

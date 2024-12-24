@@ -2,7 +2,7 @@
 title: "Dark Sacred Night"
 description: "**Dark Sacred Night** by Michael Connelly - (*Kindle*)"
 date: 2018-12-22
-categories: [books, fiction, detective, 2018, Kindle]
+categories: [books, fiction, detective,"2018", Kindle]
 image: dark-sacred-night.jpg
 ---
 ![**Dark Sacred Night** by Michael Connelly - (*Kindle*)](dark-sacred-night.jpg){fig-align="left"}

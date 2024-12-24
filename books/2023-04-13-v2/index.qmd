@@ -2,7 +2,7 @@
 title: "V2: A Novel of World War II"
 description: "**V2: A Novel of World War II** by Robert   Harris"
 date: 2023-04-13
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 image: V2.jpg
 ---
 ![**V2: A Novel of World War II** by Robert   Harris](V2.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "jQuery, Bootstrap and HTML5"
 description: "jQuery, Bootstrap and HTML5"
 date: 2016-12-01
-categories: [2016, non-fiction, programming]
+categories: ["2016", non-fiction, programming]
 image: jquery-bootstrap-html5.jpg
 ---
 ![The Joy of jQuery](jquery-bootstrap-html5.jpg){fig-align="left"}

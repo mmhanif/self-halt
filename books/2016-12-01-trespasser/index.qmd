@@ -2,7 +2,7 @@
 title: "The Trespasser"
 description: "**The Trespasser: A Novel** by Tana French"
 date: 2016-12-01
-categories: [2016, fiction]
+categories: ["2016", fiction]
 image: trespasser.jpg
 ---
 ![**The Trespasser: A Novel** by Tana French](trespasser.jpg){fig-align="left"}

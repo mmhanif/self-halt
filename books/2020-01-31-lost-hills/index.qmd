@@ -2,7 +2,7 @@
 title: "Lost Hills"
 description: "**Lost Hills** by Lee Goldberg"
 date: 2020-01-31
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: lost-hills.jpg
 ---
 ![**Lost Hills** by Lee Goldberg](lost-hills.jpg){fig-align="left"}

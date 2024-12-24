@@ -2,7 +2,7 @@
 title: "Fixit (IQ, #6)"
 description: "**Fixit (IQ, #6)** by Joe Ide"
 date: 2023-05-28
-categories: [books, 2023, Hardcover, fiction]
+categories: [books, "2023", Hardcover, fiction]
 image: Fixit.jpg
 ---
 ![**Fixit (IQ, #6)** by Joe Ide](Fixit.jpg){fig-align="left"}

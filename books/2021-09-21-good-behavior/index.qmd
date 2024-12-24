@@ -2,7 +2,7 @@
 title: "Good Behavior"
 description: "**Good Behavior** by Blake Crouch"
 date: 2021-09-21
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: good-behavior.jpg
 ---
 ![**Good Behavior** by Blake Crouch](good-behavior.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Redshirts"
 description: "**Redshirts** by John Scalzi"
 date: 2019-12-05
-categories: [books, 2019, Audible, fiction, science-fiction]
+categories: [books, "2019", Audible, fiction, science-fiction]
 ---
 ![**Redshirts** by John Scalzi](redshirts.jpg){fig-align="left"}
 

@@ -2,7 +2,7 @@
 title: "Thirteen"
 description: "**Thirteen** by Steve Cavanagh"
 date: 2019-09-17
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: thirteen.jpg
 ---
 ![**Thirteen** by Steve Cavanagh](thirteen.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Standing by the Wall: The Collected Slough House Novellas"
 description: "**Standing by the Wall: The Collected Slough House Novellas** by Mick Herron"
 date: 2024-07-22
-categories: [books, 2024, Paperback, fiction]
+categories: [books, "2024", Paperback, fiction]
 image: Standing_by_the_Wall.jpg
 ---
 ![**Standing by the Wall: The Collected Slough House Novellas** by Mick Herron](Standing_by_the_Wall.jpg){fig-align="left"}

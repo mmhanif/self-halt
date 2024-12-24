@@ -2,7 +2,7 @@
 title: "Righteous"
 description: "**Righteous** by Joe Ide"
 date: 2019-01-05
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: righteous.jpg
 ---
 ![**Righteous** by Joe Ide](righteous.jpg){fig-align="left"}

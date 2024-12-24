@@ -2,7 +2,7 @@
 title: "Supercommunicators: The Power of Conversation and Hidden Language of Connection"
 description: "**Supercommunicators: The Power of Conversation and Hidden Language of Connection** by Charles Duhigg"
 date: 2024-04-08
-categories: [books, 2024, Audible, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Supercommunicators.jpg
 ---
 ![**Supercommunicators: The Power of Conversation and Hidden Language of Connection** by Charles Duhigg](Supercommunicators.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Hello World: Being Human in the Age of Algorithms"
 description: "**Hello World: Being Human in the Age of Algorithms** by Hannah Fry"
 date: 2024-06-20
-categories: [books, 2024, Hardcover, non-fiction]
+categories: [books, "2024", Hardcover, non-fiction]
 image: Hello_World.jpg
 ---
 ![**Hello World: Being Human in the Age of Algorithms** by Hannah Fry](Hello_World.jpg){fig-align="left"}

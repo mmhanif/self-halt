@@ -2,7 +2,7 @@
 title: "The Night Agent"
 description: "**The Night Agent** by Matthew Quirk"
 date: 2023-02-07
-categories: [books, 2023, Kindle, fiction]
+categories: [books, "2023", Kindle, fiction]
 image: The_Night_Agent.jpg
 ---
 ![**The Night Agent** by Matthew Quirk](The_Night_Agent.jpg){fig-align="left"}

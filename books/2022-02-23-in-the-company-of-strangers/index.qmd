@@ -2,7 +2,7 @@
 title: "In the Company of Strangers"
 description: "**In the Company of Strangers** by Awais Khan"
 date: 2022-02-23
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: in-the-company-of-strangers.jpg
 ---
 ![**In the Company of Strangers** by Awais Khan](in-the-company-of-strangers.jpg){fig-align="left"}

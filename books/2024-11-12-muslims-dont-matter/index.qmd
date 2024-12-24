@@ -2,7 +2,7 @@
 title: "Muslims Don't Matter"
 description: "**Muslims Don't Matter** by Sayeeda Warsi"
 date: 2024-11-12
-categories: [books, 2024, Kindle, non-fiction]
+categories: [books, "2024", Kindle, non-fiction]
 image: Muslims_Dont_Matter.jpg
 ---
 ![**Muslims Don't Matter** by Sayeeda Warsi](Muslims_Dont_Matter.jpg){fig-align="left"}

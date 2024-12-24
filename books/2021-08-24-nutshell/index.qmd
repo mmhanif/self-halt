@@ -2,7 +2,7 @@
 title: "Nutshell"
 description: "**Nutshell** by Ian McEwan"
 date: 2021-08-24
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: nutshell.jpg
 ---
 ![**Nutshell** by Ian McEwan](nutshell.jpg){fig-align="left"}

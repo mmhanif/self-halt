@@ -2,7 +2,7 @@
 title: "Algorithms to live by"
 description: "**Algorithms to live by** by Brian Christian"
 date: 2019-03-05
-categories: [books, 2019, Kindle, non-fiction, computer-science]
+categories: [books, "2019", Kindle, non-fiction, computer-science]
 image: algorithms-to-live-by.jpg
 ---
 ![**Algorithms to live by** by Brian Christian](algorithms-to-live-by.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Self-Made Widow"
 description: "**The Self-Made Widow** by Fabian Nicieza"
 date: 2022-08-06
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-selfmade-widow.jpg
 ---
 ![**The Self-Made Widow** by Fabian Nicieza](the-selfmade-widow.jpg){fig-align="left"}

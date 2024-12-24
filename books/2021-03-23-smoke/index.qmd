@@ -2,7 +2,7 @@
 title: "Smoke"
 description: "**Smoke** by Joe Ide"
 date: 2021-03-23
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: smoke.jpg
 ---
 ![**Smoke** by Joe Ide](smoke.jpg){fig-align="left"}

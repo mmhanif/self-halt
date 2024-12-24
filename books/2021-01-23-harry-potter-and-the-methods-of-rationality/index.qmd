@@ -2,7 +2,7 @@
 title: "Harry Potter and the Methods of Rationality"
 description: "**Harry Potter and the Methods of Rationality** by Less Wrong (aka Eliezer Yudkowsky)"
 date: 2021-01-23
-categories: [books, non-fiction, 2021, ebook]
+categories: [books, non-fiction, "2021", ebook]
 ---
 ![**Harry Potter and the Methods of Rationality** by Less Wrong (aka Eliezer Yudkowsky)](hpmor.jpg){fig-align="left"}
 

@@ -2,7 +2,7 @@
 title: "Mistakes Were Made (But Not by Me)"
 description: "**Mistakes Were Made (But Not by Me)** by Carol Tavris,  Elliot Aronson - (*Kindle*)"
 date: 2018-12-13
-categories: [books, non-fiction, psychology, 2018, Kindle]
+categories: [books, non-fiction, psychology,"2018", Kindle]
 image: mistakes-were-made.jpg
 ---
 ![**Mistakes Were Made (But Not by Me)** by Carol Tavris,  Elliot Aronson - (*Kindle*)](mistakes-were-made.jpg){fig-align="left"}

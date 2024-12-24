@@ -2,7 +2,7 @@
 title: "A Keeper"
 description: "**A Keeper** by Graham Norton"
 date: 2019-08-10
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: a-keeper.jpg
 ---
 ![**A Keeper** by Graham Norton](a-keeper.jpg){fig-align="left"}

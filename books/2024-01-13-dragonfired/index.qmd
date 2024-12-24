@@ -2,7 +2,7 @@
 title: "Dragonfired (The Dark Profit Saga, #3)"
 description: "**Dragonfired (The Dark Profit Saga, #3)** by J. Zachary Pike"
 date: 2024-01-13
-categories: [books, 2024, ebook, fiction]
+categories: [books, "2024", ebook, fiction]
 image: Dragonfired.jpg
 ---
 ![**Dragonfired (The Dark Profit Saga, #3)** by J. Zachary Pike](Dragonfired.jpg){fig-align="left"}

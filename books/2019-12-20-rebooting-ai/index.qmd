@@ -2,7 +2,7 @@
 title: "Rebooting AI"
 description: "**Rebooting AI** by Gary Marcus, Ernest Davis"
 date: 2019-12-20
-categories: [books, 2019, Hardcover, non-fiction, computer-science]
+categories: [books, "2019", Hardcover, non-fiction, computer-science]
 image: rebooting-ai.jpg
 ---
 ![**Rebooting AI** by Gary Marcus, Ernest Davis](rebooting-ai.jpg){fig-align="left"}

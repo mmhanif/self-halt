@@ -2,7 +2,7 @@
 title: "All Our Wrong Todays"
 description: "**All Our Wrong Todays** by Elan Mastai"
 date: 2021-04-28
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 ---
 ![**All Our Wrong Todays** by Elan Mastai](all-our-wrong-todays.jpg){fig-align="left"}
 

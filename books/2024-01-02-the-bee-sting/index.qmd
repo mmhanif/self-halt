@@ -2,7 +2,7 @@
 title: "The Bee Sting"
 description: "**The Bee Sting** by Paul Murray"
 date: 2024-01-02
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Bee_Sting.jpg
 ---
 

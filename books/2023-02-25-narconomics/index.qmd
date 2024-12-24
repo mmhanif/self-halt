@@ -2,7 +2,7 @@
 title: "Narconomics: How to Run a Drug Cartel"
 description: "**Narconomics: How to Run a Drug Cartel** by Tom Wainwright"
 date: 2023-02-25
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Narconomics.jpg
 ---
 ![**Narconomics: How to Run a Drug Cartel** by Tom Wainwright](Narconomics.jpg){fig-align="left"}

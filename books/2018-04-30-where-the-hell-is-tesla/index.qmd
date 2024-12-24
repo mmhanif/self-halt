@@ -2,7 +2,7 @@
 title: "Where The Hell Is Tesla?"
 description: "**Where the Hell is Tesla?: A Novel** by Rob Dircks - (*Audible*)"
 date: 2018-04-30
-categories: [2018, Audible]
+categories: ["2018", Audible]
 image: where-the-hell-is-tesla.jpg
 ---
 ![**Where the Hell is Tesla?: A Novel** by Rob Dircks - (*Audible*)](where-the-hell-is-tesla.jpg){fig-align="left"}

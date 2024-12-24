@@ -2,7 +2,7 @@
 title: "London Rules (Slough House, #5)"
 description: "**London Rules (Slough House, #5)** by Mick Herron"
 date: 2024-06-25
-categories: [books, 2024, Kindle, fiction]
+categories: [books, "2024", Kindle, fiction]
 image: London_Rules.jpg
 ---
 ![**London Rules (Slough House, #5)** by Mick Herron](London_Rules.jpg){fig-align="left"}

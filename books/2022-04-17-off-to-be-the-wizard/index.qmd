@@ -2,7 +2,7 @@
 title: "Off To Be The Wizard"
 description: "**Off To Be The Wizard** by Scott Meyer"
 date: 2022-04-17
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: off-to-be-the-wizard.jpg
 ---
 ![**Off To Be The Wizard** by Scott Meyer](off-to-be-the-wizard.jpg){fig-align="left"}

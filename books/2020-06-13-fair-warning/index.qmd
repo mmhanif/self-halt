@@ -2,7 +2,7 @@
 title: "Fair Warning"
 description: "**Fair Warning** by Michael Connelly"
 date: 2020-06-13
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: fair-warning.jpg
 ---
 ![**Fair Warning** by Michael Connelly](fair-warning.jpg){fig-align="left"}

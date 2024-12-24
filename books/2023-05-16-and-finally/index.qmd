@@ -2,7 +2,7 @@
 title: "And Finally: Matters of Life and Death"
 description: "**And Finally: Matters of Life and Death** by Henry Marsh"
 date: 2023-05-16
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: And_Finally.jpg
 ---
 ![**And Finally: Matters of Life and Death** by Henry Marsh](And_Finally.jpg){fig-align="left"}

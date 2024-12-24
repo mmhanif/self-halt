@@ -2,7 +2,7 @@
 title: "Build: An Unorthodox Guide to Making Things Worth Making"
 description: "**Build: An Unorthodox Guide to Making Things Worth Making** by Tony Fadell"
 date: 2023-05-20
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Build.jpg
 ---
 ![**Build: An Unorthodox Guide to Making Things Worth Making** by Tony Fadell](Build.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "City of Thieves"
 description: "**City of Thieves** by David Benioff - (*Audible*)"
 date: 2018-03-31
-categories: [books, fiction, 2018, Audible]
+categories: [books, fiction,"2018", Audible]
 image: city-of-thieves.jpg
 ---
 ![**City of Thieves** by David Benioff - (*Audible*)](city-of-thieves.jpg){fig-align="left"}

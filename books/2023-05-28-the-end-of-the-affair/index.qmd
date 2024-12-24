@@ -2,7 +2,7 @@
 title: "The End of the Affair"
 description: "**The End of the Affair** by Graham Greene"
 date: 2023-05-28
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 ---
 ![**The End of the Affair** by Graham Greene](The_End_Of_The_Affair.jpg){fig-align="left"}
 

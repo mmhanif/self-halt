@@ -2,7 +2,7 @@
 title: "Move Fast"
 description: "**Move Fast** by Jeff Meyerson"
 date: 2021-08-06
-categories: [books, non-fiction, 2021, Kindle]
+categories: [books, non-fiction, "2021", Kindle]
 image: move-fast.jpg
 ---
 ![**Move Fast** by Jeff Meyerson](move-fast.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Funny Story"
 description: "**Funny Story** by Emily Henry"
 date: 2024-08-14
-categories: [books, 2024, Kindle, fiction]
+categories: [books, "2024", Kindle, fiction]
 image: Funny_Story.jpg
 ---
 ![**Funny Story** by Emily Henry](Funny_Story.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Knowledge And Decisions"
 description: "**Knowledge And Decisions** by Thomas Sowell"
 date: 2024-03-27
-categories: [books, 2024, Audible, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Knowledge_And_Decisions.jpg
 ---
 ![**Knowledge And Decisions** by Thomas Sowell](Knowledge_And_Decisions.jpg){fig-align="left"}

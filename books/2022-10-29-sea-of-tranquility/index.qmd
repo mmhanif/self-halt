@@ -2,7 +2,7 @@
 title: "Sea Of Tranquility - A Novel"
 description: "**Sea Of Tranquility - A Novel** by Emily St. John Mandel"
 date: 2022-10-29
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: sea-of-tranquility.jpg
 ---
 ![**Sea Of Tranquility - A Novel** by Emily St. John Mandel](sea-of-tranquility.jpg){fig-align="left"}

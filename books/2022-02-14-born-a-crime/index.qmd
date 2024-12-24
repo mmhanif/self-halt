@@ -2,7 +2,7 @@
 title: "Born A Crime - Stories From A South African Childhood"
 description: "**Born A Crime - Stories From A South African Childhood** by Trevor Noah"
 date: 2022-02-14
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: born-a-crime.jpg
 ---
 ![**Born A Crime - Stories From A South African Childhood** by Trevor Noah](born-a-crime.jpg){fig-align="left"}

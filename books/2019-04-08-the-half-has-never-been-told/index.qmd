@@ -2,7 +2,7 @@
 title: "The half has never been told"
 description: "**The half has never been told** by Edward E. Baptist"
 date: 2019-04-08
-categories: [books, 2019, Audible, Kindle, non-fiction, history]
+categories: [books, "2019", Audible, Kindle, non-fiction, history]
 image: the-half-has-never-been-told.jpg
 ---
 ![**The half has never been told** by Edward E. Baptist](the-half-has-never-been-told.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Masters Of Enterprise - Giants Of American Business From John Jacob Astor And J.P. Morgan To Bill Gates And Oprah Winfrey"
 description: "**Masters Of Enterprise - Giants Of American Business From John Jacob Astor And J.P. Morgan To Bill Gates And Oprah Winfrey** by H.W. Brands"
 date: 2022-03-14
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: masters-of-enterprise.jpg
 ---
 ![**Masters Of Enterprise - Giants Of American Business From John Jacob Astor And J.P. Morgan To Bill Gates And Oprah Winfrey** by H.W. Brands](masters-of-enterprise.jpg){fig-align="left"}

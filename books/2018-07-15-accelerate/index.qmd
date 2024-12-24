@@ -2,7 +2,7 @@
 title: "Accelerate"
 description: "**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** by Nicole Forsgren, Jez Humble and Gene Kim - (*Kindle*)"
 date: 2018-07-15
-categories: [2018, Kindle]
+categories: ["2018", Kindle]
 image: accelerate.jpg
 ---
 ![**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** by Nicole Forsgren, Jez Humble and Gene Kim - (*Kindle*)](accelerate.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Running Grave"
 description: "**The Running Grave** by Robert Galbraith"
 date: 2024-01-22
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Running_Grave.jpg
 ---
 ![**The Running Grave** by Robert Galbraith](The_Running_Grave.jpg){fig-align="left"}

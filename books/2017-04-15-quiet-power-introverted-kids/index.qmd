@@ -2,7 +2,7 @@
 title: "It Worked For Me"
 description: "**Quiet Power: The Secret Strengths of Introverts** by Susan Cain, Gregory Mone, Eric Moroz  - (*Audible*)"
 date: 2017-04-15
-categories: [2017, Audible, non-fiction]
+categories: ["2017", Audible, non-fiction]
 image: quiet-power-introverted-kids.jpg
 ---
 ![**Quiet Power: The Secret Strengths of Introverts** by Susan Cain, Gregory Mone, Eric Moroz ](quiet-power-introverted-kids.jpg){fig-align="left"}

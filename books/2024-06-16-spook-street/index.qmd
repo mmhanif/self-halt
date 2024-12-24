@@ -2,7 +2,7 @@
 title: "Spook Street (Slough House, #4)"
 description: "**Spook Street (Slough House, #4)** by Mick Herron"
 date: 2024-06-16
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Spook_Street.jpg
 ---
 ![**Spook Street (Slough House, #4)** by Mick Herron](Spook_Street.jpg){fig-align="left"}

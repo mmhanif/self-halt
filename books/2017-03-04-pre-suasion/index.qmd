@@ -2,7 +2,7 @@
 title: "Pre-Suasion"
 description: "**Pre-Suasion: A Revolutionary Way to Influence and Persuade** by Robert B. Cialdini  - (*Kindle*)"
 date: 2017-03-04
-categories: [2017, Kindle, non-fiction, negotiation]
+categories: ["2017", Kindle, non-fiction, negotiation]
 image: pre-suasion.jpg
 ---
 ![**Pre-Suasion: A Revolutionary Way to Influence and Persuade** by Robert B. Cialdini](pre-suasion.jpg){fig-align="left"}

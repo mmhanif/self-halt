@@ -2,7 +2,7 @@
 title: "The Nine Lives Of Pakistan"
 description: "**The Nine Lives Of Pakistan** by Declan Walsh"
 date: 2021-02-21
-categories: [books, non-fiction, 2021, Hardcover]
+categories: [books, non-fiction, "2021", Hardcover]
 image: the-nine-lives-of-pakistan.jpg
 ---
 ![**The Nine Lives Of Pakistan** by Declan Walsh](the-nine-lives-of-pakistan.jpg){fig-align="left"}

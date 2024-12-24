@@ -2,7 +2,7 @@
 title: "Creativity, Inc. - Overcoming The Unseen Forces That Stand In The Way Of True Inspiration"
 description: "**Creativity, Inc. - Overcoming The Unseen Forces That Stand In The Way Of True Inspiration** by Ed Catmull, Amy Wallace"
 date: 2022-07-17
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: creativity-inc.jpg
 ---
 ![**Creativity, Inc. - Overcoming The Unseen Forces That Stand In The Way Of True Inspiration** by Ed Catmull, Amy Wallace](creativity-inc.jpg){fig-align="left"}

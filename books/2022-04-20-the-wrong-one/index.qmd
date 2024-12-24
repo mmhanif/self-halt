@@ -2,7 +2,7 @@
 title: "The Wrong One"
 description: "**The Wrong One** by Dervla McTiernan"
 date: 2022-04-20
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-wrong-one.jpg
 ---
 ![**The Wrong One** by Dervla McTiernan](the-wrong-one.jpg){fig-align="left"}

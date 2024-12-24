@@ -2,7 +2,7 @@
 title: "Just Like You"
 description: "**Just Like You** by Nick Hornby"
 date: 2021-09-03
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: just-like-you.jpg
 ---
 ![**Just Like You** by Nick Hornby](just-like-you.jpg){fig-align="left"}

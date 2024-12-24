@@ -2,7 +2,7 @@
 title: "The Master Algorithm"
 description: "**The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World** by Pedro Domingos - (*Kindle*)"
 date: 2018-09-24
-categories: [2018, Kindle]
+categories: ["2018", Kindle]
 image: the-master-algorithm.jpg
 ---
 ![**The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World** by Pedro Domingos - (*Kindle*)](the-master-algorithm.jpg){fig-align="left"}

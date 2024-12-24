@@ -2,7 +2,7 @@
 title: "Deep Medicine - How Artificial Intelligence Can Revolutionize Health Care--And Make It More Humane"
 description: "**Deep Medicine - How Artificial Intelligence Can Revolutionize Health Care--And Make It More Humane** by Eric Topol"
 date: 2022-04-07
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: deep-medicine.jpg
 ---
 ![**Deep Medicine - How Artificial Intelligence Can Revolutionize Health Care--And Make It More Humane** by Eric Topol](deep-medicine.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "This Time Tomorrow - A Novel"
 description: "**This Time Tomorrow - A Novel** by Emma Straub"
 date: 2022-08-03
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: this-time-tomorrow.jpg
 ---
 ![**This Time Tomorrow - A Novel** by Emma Straub](this-time-tomorrow.jpg){fig-align="left"}

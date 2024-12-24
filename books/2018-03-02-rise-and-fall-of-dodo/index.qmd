@@ -2,7 +2,7 @@
 title: "The Rise and Fall of D.O.D.O."
 description: "**The Rise and Fall of D.O.D.O.: A Novel** by Neal Stephenson and Nicole Galland - (*Audible*)"
 date: 2018-03-02
-categories: [2018, Audible]
+categories: ["2018", Audible]
 image: rise-and-fall-of-dodo.jpg
 ---
 ![**The Rise and Fall of D.O.D.O.: A Novel** by Neal Stephenson and Nicole Galland - (*Audible*)](rise-and-fall-of-dodo.jpg){fig-align="left"}

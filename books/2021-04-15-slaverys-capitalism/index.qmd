@@ -2,7 +2,7 @@
 title: "Slavery's Capitalism"
 description: "**Slavery's Capitalism** by Sven Beckert, Seth Rockman"
 date: 2021-04-15
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: slaverys-capitalism.jpg
 ---
 ![**Slavery's Capitalism** by Sven Beckert, Seth Rockman](slaverys-capitalism.jpg){fig-align="left"}

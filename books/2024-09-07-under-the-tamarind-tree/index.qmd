@@ -2,7 +2,7 @@
 title: "Under the Tamarind Tree"
 description: "**Under the Tamarind Tree** by Nigar  Alam"
 date: 2024-09-07
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 image: Under_the_Tamarind_Tree.jpg
 ---
 ![**Under the Tamarind Tree** by Nigar  Alam](Under_the_Tamarind_Tree.jpg){fig-align="left"}

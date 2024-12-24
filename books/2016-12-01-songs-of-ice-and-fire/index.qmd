@@ -2,7 +2,7 @@
 title: "Songs of Ice and Fire"
 description: "**A Song of Ice and Fire** series by George R.R. Martin"
 date: 2016-12-01
-categories: [2016, fiction, fantasy]
+categories: ["2016", fiction, fantasy]
 image: songs-of-ice-and-fire.jpg
 ---
 ![**A Song of Ice and Fire** series by George R.R. Martin](songs-of-ice-and-fire.jpg){fig-align="left"}

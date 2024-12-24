@@ -2,7 +2,7 @@
 title: "Einstein's Genius Club"
 description: "**Einstein's Genius Club** by Burton Feldman"
 date: 2021-10-02
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: einsteins-genius-club.jpg
 ---
 ![**Einstein's Genius Club** by Burton Feldman](einsteins-genius-club.jpg){fig-align="left"}

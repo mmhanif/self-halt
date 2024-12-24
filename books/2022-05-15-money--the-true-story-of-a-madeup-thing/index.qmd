@@ -2,7 +2,7 @@
 title: "Money - The True Story Of A Made-Up Thing"
 description: "**Money - The True Story Of A Made-Up Thing** by Jacob Goldstein"
 date: 2022-05-15
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: money--the-true-story-of-a-madeup-thing.jpg
 ---
 ![**Money - The True Story Of A Made-Up Thing** by Jacob Goldstein](money--the-true-story-of-a-madeup-thing.jpg){fig-align="left"}

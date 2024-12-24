@@ -2,7 +2,7 @@
 title: "Phreaks"
 description: "**Phreaks** by Matthew Derby"
 date: 2020-09-10
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: phreaks.jpg
 ---
 ![**Phreaks** by Matthew Derby](phreaks.jpg){fig-align="left"}

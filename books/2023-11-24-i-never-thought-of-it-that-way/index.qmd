@@ -2,7 +2,7 @@
 title: "I Never Thought of It That Way"
 description: "**I Never Thought of It That Way** by Monica Guzmán"
 date: 2023-11-24
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: I_Never_Thought_of_It_That_Way.jpg
 ---
 ![**I Never Thought of It That Way** by Monica Guzmán](I_Never_Thought_of_It_That_Way.jpg){fig-align="left"}

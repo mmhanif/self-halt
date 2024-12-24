@@ -2,7 +2,7 @@
 title: "The Lost Cause"
 description: "**The Lost Cause** by Cory Doctorow"
 date: 2024-06-01
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 ---
 !**The Lost Cause** by Cory Doctorow
 <sup>isbn-13: 9781496186270</sup>

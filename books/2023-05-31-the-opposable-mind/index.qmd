@@ -2,7 +2,7 @@
 title: "The Opposable Mind: How Successful Leaders Win Through Integrative Thinking"
 description: "**The Opposable Mind: How Successful Leaders Win Through Integrative Thinking** by Roger L. Martin"
 date: 2023-05-31
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: The_Opposable_Mind.jpg
 ---
 ![**The Opposable Mind: How Successful Leaders Win Through Integrative Thinking** by Roger L. Martin](The_Opposable_Mind.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "How We Change"
 description: "**How We Change** by Ross Ellenhorn"
 date: 2021-07-24
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: how-we-change.jpg
 ---
 ![**How We Change** by Ross Ellenhorn](how-we-change.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Paradox Bound"
 description: "**Paradox Bound** by Peter Clines - (*Audible*)"
 date: 2017-10-13
-categories: [2017, Audible, fiction, science-fiction]
+categories: ["2017", Audible, fiction, science-fiction]
 image: paradox-bound.jpg
 ---
 ![**Paradox Bound** by Peter Clines](paradox-bound.jpg){fig-align="left"}

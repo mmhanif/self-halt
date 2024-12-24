@@ -2,7 +2,7 @@
 title: "Talking to Strangers"
 description: "**Talking to Strangers** by Malcolm Gladwell"
 date: 2019-10-14
-categories: [books, 2019, Audible, non-fiction]
+categories: [books, "2019", Audible, non-fiction]
 image: talking-to-strangers.jpg
 ---
 ![**Talking to Strangers** by Malcolm Gladwell](talking-to-strangers.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Such Big Dreams"
 description: "**Such Big Dreams** by Reema  Patel"
 date: 2024-10-01
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 image: Such_Big_Dreams.jpg
 ---
 ![**Such Big Dreams** by Reema  Patel](Such_Big_Dreams.jpg){fig-align="left"}

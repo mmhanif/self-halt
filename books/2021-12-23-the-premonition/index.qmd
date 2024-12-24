@@ -2,7 +2,7 @@
 title: "The Premonition"
 description: "**The Premonition** by Michael Lewis"
 date: 2021-12-23
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: the-premonition.jpg
 ---
 ![**The Premonition** by Michael Lewis](the-premonition.jpg){fig-align="left"}

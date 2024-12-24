@@ -2,7 +2,7 @@
 title: "Bad Blood"
 description: "**Bad Blood: Secrets and Lies in a Silicon Valley Startup** by John Carreyrou - (*Audible*)"
 date: 2018-07-30
-categories: [2018, Audible]
+categories: ["2018", Audible]
 image: bad-blood.jpg
 ---
 ![**Bad Blood: Secrets and Lies in a Silicon Valley Startup** by John Carreyrou - (*Audible*)](bad-blood.jpg){fig-align="left"}

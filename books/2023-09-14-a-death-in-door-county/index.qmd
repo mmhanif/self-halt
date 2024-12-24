@@ -2,7 +2,7 @@
 title: "A Death in Door County (Monster Hunter Mystery, #1)"
 description: "**A Death in Door County (Monster Hunter Mystery, #1)** by Annelise Ryan"
 date: 2023-09-14
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 image: A_Death_in_Door_County.jpg
 ---
 ![**A Death in Door County (Monster Hunter Mystery, #1)** by Annelise Ryan](A_Death_in_Door_County.jpg){fig-align="left"}

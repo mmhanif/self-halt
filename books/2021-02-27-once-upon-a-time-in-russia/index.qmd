@@ -2,7 +2,7 @@
 title: "Once Upon A Time In Russia"
 description: "**Once Upon A Time In Russia** by Ben Mezrich"
 date: 2021-02-27
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: once-upon-a-time-in-russia.jpg
 ---
 ![**Once Upon A Time In Russia** by Ben Mezrich](once-upon-a-time-in-russia.jpg){fig-align="left"}

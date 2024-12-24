@@ -2,7 +2,7 @@
 title: "How the World Really Works: The Science Behind How We Got Here and Where We're Going"
 description: "**How the World Really Works: The Science Behind How We Got Here and Where We're Going** by Vaclav Smil"
 date: 2023-09-08
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: How_the_World_Really_Works.jpg
 ---
 ![**How the World Really Works: The Science Behind How We Got Here and Where We're Going** by Vaclav Smil](How_the_World_Really_Works.jpg){fig-align="left"}

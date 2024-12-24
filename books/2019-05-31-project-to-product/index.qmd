@@ -2,7 +2,7 @@
 title: "Project To Product"
 description: "**Project To Product** by Mik Kersten"
 date: 2019-05-31
-categories: [books, 2019, Kindle, non-fiction, software-development]
+categories: [books, "2019", Kindle, non-fiction, software-development]
 image: project-to-product.jpg
 ---
 ![**Project To Product** by Mik Kersten](project-to-product.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Medicus"
 description: "**Medicus** by Ruth Downie"
 date: 2021-11-06
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: medicus.jpg
 ---
 ![**Medicus** by Ruth Downie](medicus.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Plea (Eddie Flynn, #2)"
 description: "**The Plea (Eddie Flynn, #2)** by Steve Cavanagh"
 date: 2023-05-07
-categories: [books, 2023, Paperback, fiction]
+categories: [books, "2023", Paperback, fiction]
 image: The_Plea.jpg
 ---
 ![**The Plea (Eddie Flynn, #2)** by Steve Cavanagh](The_Plea.jpg){fig-align="left"}

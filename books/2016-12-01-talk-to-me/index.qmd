@@ -2,7 +2,7 @@
 title: "Talk to Me"
 description: "**Talk To Me: Changing the Narrative on Race, Religion, and Education** by Qasim Rashid "
 date: 2016-12-01
-categories: [2016, non-fiction]
+categories: ["2016", non-fiction]
 image: talk-to-me.jpg
 ---
 ![**Talk To Me: Changing the Narrative on Race, Religion, and Education** by Qasim Rashid](talk-to-me.jpg){fig-align="left"}

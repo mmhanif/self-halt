@@ -2,7 +2,7 @@
 title: "The Murder Rule - A Novel"
 description: "**The Murder Rule - A Novel** by Dervla McTiernan"
 date: 2022-07-22
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-murder-rule.jpg
 ---
 ![**The Murder Rule - A Novel** by Dervla McTiernan](the-murder-rule.jpg){fig-align="left"}

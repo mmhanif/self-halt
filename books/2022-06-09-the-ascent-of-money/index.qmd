@@ -2,7 +2,7 @@
 title: "The Ascent Of Money - A Financial History Of The World"
 description: "**The Ascent Of Money - A Financial History Of The World** by Niall Ferguson"
 date: 2022-06-09
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: the-ascent-of-money.jpg
 ---
 ![**The Ascent Of Money - A Financial History Of The World** by Niall Ferguson](the-ascent-of-money.jpg){fig-align="left"}

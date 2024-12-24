@@ -2,7 +2,7 @@
 title: "The Great Gatsby"
 description: "**The Great Gatsby** by Francis Scott Fitzgerald"
 date: 2021-10-09
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: the-great-gatsby.jpg
 ---
 ![**The Great Gatsby** by Francis Scott Fitzgerald](the-great-gatsby.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Caffeine - How Caffeine Created the Modern World"
 description: "**Caffeine - How Caffeine Created the Modern World** by Michael Pollan"
 date: 2020-05-21
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 ---
 ![**Caffeine - How Caffeine Created the Modern World** by Michael Pollan](caffeine.jpg){fig-align="left"}
 

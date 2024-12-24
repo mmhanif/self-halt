@@ -2,7 +2,7 @@
 title: "Boyd - The Fighter Pilot Who Changed The Art Of War"
 description: "**Boyd - The Fighter Pilot Who Changed The Art Of War** by Robert Coram"
 date: 2022-01-12
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: boyd.jpg
 ---
 ![**Boyd - The Fighter Pilot Who Changed The Art Of War** by Robert Coram](boyd.jpg){fig-align="left"}

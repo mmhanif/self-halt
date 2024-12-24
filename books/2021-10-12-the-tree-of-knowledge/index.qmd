@@ -2,7 +2,7 @@
 title: "The Tree Of Knowledge"
 description: "**The Tree Of Knowledge** by Daniel G. Miller"
 date: 2021-10-12
-categories: [books, fiction, 2021, Kindle]
+categories: [books, fiction, "2021", Kindle]
 image: the-tree-of-knowledge.jpg
 ---
 ![**The Tree Of Knowledge** by Daniel G. Miller](the-tree-of-knowledge.jpg){fig-align="left"}

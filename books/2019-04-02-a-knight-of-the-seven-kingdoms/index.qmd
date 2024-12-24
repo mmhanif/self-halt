@@ -2,7 +2,7 @@
 title: "A knight of the seven kingdoms"
 description: "**A knight of the seven kingdoms** by George R.R. Martin"
 date: 2019-04-02
-categories: [books, 2019, Audible, fiction, fantasy]
+categories: [books, "2019", Audible, fiction, fantasy]
 image: a-knight-of-the-seven-kingdoms.jpg
 ---
 ![**A knight of the seven kingdoms** by George R.R. Martin](a-knight-of-the-seven-kingdoms.jpg){fig-align="left"}

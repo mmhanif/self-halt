@@ -2,7 +2,7 @@
 title: "The Song of the Dodo"
 description: "**The Song of the Dodo: Island Biogeography in an Age of Extinctions** by David Quammen"
 date: 2016-12-01
-categories: [2016, non-fiction, science]
+categories: ["2016", non-fiction, science]
 image: song-of-the-dodo.jpg
 ---
 ![**The Song of the Dodo: Island Biogeography in an Age of Extinctions** by David Quammen](song-of-the-dodo.jpg){fig-align="left"}

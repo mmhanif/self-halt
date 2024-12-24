@@ -2,7 +2,7 @@
 title: "Power Moves"
 description: "**Power Moves** by Adam Grant"
 date: 2019-01-19
-categories: [books, 2019, Audible, non-fiction]
+categories: [books, "2019", Audible, non-fiction]
 image: power-moves.jpg
 ---
 ![**Power Moves** by Adam Grant](power-moves.jpg){fig-align="left"}

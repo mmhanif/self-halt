@@ -2,7 +2,7 @@
 title: "Spqr"
 description: "**SPQR** by Mary Beard"
 date: 2021-06-14
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: spqr.jpg
 ---
 ![**SPQR** by Mary Beard](spqr.jpg){fig-align="left"}

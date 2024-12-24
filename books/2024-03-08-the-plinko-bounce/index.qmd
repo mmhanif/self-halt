@@ -2,7 +2,7 @@
 title: "The Plinko Bounce"
 description: "**The Plinko Bounce** by Martin   Clark"
 date: 2024-03-08
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Plinko_Bounce.jpg
 ---
 ![**The Plinko Bounce** by Martin   Clark](The_Plinko_Bounce.jpg){fig-align="left"}
@@ -16,7 +16,7 @@ image: The_Plinko_Bounce.jpg
 For seventeen years, small-town public defender Andy Hughes has been
 underpaid to look after the poor, the addicted, and the unfortunate souls
 who constantly cycle through the courts, charged with petty crimes. Then,
-in the summer of 2020, he's assigned to a grotesque murder case that brings
+in the summer of "2020", he's assigned to a grotesque murder case that brings
 national media focus to rural Patrick County, Virginia--Alicia Benson, the
 wife of a wealthy businessman, is murdered in her home. The accused killer,
 Damian Bullins, is a cunning felon with a long history of violence, and he

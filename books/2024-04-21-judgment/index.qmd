@@ -2,7 +2,7 @@
 title: "Judgment"
 description: "**Judgment** by Joseph Finder"
 date: 2024-04-21
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Judgment.jpg
 ---
 ![**Judgment** by Joseph Finder](Judgment.jpg){fig-align="left"}

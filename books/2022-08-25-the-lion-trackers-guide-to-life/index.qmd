@@ -2,7 +2,7 @@
 title: "The Lion Tracker's Guide To Life"
 description: "**The Lion Tracker's Guide To Life** by Boyd Varty"
 date: 2022-08-25
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: the-lion-trackers-guide-to-life.jpg
 ---
 ![**The Lion Tracker's Guide To Life** by Boyd Varty](the-lion-trackers-guide-to-life.jpg){fig-align="left"}

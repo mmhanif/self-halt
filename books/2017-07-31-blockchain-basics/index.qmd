@@ -2,7 +2,7 @@
 title: "Blockchain Basics"
 description: "**Blockchain Basics: A Non-Technical Introduction in 25 Steps** by Daniel Drescher"
 date: 2017-07-31
-categories: [2017, ebook]
+categories: ["2017", ebook]
 image: blockchain-basics.jpg
 ---
 ![**Blockchain Basics: A Non-Technical Introduction in 25 Steps** by Daniel Drescher](blockchain-basics.jpg){fig-align="left"}

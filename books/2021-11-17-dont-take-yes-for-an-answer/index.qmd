@@ -2,7 +2,7 @@
 title: "Don't Take Yes For An Answer"
 description: "**Don't Take Yes For An Answer** by Steve Herz"
 date: 2021-11-17
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: dont-take-yes-for-an-answer.jpg
 ---
 ![**Don't Take Yes For An Answer** by Steve Herz](dont-take-yes-for-an-answer.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Bomber Mafia"
 description: "**The Bomber Mafia** by Malcolm Gladwell"
 date: 2021-05-09
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: the-bomber-mafia.jpg
 ---
 ![**The Bomber Mafia** by Malcolm Gladwell](the-bomber-mafia.jpg){fig-align="left"}

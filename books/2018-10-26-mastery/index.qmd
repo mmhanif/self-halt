@@ -2,7 +2,7 @@
 title: "Mastery: The Keys to Success and Long-Term Fulfillment"
 description: "**Mastery: The Keys to Success and Long-Term Fulfillment** by George Leonard - (*Kindle*)"
 date: 2018-10-26
-categories: [2018, Kindle]
+categories: ["2018", Kindle]
 image: mastery.jpg
 ---
 ![**Mastery: The Keys to Success and Long-Term Fulfillment** by George Leonard - (*Kindle*)](mastery.jpg){fig-align="left"}

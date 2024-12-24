@@ -2,7 +2,7 @@
 title: "Stolen Focus: Why You Can't Pay Attention"
 description: "**Stolen Focus: Why You Can't Pay Attention** by Johann Hari"
 date: 2023-02-02
-categories: [books, 2023, Paperback, non-fiction]
+categories: [books, "2023", Paperback, non-fiction]
 image: Stolen_Focus.jpg
 ---
 ![**Stolen Focus: Why You Can't Pay Attention** by Johann Hari](Stolen_Focus.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Righteous Mind: Why Good People Are Divided by Politics and Religion"
 description: "**The Righteous Mind: Why Good People Are Divided by Politics and Religion** by Jonathan Haidt"
 date: 2023-02-06
-categories: [books, 2023, Paperback, non-fiction]
+categories: [books, "2023", Paperback, non-fiction]
 image: The_Righteous_Mind.jpg
 ---
 ![**The Righteous Mind: Why Good People Are Divided by Politics and Religion** by Jonathan Haidt](The_Righteous_Mind.jpg){fig-align="left"}

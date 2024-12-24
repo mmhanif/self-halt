@@ -2,7 +2,7 @@
 title: "The Storm Before The Storm"
 description: "**The Storm Before The Storm** by Michael Duncan"
 date: 2021-05-25
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: the-storm-before-the-storm.jpg
 ---
 ![**The Storm Before The Storm** by Michael Duncan](the-storm-before-the-storm.jpg){fig-align="left"}

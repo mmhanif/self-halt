@@ -2,7 +2,7 @@
 title: "Orlando People"
 description: "**Orlando People (Orlando People #1)** by Alexander C. Kane"
 date: 2021-10-10
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 ---
 ![**Orlando People (Orlando People #1)** by Alexander C. Kane](orlando-people.jpg){fig-align="left"}
 

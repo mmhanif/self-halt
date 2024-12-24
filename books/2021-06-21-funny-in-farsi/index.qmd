@@ -2,7 +2,7 @@
 title: "Funny In Farsi"
 description: "**Funny In Farsi** by Firoozeh Dumas"
 date: 2021-06-21
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: funny-in-farsi.jpg
 ---
 ![**Funny In Farsi** by Firoozeh Dumas](funny-in-farsi.jpg){fig-align="left"}

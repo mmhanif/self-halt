@@ -2,7 +2,7 @@
 title: "Rememberings"
 description: "**Rememberings** by Sinéad O'Connor"
 date: 2023-09-05
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Rememberings.jpg
 ---
 ![**Rememberings** by Sinéad O'Connor](Rememberings.jpg){fig-align="left"}

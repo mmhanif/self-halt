@@ -2,7 +2,7 @@
 title: "The Man Who Solved the Market"
 description: "**The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution** by Gregory Zuckerman"
 date: 2024-01-13
-categories: [books, 2024, Audible, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: The_Man_Who_Solved_the_Market.jpg
 ---
 ![**The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution** by Gregory Zuckerman](The_Man_Who_Solved_the_Market.jpg){fig-align="left"}

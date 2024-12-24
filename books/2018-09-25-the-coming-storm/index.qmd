@@ -2,7 +2,7 @@
 title: "The Coming Storm"
 description: "**The Coming Storm** by Michael Lewis - (*Audible*)"
 date: 2018-09-25
-categories: [books, non-fiction, weather, government, 2018, Audible]
+categories: [books, non-fiction, weather, government,"2018", Audible]
 image: the-coming-storm.jpg
 ---
 ![**The Coming Storm** by Michael Lewis - (*Audible*)](the-coming-storm.jpg){fig-align="left"}

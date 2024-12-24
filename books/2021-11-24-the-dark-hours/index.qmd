@@ -2,7 +2,7 @@
 title: "The Dark Hours"
 description: "**The Dark Hours** by Michael Connelly"
 date: 2021-11-24
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: the-dark-hours.jpg
 ---
 ![**The Dark Hours** by Michael Connelly](the-dark-hours.jpg){fig-align="left"}

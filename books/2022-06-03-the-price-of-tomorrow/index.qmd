@@ -2,7 +2,7 @@
 title: "The Price Of Tomorrow - Why Deflation Is The Key To An Abundant Future"
 description: "**The Price Of Tomorrow - Why Deflation Is The Key To An Abundant Future** by Jeff Booth"
 date: 2022-06-03
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: the-price-of-tomorrow.jpg
 ---
 ![**The Price Of Tomorrow - Why Deflation Is The Key To An Abundant Future** by Jeff Booth](the-price-of-tomorrow.jpg){fig-align="left"}

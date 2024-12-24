@@ -2,7 +2,7 @@
 title: "An Economist Walks Into A Brothel"
 description: "**An Economist Walks Into A Brothel** by Allison Schrager"
 date: 2020-07-19
-categories: [books, non-fiction, 2020, Audible]
+categories: [books, non-fiction, "2020", Audible]
 image: an-economist-walks-into-a-brothel.jpg
 ---
 ![**An Economist Walks Into A Brothel** by Allison Schrager](an-economist-walks-into-a-brothel.jpg){fig-align="left"}

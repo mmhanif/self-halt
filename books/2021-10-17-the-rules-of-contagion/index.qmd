@@ -2,7 +2,7 @@
 title: "The Rules Of Contagion"
 description: "**The Rules Of Contagion Why Things Spread - And Why They Stop** by Adam Kucharski"
 date: 2021-10-17
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 ---
 ![**The Rules Of Contagion Why Things Spread - And Why They Stop** by Adam Kucharski](rules-of-contagion.jpg){fig-align="left"}
 

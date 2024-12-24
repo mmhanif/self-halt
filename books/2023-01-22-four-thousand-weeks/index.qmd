@@ -2,7 +2,7 @@
 title: "Four Thousand Weeks: Time Management for Mortals"
 description: "**Four Thousand Weeks: Time Management for Mortals** by Oliver Burkeman"
 date: 2023-01-22
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: Four_Thousand_Weeks.jpg
 ---
 ![**Four Thousand Weeks: Time Management for Mortals** by Oliver Burkeman](Four_Thousand_Weeks.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Sherlock Holmes"
 description: "**Sherlock Holmes: The Definitive Collection** by Arthur Conan Doyle - (*Audible*)"
 date: 2017-05-31
-categories: [2017, Audible, fiction]
+categories: ["2017", Audible, fiction]
 ---
 ![**Sherlock Holmes: The Definitive Collection** by Arthur Conan Doyle](sherlock-holmes.jpg){fig-align="left"}
 

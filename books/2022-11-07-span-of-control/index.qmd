@@ -2,7 +2,7 @@
 title: "Span Of Control - What To Do When You're Under Pressure, Overwhelmed, And Ready To Get What You Really Want"
 description: "**Span Of Control - What To Do When You're Under Pressure, Overwhelmed, And Ready To Get What You Really Want** by Carey D. Lohrenz"
 date: 2022-11-07
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: span-of-control.jpg
 ---
 ![**Span Of Control - What To Do When You're Under Pressure, Overwhelmed, And Ready To Get What You Really Want** by Carey D. Lohrenz](span-of-control.jpg){fig-align="left"}

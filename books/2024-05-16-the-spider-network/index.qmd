@@ -2,7 +2,7 @@
 title: "The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History"
 description: "**The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History** by David Enrich"
 date: 2024-05-16
-categories: [books, 2024, Hardcover, non-fiction]
+categories: [books, "2024", Hardcover, non-fiction]
 image: The_Spider_Network.jpg
 ---
 ![**The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History** by David Enrich](The_Spider_Network.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Home Fire"
 description: "**Home Fire** by Kamila Shamsie - (*Kindle*, *Audible*, *Hardcover*)"
 date: 2017-09-24
-categories: [2017, Kindle, Audible, Hardcover, fiction]
+categories: ["2017", Kindle, Audible, Hardcover, fiction]
 image: home-fire.jpg
 ---
 ![**Home Fire** by Kamila Shamsie](home-fire.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Ink Black Heart (Cormoran Strike, #6)"
 description: "**The Ink Black Heart (Cormoran Strike, #6)** by Robert Galbraith"
 date: 2023-11-05
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 image: The_Ink_Black_Heart.jpg
 ---
 ![**The Ink Black Heart (Cormoran Strike, #6)** by Robert Galbraith](The_Ink_Black_Heart.jpg){fig-align="left"}

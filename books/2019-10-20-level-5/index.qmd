@@ -2,7 +2,7 @@
 title: "Level 5"
 description: "**Level 5** by William Ledbetter"
 date: 2019-10-20
-categories: [books, 2019, Audible, fiction, science-fiction]
+categories: [books, "2019", Audible, fiction, science-fiction]
 ---
 ![**Level 5** by William Ledbetter](level-5.jpg){fig-align="left"}
 

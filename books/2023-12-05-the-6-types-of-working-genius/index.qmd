@@ -2,7 +2,7 @@
 title: "The 6 Types of Working Genius"
 description: "**The 6 Types of Working Genius** by Patrick Lencioni"
 date: 2023-12-05
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: The_6_Types_of_Working_Genius.jpg
 ---
 ![**The 6 Types of Working Genius** by Patrick Lencioni](The_6_Types_of_Working_Genius.jpg){fig-align="left"}

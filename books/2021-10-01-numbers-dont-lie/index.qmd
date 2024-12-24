@@ -2,7 +2,7 @@
 title: "Numbers Don't Lie"
 description: "**Numbers Don't Lie** by Vaclav Smil"
 date: 2021-10-01
-categories: [books, non-fiction, 2021, Paperback]
+categories: [books, non-fiction, "2021", Paperback]
 image: numbers-dont-lie.jpg
 ---
 ![**Numbers Don't Lie** by Vaclav Smil](numbers-dont-lie.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Lords Of Finance"
 description: "**Lords Of Finance** by Liaquat Ahamed"
 date: 2022-07-05
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: lords-of-finance.jpg
 ---
 ![**Lords Of Finance** by Liaquat Ahamed](lords-of-finance.jpg){fig-align="left"}

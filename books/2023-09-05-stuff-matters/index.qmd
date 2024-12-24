@@ -2,7 +2,7 @@
 title: "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
 description: "**Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World** by Mark Miodownik"
 date: 2023-09-05
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Stuff_Matters.jpg
 ---
 ![**Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World** by Mark Miodownik](Stuff_Matters.jpg){fig-align="left"}

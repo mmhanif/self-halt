@@ -2,7 +2,7 @@
 title: "Dickens and Prince"
 description: "**Dickens and Prince** by Hornby  Nick"
 date: 2023-03-11
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: Dickens_and_Prince.jpg
 ---
 ![**Dickens and Prince** by Hornby  Nick](Dickens_and_Prince.jpg){fig-align="left"}
@@ -26,7 +26,7 @@ invites us into his latest obsession: the cosmic link between two unlikely
 artists, geniuses in their own rights, spanning race, class, and
 centuries—each of whom electrified their different disciplines and whose
 legacy resounded far beyond their own time. When Prince’s 1987 record Sign
-o’ the Times was rereleased in 2020, the iconic album now came with dozens
+o’ the Times was rereleased in "2020", the iconic album now came with dozens
 of songs that weren’t on the original— Prince was endlessly prolific,
 recording 102 songs in 1986 alone. In awe, Hornby began to wonder, Who else
 ever produced this much? Who else ever worked that way? He soon found his

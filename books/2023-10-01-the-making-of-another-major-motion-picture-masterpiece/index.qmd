@@ -2,7 +2,7 @@
 title: "The Making of Another Major Motion Picture Masterpiece"
 description: "**The Making of Another Major Motion Picture Masterpiece** by Tom Hanks"
 date: 2023-10-01
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 image: The_Making_of_Another_Major_Motion_Picture_Masterpiece.jpg
 ---
 ![**The Making of Another Major Motion Picture Masterpiece** by Tom Hanks](The_Making_of_Another_Major_Motion_Picture_Masterpiece.jpg){fig-align="left"}

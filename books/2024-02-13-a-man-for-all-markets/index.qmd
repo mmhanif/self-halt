@@ -2,7 +2,7 @@
 title: "A Man for All Markets"
 description: "**A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp"
 date: 2024-02-13
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: A_Man_for_All_Markets.jpg
 ---
 ![**A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp](A_Man_for_All_Markets.jpg){fig-align="left"}

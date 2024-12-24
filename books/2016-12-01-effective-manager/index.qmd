@@ -2,7 +2,7 @@
 title: "The Effective Manager"
 description: "**The Effective Manager** by Mark Horstman"
 date: 2016-12-01
-categories: [2016, management]
+categories: ["2016", management]
 image: effective-manager.jpg
 ---
 ![**The Effective Manager** by Mark Horstman](effective-manager.jpg){fig-align="left"}

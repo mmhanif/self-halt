@@ -2,7 +2,7 @@
 title: "Thinking in systems - a primer"
 description: "**Thinking in systems: a primer** by Donella H. Meadows"
 date: 2019-08-20
-categories: [books, 2019, Kindle, non-fiction, engineering]
+categories: [books, "2019", Kindle, non-fiction, engineering]
 image: thinking-in-systems-a-primer.jpg
 ---
 ![**Thinking in systems: a primer** by Donella H. Meadows](thinking-in-systems-a-primer.jpg){fig-align="left"}

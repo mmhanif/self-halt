@@ -2,7 +2,7 @@
 title: "The Killer Collective"
 description: "**The Killer Collective** by Barry Eisler"
 date: 2019-02-01
-categories: [books, 2019, Kindle, fiction]
+categories: [books, "2019", Kindle, fiction]
 image: the-killer-collective.jpg
 ---
 ![**The Killer Collective** by Barry Eisler](the-killer-collective.jpg){fig-align="left"}

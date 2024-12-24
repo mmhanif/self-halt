@@ -2,7 +2,7 @@
 title: "Indistractable"
 description: "**Indistractable** by Nir Eyal"
 date: 2020-01-29
-categories: [books, non-fiction, 2020, Kindle]
+categories: [books, non-fiction, "2020", Kindle]
 image: indistractable.jpg
 ---
 ![**Indistractable** by Nir Eyal](indistractable.jpg){fig-align="left"}

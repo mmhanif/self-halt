@@ -2,7 +2,7 @@
 title: "Desert Star"
 description: "**Desert Star** by Michael Connelly"
 date: 2022-11-17
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: desert-star.jpg
 ---
 ![**Desert Star** by Michael Connelly](desert-star.jpg){fig-align="left"}

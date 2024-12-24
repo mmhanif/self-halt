@@ -2,7 +2,7 @@
 title: "Bayes Theorem Examples: A Visual Guide For Beginners"
 description: "**Bayes Theorem Examples: A Visual Guide For Beginners** by Scott Hartshorn - (*Kindle*)"
 date: 2018-04-01
-categories: [2018, Kindle, mathematics]
+categories: ["2018", Kindle, mathematics]
 ---
 ![**Bayes Theorem Examples: A Visual Guide For Beginners** by Scott Hartshorn - (*Kindle*)](bayes_theorem_visual_guide.jpg){fig-align="left"}
 

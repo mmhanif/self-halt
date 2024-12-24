@@ -2,7 +2,7 @@
 title: "Principles: Life and Work"
 description: "**Principles: Life and Work** by Ray Dalio - (*Kindle*)"
 date: 2018-02-07
-categories: [2018, Kindle]
+categories: ["2018", Kindle]
 image: principles-life-and-work.jpg
 ---
 ![**Principles: Life and Work** by Ray Dalio - (*Kindle*)](principles-life-and-work.jpg){fig-align="left"}

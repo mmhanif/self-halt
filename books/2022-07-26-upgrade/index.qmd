@@ -2,7 +2,7 @@
 title: "Upgrade - A Novel"
 description: "**Upgrade - A Novel** by Blake Crouch"
 date: 2022-07-26
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: upgrade.jpg
 ---
 ![**Upgrade - A Novel** by Blake Crouch](upgrade.jpg){fig-align="left"}

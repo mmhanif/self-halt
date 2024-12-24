@@ -2,7 +2,7 @@
 title: "Letters of Note"
 description: "**Letters of Note: An Eclectic Collection of Correspondence Deserving of a Wider Audience** by Shaun Usher - (*Kindle*)"
 date: 2017-12-20
-categories: [2017, Kindle, non-fiction]
+categories: ["2017", Kindle, non-fiction]
 image: letters-of-note.jpg
 ---
 ![**Letters of Note: An Eclectic Collection of Correspondence Deserving of a Wider Audience** by Shaun Usher - (*Kindle*)](letters-of-note.jpg){fig-align="left"}

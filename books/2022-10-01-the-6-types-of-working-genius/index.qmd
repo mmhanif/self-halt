@@ -2,7 +2,7 @@
 title: "The 6 Types Of Working Genius - A Better Way To Understand Your Gifts, Your Frustrations, And Your Team"
 description: "**The 6 Types Of Working Genius - A Better Way To Understand Your Gifts, Your Frustrations, And Your Team** by Patrick M. Lencioni"
 date: 2022-10-01
-categories: [books, non-fiction, 2022, Hardcover]
+categories: [books, non-fiction, "2022", Hardcover]
 image: the-6-types-of-working-genius.jpg
 ---
 ![**The 6 Types Of Working Genius - A Better Way To Understand Your Gifts, Your Frustrations, And Your Team** by Patrick M. Lencioni](the-6-types-of-working-genius.jpg){fig-align="left"}

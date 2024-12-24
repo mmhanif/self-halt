@@ -2,7 +2,7 @@
 title: "Have a Nice Day"
 description: "**Have a Nice Day** by Billy Crystal,  Quinton Peeples"
 date: 2019-10-25
-categories: [books, 2019, Audible, play]
+categories: [books, "2019", Audible, play]
 ---
 ![**Have a Nice Day** by Billy Crystal,  Quinton Peeples](have-a-nice-day.jpg){fig-align="left"}
 

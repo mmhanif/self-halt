@@ -2,7 +2,7 @@
 title: "Radical Focus"
 description: "**Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results** by Christina Wodtke"
 date: 2016-12-01
-categories: [2016, books, management]
+categories: ["2016", books, management]
 image: radical-focus.jpg
 ---
 ![**Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results** by Christina Wodtke](radical-focus.jpg){fig-align="left"}

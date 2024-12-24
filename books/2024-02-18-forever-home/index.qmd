@@ -2,7 +2,7 @@
 title: "Forever Home: A Novel"
 description: "**Forever Home: A Novel** by Graham Norton"
 date: 2024-02-18
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Forever_Home.jpg
 ---
 ![**Forever Home: A Novel** by Graham Norton](Forever_Home.jpg){fig-align="left"}

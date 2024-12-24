@@ -2,7 +2,7 @@
 title: "Exit West"
 description: "**Exit West: A Novel** by Mohsin Hamid - (*Audible*)"
 date: 2017-11-15
-categories: [2017, Audible, fiction]
+categories: ["2017", Audible, fiction]
 image: exit-west.jpg
 ---
 ![**Exit West: A Novel** by Mohsin Hamid](exit-west.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Lessons of History"
 description: "**The Lessons of History** by Will Durant, Ariel Durant - (*Kindle* and *Audible*)"
 date: 2017-05-13
-categories: [2017, Kindle, Audible, non-fiction, history]
+categories: ["2017", Kindle, Audible, non-fiction, history]
 image: lessons-of-history.jpg
 ---
 ![**The Lessons of History** by Will Durant, Ariel Durant](lessons-of-history.jpg){fig-align="left"}

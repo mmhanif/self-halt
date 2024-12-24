@@ -2,7 +2,7 @@
 title: "Malfuzat - Volume I"
 description: "**Malfuzat - Volume I** by Hazrat Mirza Ghulam Ahmad"
 date: 2020-09-27
-categories: [books, religious text, 2020, Hardcover]
+categories: [books, religious text, "2020", Hardcover]
 image: malfuzat--volume-i.jpg
 ---
 ![**Malfuzat - Volume I** by Hazrat Mirza Ghulam Ahmad](malfuzat--volume-i.jpg){fig-align="left"}

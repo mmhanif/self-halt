@@ -2,7 +2,7 @@
 title: "Leadership Is Language: The Hidden Power of What You Say-and What You Don't"
 description: "**Leadership Is Language: The Hidden Power of What You Say-and What You Don't** by L. David Marquet"
 date: 2024-04-28
-categories: [books, 2024, Audible, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Leadership_Is_Language.jpg
 ---
 ![**Leadership Is Language: The Hidden Power of What You Say-and What You Don't** by L. David Marquet](Leadership_Is_Language.jpg){fig-align="left"}

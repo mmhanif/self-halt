@@ -2,7 +2,7 @@
 title: "Seven Brief Lessons On Physics"
 description: "**Seven Brief Lessons On Physics** by Carlo Rovelli"
 date: 2022-06-30
-categories: [books, non-fiction, 2022, Paperback]
+categories: [books, non-fiction, "2022", Paperback]
 image: seven-brief-lessons-on-physics.jpg
 ---
 ![**Seven Brief Lessons On Physics** by Carlo Rovelli](seven-brief-lessons-on-physics.jpg){fig-align="left"}

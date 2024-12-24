@@ -2,7 +2,7 @@
 title: "Crucial Conversations: Tools for Talking When Stakes Are High"
 description: "**Crucial Conversations: Tools for Talking When Stakes Are High** by Kerry Patterson"
 date: 2023-11-30
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Crucial_Conversations.jpg
 ---
 ![**Crucial Conversations: Tools for Talking When Stakes Are High** by Kerry Patterson](Crucial_Conversations.jpg){fig-align="left"}

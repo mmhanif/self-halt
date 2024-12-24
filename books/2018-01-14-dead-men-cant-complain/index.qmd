@@ -2,7 +2,7 @@
 title: "Dead Men Can't Complain"
 description: "**Dead Men Can't Complain and Other Stories** by Peter Clines - (*Audible*)"
 date: 2018-01-14
-categories: [books, fiction, science-fiction, 2018, Audible]
+categories: [books, fiction, science-fiction,"2018", Audible]
 ---
 ![Dead Men Can't Complain and Other Stories by Peter Clines - (*Audible*)](dead_men_cant_complain.jpg){fig-align="left"}
 

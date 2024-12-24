@@ -2,7 +2,7 @@
 title: "The Accidental Sexist"
 description: "**The Accidental Sexist** by Gary Ford, Stephen Koch, Jill Armstrong"
 date: 2021-06-03
-categories: [books, non-fiction, 2021, Paperback]
+categories: [books, non-fiction, "2021", Paperback]
 image: the-accidental-sexist.jpg
 ---
 ![**The Accidental Sexist** by Gary Ford, Stephen Koch, Jill Armstrong](the-accidental-sexist.jpg){fig-align="left"}

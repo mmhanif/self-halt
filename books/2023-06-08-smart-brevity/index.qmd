@@ -2,7 +2,7 @@
 title: "Smart Brevity: The Power of Saying More with Less"
 description: "**Smart Brevity: The Power of Saying More with Less** by Jim Vandehei"
 date: 2023-06-08
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: Smart_Brevity.jpg
 ---
 ![**Smart Brevity: The Power of Saying More with Less** by Jim Vandehei](Smart_Brevity.jpg){fig-align="left"}

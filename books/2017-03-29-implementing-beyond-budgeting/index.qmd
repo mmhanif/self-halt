@@ -2,7 +2,7 @@
 title: "Implementing Beyond Budgeting"
 description: "**Implementing Beyond Budgeting: Unlocking the Performance Potential** by Bjarte Bogsnes - (*Kindle*)"
 date: 2017-03-29
-categories: [2017, Kindle, non-fiction, business]
+categories: ["2017", Kindle, non-fiction, business]
 image: implementing-beyond-budgeting.jpg
 ---
 ![**Implementing Beyond Budgeting: Unlocking the Performance Potential** by Bjarte Bogsnes](implementing-beyond-budgeting.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "It Worked For Me"
 description: "**It Worked for Me: In Life and Leadership** by Colin Powell - (*Audible*)"
 date: 2017-01-14
-categories: [2017, Audible, leadership, memoir, non-fiction]
+categories: ["2017", Audible, leadership, memoir, non-fiction]
 image: it-worked-for-me.jpg
 ---
 ![**It Worked for Me: In Life and Leadership** by Colin Powell](it-worked-for-me.jpg){fig-align="left"}

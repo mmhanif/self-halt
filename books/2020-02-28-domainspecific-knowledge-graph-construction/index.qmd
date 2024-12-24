@@ -2,7 +2,7 @@
 title: "Domain-Specific Knowledge Graph Construction"
 description: "**Domain-Specific Knowledge Graph Construction** by Mayank Kejriwal"
 date: 2020-02-28
-categories: [books, non-fiction, 2020, Paperback]
+categories: [books, non-fiction, "2020", Paperback]
 image: domainspecific-knowledge-graph-construction.jpg
 ---
 ![**Domain-Specific Knowledge Graph Construction** by Mayank Kejriwal](domainspecific-knowledge-graph-construction.jpg){fig-align="left"}

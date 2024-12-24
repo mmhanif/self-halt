@@ -2,7 +2,7 @@
 title: "Millions, Billions, Zillions"
 description: "**Millions, Billions, Zillions** by Brian W. Kernighan"
 date: 2019-11-08
-categories: [books, 2019, Hardcover, non-fiction, mathematics]
+categories: [books, "2019", Hardcover, non-fiction, mathematics]
 image: millions-billions-zillions.jpg
 ---
 ![**Millions, Billions, Zillions** by Brian W. Kernighan](millions-billions-zillions.jpg){fig-align="left"}

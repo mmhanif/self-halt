@@ -2,7 +2,7 @@
 title: "The Wrong Side of Goodbye"
 description: "**The Wrong Side of Goodbye (A Harry Bosch Novel Book 21)** by Michael Connelly"
 date: 2016-12-01
-categories: [2016, fiction]
+categories: ["2016", fiction]
 image: wrong-side-of-goodbye.jpg
 ---
 ![**The Wrong Side of Goodbye (A Harry Bosch Novel Book 21)** by Michael Connelly](wrong-side-of-goodbye.jpg){fig-align="left"}

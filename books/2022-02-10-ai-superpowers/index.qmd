@@ -2,7 +2,7 @@
 title: "AI Superpowers - China, Silicon Valley, And The New World Order"
 description: "**AI Superpowers - China, Silicon Valley, And The New World Order** by Kai-Fu Lee"
 date: 2022-02-10
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: ai-superpowers.jpg
 ---
 ![**AI Superpowers - China, Silicon Valley, And The New World Order** by Kai-Fu Lee](ai-superpowers.jpg){fig-align="left"}

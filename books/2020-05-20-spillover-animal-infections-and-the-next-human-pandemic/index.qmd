@@ -2,7 +2,7 @@
 title: "Spillover - Animal Infections And The Next Human Pandemic"
 description: "**Spillover: Animal Infections And The Next Human Pandemic** by David Quammen"
 date: 2020-05-20
-categories: [books, non-fiction, 2020, Audible, Kindle]
+categories: [books, non-fiction, "2020", Audible, Kindle]
 image: spillover-animal-infections-and-the-next-human-pandemic.jpg
 ---
 ![**Spillover: Animal Infections And The Next Human Pandemic** by David Quammen](spillover-animal-infections-and-the-next-human-pandemic.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Real Tigers (Slough House, #3)"
 description: "**Real Tigers (Slough House, #3)** by Mick Herron"
 date: 2024-06-06
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Real_Tigers.jpg
 ---
 ![**Real Tigers (Slough House, #3)** by Mick Herron](Real_Tigers.jpg){fig-align="left"}

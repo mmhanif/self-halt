@@ -2,7 +2,7 @@
 title: "Recursion"
 description: "**Recursion** by Blake Crouch"
 date: 2019-06-19
-categories: [books, 2019, Audible, fiction, science-fiction]
+categories: [books, "2019", Audible, fiction, science-fiction]
 image: recursion.jpg
 ---
 ![**Recursion** by Blake Crouch](recursion.jpg){fig-align="left"}

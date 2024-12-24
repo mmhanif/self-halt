@@ -2,7 +2,7 @@
 title: "Meditations"
 description: "**Meditations** by Marcus Aurelius"
 date: 2016-12-01
-categories: [2016, non-fiction, memoir, stoicism]
+categories: ["2016", non-fiction, memoir, stoicism]
 image: meditations.jpg
 ---
 ![**Meditations** by Marcus Aurelius](meditations.jpg){fig-align="left"}

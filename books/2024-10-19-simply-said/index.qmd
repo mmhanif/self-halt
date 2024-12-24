@@ -2,7 +2,7 @@
 title: "Simply Said: Communicating Better at Work and Beyond"
 description: "**Simply Said: Communicating Better at Work and Beyond** by Jay Sullivan"
 date: 2024-10-19
-categories: [books, 2024, Paperback, non-fiction]
+categories: [books, "2024", Paperback, non-fiction]
 image: Simply_Said.jpg
 ---
 ![**Simply Said: Communicating Better at Work and Beyond** by Jay Sullivan](Simply_Said.jpg){fig-align="left"}

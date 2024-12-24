@@ -2,7 +2,7 @@
 title: "Troubled Blood"
 description: "**Troubled Blood** by Robert Galbraith"
 date: 2022-12-26
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: troubled-blood.jpg
 ---
 ![**Troubled Blood** by Robert Galbraith](troubled-blood.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Five Dysfunctions Of A Team - A Leadership Fable, 20Th Anniversary Edition"
 description: "**The Five Dysfunctions Of A Team - A Leadership Fable, 20Th Anniversary Edition** by Patrick M. Lencioni"
 date: 2022-05-05
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: the-five-dysfunctions-of-a-team.jpg
 ---
 ![**The Five Dysfunctions Of A Team - A Leadership Fable, 20Th Anniversary Edition** by Patrick M. Lencioni](the-five-dysfunctions-of-a-team.jpg){fig-align="left"}

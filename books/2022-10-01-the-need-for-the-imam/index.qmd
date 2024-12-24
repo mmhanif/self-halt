@@ -2,7 +2,7 @@
 title: "The Need For The Imam"
 description: "**The Need For The Imam** by Hazrat Mirza Ghulam Ahmad"
 date: 2022-10-01
-categories: [books, religion, 2022, Paperback]
+categories: [books, religion, "2022", Paperback]
 image: the-need-for-the-imam.jpg
 ---
 ![**The Need For The Imam** by Hazrat Mirza Ghulam Ahmad](the-need-for-the-imam.jpg){fig-align="left"}

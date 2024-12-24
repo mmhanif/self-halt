@@ -2,7 +2,7 @@
 title: "The Psychology Of Money - Timeless Lessons On Wealth, Greed, And Happiness"
 description: "**The Psychology Of Money - Timeless Lessons On Wealth, Greed, And Happiness** by Morgan Housel"
 date: 2022-05-12
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: the-psychology-of-money.jpg
 ---
 ![**The Psychology Of Money - Timeless Lessons On Wealth, Greed, And Happiness** by Morgan Housel](the-psychology-of-money.jpg){fig-align="left"}

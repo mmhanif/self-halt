@@ -2,7 +2,7 @@
 title: "Ubiquity"
 description: "**Ubiquity: Why Catastrophes Happen** by Mark Buchanan - (*Kindle*)"
 date: 2017-12-07
-categories: [2017, Kindle, non-fiction, science]
+categories: ["2017", Kindle, non-fiction, science]
 image: ubiquity.jpg
 ---
 ![**Ubiquity: Why Catastrophes Happen** by Mark Buchanan - (*Kindle*)](ubiquity.jpg){fig-align="left"}

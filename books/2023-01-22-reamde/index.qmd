@@ -2,7 +2,7 @@
 title: "Reamde (Crypto, #2)"
 description: "**Reamde (Crypto, #2)** by Neal Stephenson"
 date: 2023-01-22
-categories: [books, 2023, Hardcover, fiction]
+categories: [books, "2023", Hardcover, fiction]
 image: Reamde.jpg
 ---
 ![**Reamde (Crypto, #2)** by Neal Stephenson](Reamde.jpg){fig-align="left"}

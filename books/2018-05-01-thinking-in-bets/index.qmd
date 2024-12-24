@@ -2,7 +2,7 @@
 title: "Thinking in Bets"
 description: "**Thinking in Bets** by Annie Duke - (*Kindle*)"
 date: 2018-05-01
-categories: [books, non-fiction, science, 2018, Kindle]
+categories: [books, non-fiction, science,"2018", Kindle]
 image: thinking-in-bets.jpg
 ---
 ![**Thinking in Bets** by Annie Duke - (*Kindle*)](thinking-in-bets.jpg){fig-align="left"}

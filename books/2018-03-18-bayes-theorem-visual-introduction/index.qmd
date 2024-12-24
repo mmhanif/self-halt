@@ -2,7 +2,7 @@
 title: "Bayes Theorem: A Visual Introduction For Beginners"
 description: "**Bayes Theorem: A Visual Introduction For Beginners** by Dan Morris - (*Kindle*)"
 date: 2018-03-18
-categories: [2018, Kindle]
+categories: ["2018", Kindle]
 image: bayes-theorem-visual-introduction.jpg
 ---
 ![**Bayes Theorem: A Visual Introduction For Beginners** by Dan Morris - (*Kindle*)](bayes-theorem-visual-introduction.jpg){fig-align="left"}

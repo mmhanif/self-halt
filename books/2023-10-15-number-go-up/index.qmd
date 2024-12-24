@@ -2,7 +2,7 @@
 title: "Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"
 description: "**Number Go Up: Inside Crypto's Wild Rise and Staggering Fall** by Zeke Faux"
 date: 2023-10-15
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Number_Go_Up.jpg
 ---
 ![**Number Go Up: Inside Crypto's Wild Rise and Staggering Fall** by Zeke Faux](Number_Go_Up.jpg){fig-align="left"}
@@ -39,7 +39,7 @@ wagers its treasury on Bitcoin, and in the Philippines, he stumbles upon a
 Pokémon knockoff mobile game touted by boosters as a cure for poverty. And
 in an astonishing development, a spam text leads Faux to Cambodia, where he
 uncovers a crypto-powered human-trafficking ring. When the bubble suddenly
-bursts in 2022, Faux brings readers inside SBF’s penthouse as the fallen
+bursts in "2022", Faux brings readers inside SBF’s penthouse as the fallen
 crypto king faces his imminent arrest. Fueled by the absurd details and
 authoritative reporting that earned Zeke Faux the accolade “our great poet
 of crime” (Money Stuff columnist Matt Levine), Number Go Up is the

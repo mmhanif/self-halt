@@ -2,7 +2,7 @@
 title: "Never Split The Difference - Negotiating As If Your Life Depended On It"
 description: "**Never Split The Difference - Negotiating As If Your Life Depended On It** by Chris Voss, Tahl Raz"
 date: 2022-08-21
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: never-split-the-difference.jpg
 ---
 ![**Never Split The Difference - Negotiating As If Your Life Depended On It** by Chris Voss, Tahl Raz](never-split-the-difference.jpg){fig-align="left"}

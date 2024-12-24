@@ -2,7 +2,7 @@
 title: "Hidden Potential: The Science of Achieving Greater Things"
 description: "**Hidden Potential: The Science of Achieving Greater Things** by Adam M. Grant"
 date: 2024-01-22
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 image: Hidden_Potential.jpg
 draft: true
 ---

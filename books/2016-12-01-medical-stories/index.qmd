@@ -2,7 +2,7 @@
 title: "Medical Stories"
 description: "**Do No Harm: Stories of Life, Death, and Brain Surgery** by Henry Marsh / \n**When Breath Becomes Air** by Paul Kalanithi / \n**Being Mortal: Medicine and What Matters in the End** by Atul Gowande"
 date: 2016-12-01
-categories: [2016, non-fiction, memoir, medicine]
+categories: ["2016", non-fiction, memoir, medicine]
 image: medical-stories.jpg
 ---
 ![Do No Harm](do-no-harm.jpg){fig-align="left"}

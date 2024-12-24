@@ -2,7 +2,7 @@
 title: "The Sirens Of Titan"
 description: "**The Sirens Of Titan** by Kurt Vonnegut"
 date: 2021-09-16
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 ---
 ![**The Sirens Of Titan** by Kurt Vonnegut](sirens-of-titan.jpg){fig-align="left"}
 

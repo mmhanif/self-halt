@@ -2,7 +2,7 @@
 title: "The Four Agreements"
 description: "**The Four Agreements** by Don Miguel Ruiz"
 date: 2020-02-03
-categories: [books, non-fiction, 2020, Paperback]
+categories: [books, non-fiction, "2020", Paperback]
 image: the-four-agreements.jpg
 ---
 ![**The Four Agreements** by Don Miguel Ruiz](the-four-agreements.jpg){fig-align="left"}

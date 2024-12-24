@@ -2,7 +2,7 @@
 title: "Conflicted: How Productive Disagreements Lead to Better Outcomes"
 description: "**Conflicted: How Productive Disagreements Lead to Better Outcomes** by Ian Leslie"
 date: 2023-12-03
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Conflicted.jpg
 ---
 ![**Conflicted: How Productive Disagreements Lead to Better Outcomes** by Ian Leslie](Conflicted.jpg){fig-align="left"}

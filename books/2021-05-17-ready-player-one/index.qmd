@@ -2,7 +2,7 @@
 title: "Ready Player One"
 description: "**Ready Player One** by Ernest Cline"
 date: 2021-05-17
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: ready-player-one.jpg
 ---
 ![**Ready Player One** by Ernest Cline](ready-player-one.jpg){fig-align="left"}

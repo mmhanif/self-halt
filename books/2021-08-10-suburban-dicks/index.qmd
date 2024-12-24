@@ -2,7 +2,7 @@
 title: "Suburban Dicks"
 description: "**Suburban Dicks** by Fabian Nicieza"
 date: 2021-08-10
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: suburban-dicks.jpg
 ---
 ![**Suburban Dicks** by Fabian Nicieza](suburban-dicks.jpg){fig-align="left"}

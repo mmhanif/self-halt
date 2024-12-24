@@ -2,7 +2,7 @@
 title: "Radical Candor"
 description: "**Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity** by Kim Malone Scott - (*Kindle*)"
 date: 2017-06-14
-categories: [2017, Kindle, non-fiction, management]
+categories: ["2017", Kindle, non-fiction, management]
 image: radical-candor.jpg
 ---
 ![**Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity** by Kim Malone Scott](radical-candor.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "The Black Echo: Special Edition (Harry Bosch, #1; Harry Bosch Universe, #1)"
 description: "**The Black Echo: Special Edition (Harry Bosch, #1; Harry Bosch Universe, #1)** by Michael Connelly"
 date: 2023-07-21
-categories: [books, 2023, Audible, fiction]
+categories: [books, "2023", Audible, fiction]
 image: The_Black_Echo.jpg
 ---
 ![**The Black Echo: Special Edition (Harry Bosch, #1; Harry Bosch Universe, #1)** by Michael Connelly](The_Black_Echo.jpg){fig-align="left"}

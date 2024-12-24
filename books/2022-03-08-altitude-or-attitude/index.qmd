@@ -2,7 +2,7 @@
 title: "Altitude Or Attitude - A Geeks's Travel Log; San Francisco To Concordia-K2-Gondogoro La Of Pakistan"
 description: "**Altitude Or Attitude - A Geeks's Travel Log; San Francisco To Concordia-K2-Gondogoro La Of Pakistan** by Ifti Mirza"
 date: 2022-03-08
-categories: [books, non-fiction, 2022, Paperback]
+categories: [books, non-fiction, "2022", Paperback]
 image: altitude-or-attitude.jpg
 ---
 ![**Altitude Or Attitude - A Geeks's Travel Log; San Francisco To Concordia-K2-Gondogoro La Of Pakistan** by Ifti Mirza](altitude-or-attitude.jpg){fig-align="left"}

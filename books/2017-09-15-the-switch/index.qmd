@@ -2,7 +2,7 @@
 title: "The Switch"
 description: "**The Switch: A Novel** by Joseph Finder - (*Audible*)"
 date: 2017-09-15
-categories: [2017, Audible, fiction]
+categories: ["2017", Audible, fiction]
 image: the-switch.jpg
 ---
 ![**The Switch: A Novel** by Joseph Finder](the-switch.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "IQ"
 description: "**IQ** by Joe Ide - (*Audible*)"
 date: 2018-10-03
-categories: [books, fiction, detective, 2018, Audible]
+categories: [books, fiction, detective,"2018", Audible]
 image: iq.jpg
 ---
 ![**IQ** by Joe Ide - (*Audible*)](iq.jpg){fig-align="left"}

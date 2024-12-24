@@ -2,7 +2,7 @@
 title: "Sourdough"
 description: "**Sourdough** by Robin Sloan - (*Audible*)"
 date: 2017-10-01
-categories: [2017, Audible, fiction]
+categories: ["2017", Audible, fiction]
 image: sourdough.jpg
 ---
 ![**Sourdough** by Robin Sloan](sourdough.jpg){fig-align="left"}

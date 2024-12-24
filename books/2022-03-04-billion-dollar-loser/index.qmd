@@ -2,7 +2,7 @@
 title: "Billion Dollar Loser - The Epic Rise And Spectacular Fall Of Adam Neumann And Wework"
 description: "**Billion Dollar Loser - The Epic Rise And Spectacular Fall Of Adam Neumann And Wework** by Reeves Wiedeman"
 date: 2022-03-04
-categories: [books, non-fiction, 2022, Audible]
+categories: [books, non-fiction, "2022", Audible]
 image: billion-dollar-loser.jpg
 ---
 ![**Billion Dollar Loser - The Epic Rise And Spectacular Fall Of Adam Neumann And Wework** by Reeves Wiedeman](billion-dollar-loser.jpg){fig-align="left"}

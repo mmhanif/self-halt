@@ -2,7 +2,7 @@
 title: "Hero on a Mission: A Path to a Meaningful Life"
 description: "**Hero on a Mission: A Path to a Meaningful Life** by Donald Miller"
 date: 2023-11-08
-categories: [books, 2023, Hardcover, non-fiction]
+categories: [books, "2023", Hardcover, non-fiction]
 image: Hero_on_a_Mission.jpg
 ---
 ![**Hero on a Mission: A Path to a Meaningful Life** by Donald Miller](Hero_on_a_Mission.jpg){fig-align="left"}

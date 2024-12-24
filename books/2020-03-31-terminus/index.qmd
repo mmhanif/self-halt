@@ -2,7 +2,7 @@
 title: "Terminus"
 description: "**Terminus** by Peter Clines"
 date: 2020-03-31
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 ---
 ![**Terminus** by Peter Clines](terminus.jpg){fig-align="left"}
 

@@ -2,7 +2,7 @@
 title: "Deming's Journey to Profound Knowledge: How Deming Helped Win a War, Altered the Face of Industry, and Holds the Key to Our Future"
 description: "**Deming's Journey to Profound Knowledge: How Deming Helped Win a War, Altered the Face of Industry, and Holds the Key to Our Future** by John Willis"
 date: 2024-04-08
-categories: [books, 2024, Kindle, non-fiction]
+categories: [books, "2024", Kindle, non-fiction]
 image: Demings_Journey_to_Profound_Knowledge.jpg
 ---
 ![**Deming's Journey to Profound Knowledge: How Deming Helped Win a War, Altered the Face of Industry, and Holds the Key to Our Future** by John Willis](Demings_Journey_to_Profound_Knowledge.jpg){fig-align="left"}

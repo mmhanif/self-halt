@@ -2,7 +2,7 @@
 title: "Rewinder (Rewinder #1)"
 description: "**Rewinder (Rewinder #1)** by Brett Battles"
 date: 2023-06-07
-categories: [books, 2023, Kindle, fiction]
+categories: [books, "2023", Kindle, fiction]
 image: Rewinder.jpg
 ---
 ![**Rewinder (Rewinder #1)** by Brett Battles](Rewinder.jpg){fig-align="left"}

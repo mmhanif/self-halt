@@ -2,7 +2,7 @@
 title: "Holding"
 description: "**Holding** by Graham Norton"
 date: 2019-02-28
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: holding.jpg
 ---
 ![**Holding** by Graham Norton](holding.jpg){fig-align="left"}

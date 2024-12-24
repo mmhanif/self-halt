@@ -2,7 +2,7 @@
 title: "The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans"
 description: "**The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans** by Bill Hammack"
 date: 2023-09-05
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: The_Things_We_Make.jpg
 ---
 ![**The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans** by Bill Hammack](The_Things_We_Make.jpg){fig-align="left"}

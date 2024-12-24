@@ -2,7 +2,7 @@
 title: "Circe"
 description: "**CIRCE** by Madeline Miller"
 date: 2022-12-10
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: circe.jpg
 ---
 ![**CIRCE** by Madeline Miller](circe.jpg){fig-align="left"}

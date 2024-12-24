@@ -2,7 +2,7 @@
 title: "No Land's Man"
 description: "**No Land's Man** by Aasif Mandvi"
 date: 2021-08-01
-categories: [books, non-fiction, 2021, Audible]
+categories: [books, non-fiction, "2021", Audible]
 image: no-lands-man.jpg
 ---
 ![**No Land's Man** by Aasif Mandvi](no-lands-man.jpg){fig-align="left"}

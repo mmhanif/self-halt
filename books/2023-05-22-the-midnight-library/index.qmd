@@ -2,7 +2,7 @@
 title: "The Midnight Library"
 description: "**The Midnight Library** by Matt Haig"
 date: 2023-05-22
-categories: [books, 2023, Hardcover, fiction]
+categories: [books, "2023", Hardcover, fiction]
 image: The_Midnight_Library.jpg
 ---
 ![**The Midnight Library** by Matt Haig](The_Midnight_Library.jpg){fig-align="left"}

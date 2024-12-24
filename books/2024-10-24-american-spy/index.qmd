@@ -2,7 +2,7 @@
 title: "American Spy"
 description: "**American Spy** by Lauren Wilkinson"
 date: 2024-10-24
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 image: American_Spy.jpg
 ---
 ![**American Spy** by Lauren Wilkinson](American_Spy.jpg){fig-align="left"}

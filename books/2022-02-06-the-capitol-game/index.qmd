@@ -2,7 +2,7 @@
 title: "The Capitol Game"
 description: "**The Capitol Game** by Brian Haig"
 date: 2022-02-06
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-capitol-game.jpg
 ---
 ![**The Capitol Game** by Brian Haig](the-capitol-game.jpg){fig-align="left"}

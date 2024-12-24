@@ -2,7 +2,7 @@
 title: "Somebody's Daughter"
 description: "**Somebody's Daughter** by Ashley C. Ford"
 date: 2021-07-09
-categories: [books, fiction, 2021, Audible]
+categories: [books, fiction, "2021", Audible]
 image: somebodys-daughter.jpg
 ---
 ![**Somebody's Daughter** by Ashley C. Ford](somebodys-daughter.jpg){fig-align="left"}

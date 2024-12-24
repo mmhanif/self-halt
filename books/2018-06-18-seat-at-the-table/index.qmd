@@ -2,7 +2,7 @@
 title: "A Seat At The Table"
 description: "**A Seat At The Table** by Mark Schwartz - (*Kindle*)"
 date: 2018-06-18
-categories: [books, non-fiction, software-development, 2018, Kindle]
+categories: [books, non-fiction, software-development,"2018", Kindle]
 image: seat-at-the-table.jpg
 ---
 ![**A Seat At The Table** by Mark Schwartz - (*Kindle*)](seat-at-the-table.jpg){fig-align="left"}

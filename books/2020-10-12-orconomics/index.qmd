@@ -2,7 +2,7 @@
 title: "Orconomics"
 description: "**Orconomics** by J. Zachary Pike"
 date: 2020-10-12
-categories: [books, fiction, 2020, Audible]
+categories: [books, fiction, "2020", Audible]
 image: orconomics.jpg
 ---
 ![**Orconomics** by J. Zachary Pike](orconomics.jpg){fig-align="left"}

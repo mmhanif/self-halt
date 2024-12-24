@@ -2,7 +2,7 @@
 title: "The Ruin"
 description: "**The Ruin** by Dervla McTiernan"
 date: 2019-11-22
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: the-ruin.jpg
 ---
 ![**The Ruin** by Dervla McTiernan](the-ruin.jpg){fig-align="left"}

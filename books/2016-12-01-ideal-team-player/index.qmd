@@ -2,7 +2,7 @@
 title: "Ideal Team Player"
 description: "**The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues** by Patrick Lencioni"
 date: 2016-12-01
-categories: [2016, non-fiction, management]
+categories: ["2016", non-fiction, management]
 image: ideal-team-player.jpg
 ---
 ![**The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues** by Patrick Lencioni](ideal-team-player.jpg){fig-align="left"}

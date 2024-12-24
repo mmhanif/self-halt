@@ -2,7 +2,7 @@
 title: "Cryptonomicon"
 description: "**Cryptonomicon** by Neal Stephenson"
 date: 2019-06-01
-categories: [books, 2019, Audible, fiction]
+categories: [books, "2019", Audible, fiction]
 image: cryptonomicon.jpg
 ---
 ![**Cryptonomicon** by Neal Stephenson](cryptonomicon.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Bad Actors (Slough House, #8)"
 description: "**Bad Actors (Slough House, #8)** by Mick Herron"
 date: 2024-07-14
-categories: [books, 2024, Hardcover, fiction]
+categories: [books, "2024", Hardcover, fiction]
 image: Bad_Actors.jpg
 ---
 ![**Bad Actors (Slough House, #8)** by Mick Herron](Bad_Actors.jpg){fig-align="left"}

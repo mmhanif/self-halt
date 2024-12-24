@@ -2,7 +2,7 @@
 title: "The First Fifteen Lives Of Harry August"
 description: "**The First Fifteen Lives Of Harry August** by Claire North"
 date: 2022-11-28
-categories: [books, fiction, 2022, Audible]
+categories: [books, fiction, "2022", Audible]
 image: the-first-fifteen-lives-of-harry-august.jpg
 ---
 ![**The First Fifteen Lives Of Harry August** by Claire North](the-first-fifteen-lives-of-harry-august.jpg){fig-align="left"}

@@ -2,7 +2,7 @@
 title: "Surrender: 40 Songs, One Story"
 description: "**Surrender: 40 Songs, One Story** by Bono"
 date: 2023-05-03
-categories: [books, 2023, Audible, non-fiction]
+categories: [books, "2023", Audible, non-fiction]
 image: Surrender.jpg
 ---
 ![**Surrender: 40 Songs, One Story** by Bono](Surrender.jpg){fig-align="left"}

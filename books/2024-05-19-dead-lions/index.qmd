@@ -2,7 +2,7 @@
 title: "Dead Lions (Slough House, #2)"
 description: "**Dead Lions (Slough House, #2)** by Mick Herron"
 date: 2024-05-19
-categories: [books, 2024, Audible, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Dead_Lions.jpg
 ---
 ![**Dead Lions (Slough House, #2)** by Mick Herron](Dead_Lions.jpg){fig-align="left"}
