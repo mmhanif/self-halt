@@ -3,9 +3,9 @@ title: "What Happened to Nina?"
 description: "**What Happened to Nina?** by Dervla McTiernan"
 date: 2024-08-24
 categories: [books, "2024", Kindle, fiction]
-image: What_Happened_to_Nina?.jpg
+image: What_Happened_to_Nina.jpg
 ---
-![**What Happened to Nina?** by Dervla McTiernan](What_Happened_to_Nina?.jpg){fig-align="left"}
+![**What Happened to Nina?** by Dervla McTiernan](What_Happened_to_Nina.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780063042254</sup>
 

@@ -4,32 +4,20 @@ description: "**The Lost Cause** by Cory Doctorow"
 date: 2024-06-01
 categories: [books, "2024", Hardcover, fiction]
 ---
-!**The Lost Cause** by Cory Doctorow
-<sup>isbn-13: 9781496186270</sup>
+![**The Lost Cause** by Cory Doctorow](the_lost_cause.jpg){width=50%}
+
+<sup>isbn-13: 9781250865939</sup>
 
 *Hardcover*
 
 *Publisher's Description*
 
-One of the most important works written about the Civil War came from
-someone who didn't fight in the war itself. In 1867, Edward Pollard, an
-editor for a Richmond newspaper, published The Lost Cause, championing his
-voluminous book as a "New Southern history" of the war. Pollard's work
-poignantly reflected the sentiments of unrepentant rebels clinging to their
-ideology. Pollard explicitly explained the motivation behind what he termed
-the "Lost Cause." Although the South had lost the Civil War, he argued that
-the South could still wage and win the "war of ideas." Conceding that the
-South's loss meant "restoration of the union and the excision of slavery,"
-Pollard was still defiant, writing that "the war did not decide Negro
-equality." To say Pollard's work was influential would be an
-understatement. Pollard's "Lost Cause" quickly found its way into Southern
-writing, most notably in the Southern Historical Society. Described by
-historian David Blight as "the vehicle for presenting the Confederate
-version of the war to the world," Civil War historiography originated with
-Pollard's work and the papers published by the Society. Written mostly by
-unreconstructed veterans aiming to relate and rewrite the history of the
-Civil War, the Society's papers became the most important driving force for
-Southern revisionism, dedicated to making their vision of Civil War history
-the dominant one. The Society would prove to be extremely successful at
-this, and the Lost Cause interpretation of the Civil War, named after
-Pollard's work, is still one of the most influential today.
+It’s thirty years from now. We’re making progress, mitigating climate change, slowly but surely. But what about all the angry old people who can’t let go?
+
+For young Americans a generation from now, climate change isn't controversial. It's just an overwhelming fact of life. And so are the great efforts to contain and mitigate it. Entire cities are being moved inland from the rising seas. Vast clean-energy projects are springing up everywhere. Disaster relief, the mitigation of floods and superstorms, has become a skill for which tens of millions of people are trained every year. The effort is global. It employs everyone who wants to work. Even when national politics oscillates back to right-wing leaders, the momentum is too great; these vast programs cannot be stopped in their tracks.
+
+But there are still those Americans, mostly elderly, who cling to their red baseball caps, their grievances, their huge vehicles, their anger. To their "alternative" news sources that reassure them that their resentment is right and pure and that "climate change" is just a giant scam.
+
+And they're your grandfather, your uncle, your great-aunt. And they're not going anywhere. And they’re armed to the teeth.
+
+The Lost Cause asks: What do we do about people who cling to the belief that their own children are the enemy? When, in fact, they're often the elders that we love?
