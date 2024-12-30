@@ -1,0 +1,29 @@
+---
+title: "Marcus Aurelius: The Stoic Emperor"
+description: "**Marcus Aurelius: The Stoic Emperor** by Donald J. Robertson"
+date: 2024-12-30
+categories: [books, "2024", Audible, non-fiction]
+image: Marcus_Aurelius.jpg
+draft: true
+---
+![**Marcus Aurelius: The Stoic Emperor** by Donald J. Robertson](Marcus_Aurelius.jpg){fig-align="left" width=50%}
+
+<sup>isbn-13: 9781503280465</sup>
+
+*Audible*
+
+Good insights into the life of Marcus Aurelius, the historical context he lived in and the philosophies
+that inspired him. The author is clearly a fan of Marcus Aurelius - although he does talk about some of the 
+controversies around the emperor - for example, the allegation that he persecuted Christians or at least
+turned a blind eye to the persecution. I've always wondered how a person of such integrity and probity
+as Marcus Aurelius could have handed his legacy to such a degenerate as his son Commodus. Robertson
+doesn't address this in the detail I would hope other than to assert that Commodus fell in with some 
+bad influences.
+
+*Publisher's Description*
+
+This novel biography brings Marcus Aurelius (121-180 CE) to life for a new generation by exploring the emperor’s fascinating psychological journey. Donald J. Robertson examines Marcus’s relationships with key figures in his life, such as his mother, Domitia Lucilla, and the emperor Hadrian, as well as his Stoic tutors. He draws extensively on Marcus’s own Meditations and correspondence, and he examines the emperor’s actions as detailed in the Augustan History and other ancient texts.
+
+Marcus Aurelius struggled to reconcile his philosophy and moral values with the political pressures he faced as emperor at the height of Roman power. Robertson examines Marcus’s attitude toward slavery and the moral dilemma posed by capturing enemies in warfare; his attitude toward women; the role of Stoicism in shaping his response to the threat of civil war; the treatment of Christians under his rule; and the naming of his notorious son Commodus as his successor.
+
+Throughout, the Meditations is used to shed light on the mind of the emperor—his character, values, and motives—as Robertson skillfully weaves together Marcus’s inner journey as a philosopher with the outer events of his life as a Roman emperor.
