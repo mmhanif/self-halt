@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2024-12-31-what-i-read-in-2024/index.html",
       "/posts/2023-12-31-what-i-read-in-2023/index.html",
       "/posts/2022-12-31-what-i-read-in-2022/index.html",
       "/posts/2022-06-30-Should-Auld-Acquaintance/index.html",
@@ -15,8 +16,36 @@
     ]
   },
   {
+    "listing": "/what-i-read-in.html",
+    "items": [
+      "/posts/2024-12-31-what-i-read-in-2024/index.html",
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
+      "/posts/2022-12-31-what-i-read-in-2022/index.html",
+      "/posts/2022-01-09-what-i-read-in-2021/index.html",
+      "/posts/2021-01-17-what-i-read-in-2020/index.html",
+      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
+      "/posts/2019-12-31-what-i-read-in-2019/index.html",
+      "/posts/2018-12-31-what-i-read-in-2018/index.html",
+      "/posts/2017-12-31-what-i-read-in-2017/index.html",
+      "/posts/2017-01-17-what-i-read-in-2016/index.html"
+    ]
+  },
+  {
+    "listing": "/ddia.html",
+    "items": [
+      "/projects/ddia/ddia-chapter-4/index.html",
+      "/projects/ddia/ddia-chapter-4-presentation/index.html"
+    ]
+  },
+  {
     "listing": "/books.html",
     "items": [
+      "/books/2024-12-21-trillion-dollar-coach/index.html",
+      "/books/2024-12-21-the-plot-against-america/index.html",
+      "/books/2024-12-09-run/index.html",
+      "/books/2024-12-04-precipice/index.html",
+      "/books/2024-11-26-the-trading-game/index.html",
+      "/books/2024-11-19-revenge-of-the-tipping-point/index.html",
       "/books/2024-11-12-muslims-dont-matter/index.html",
       "/books/2024-11-10-2034/index.html",
       "/books/2024-10-31-the-waiting/index.html",
@@ -33,7 +62,7 @@
       "/books/2024-09-07-under-the-tamarind-tree/index.html",
       "/books/2024-09-07-why-fish-dont-exist/index.html",
       "/books/2024-08-29-the-prosperity-paradox/index.html",
-      "/books/2024-08-24-what-happened-to-nina?/index.html",
+      "/books/2024-08-24-what-happened-to-nina/index.html",
       "/books/2024-08-21-a-quantum-love-story/index.html",
       "/books/2024-08-18-clear-thinking/index.html",
       "/books/2024-08-14-funny-story/index.html",
@@ -374,27 +403,6 @@
       "/books/2016-12-01-few-lessons-from-sherlock-holmes/index.html",
       "/books/2016-12-01-song-of-the-dodo/index.html",
       "/books/2016-12-01-startup-stories/index.html"
-    ]
-  },
-  {
-    "listing": "/ddia.html",
-    "items": [
-      "/projects/ddia/ddia-chapter-4/index.html",
-      "/projects/ddia/ddia-chapter-4-presentation/index.html"
-    ]
-  },
-  {
-    "listing": "/what-i-read-in.html",
-    "items": [
-      "/posts/2023-12-31-what-i-read-in-2023/index.html",
-      "/posts/2022-12-31-what-i-read-in-2022/index.html",
-      "/posts/2022-01-09-what-i-read-in-2021/index.html",
-      "/posts/2021-01-17-what-i-read-in-2020/index.html",
-      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
-      "/posts/2019-12-31-what-i-read-in-2019/index.html",
-      "/posts/2018-12-31-what-i-read-in-2018/index.html",
-      "/posts/2017-12-31-what-i-read-in-2017/index.html",
-      "/posts/2017-01-17-what-i-read-in-2016/index.html"
     ]
   }
 ]

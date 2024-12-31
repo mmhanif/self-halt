@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.33">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8b864f0777c60eecff11d75b6b2e1175.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d2cfd438a76cc8888307ec3f7c70a979.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-31c32e77d03ef69b6d8504591f26405b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,6 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="The Lost Cause – self halt">
 <meta property="og:description" content="The Lost Cause by Cory Doctorow">
+<meta property="og:image" content="https://blog.hanif.io/books/2024-06-01-the-lost-cause/the_lost_cause.jpg">
 <meta property="og:site_name" content="self halt">
 </head>
 
@@ -165,10 +166,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>!<strong>The Lost Cause</strong> by Cory Doctorow <sup>isbn-13: 9781496186270</sup></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="the_lost_cause.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption><strong>The Lost Cause</strong> by Cory Doctorow</figcaption>
+</figure>
+</div>
+<p><sup>isbn-13: 9781250865939</sup></p>
 <p><em>Hardcover</em></p>
 <p><em>Publisher’s Description</em></p>
-<p>One of the most important works written about the Civil War came from someone who didn’t fight in the war itself. In 1867, Edward Pollard, an editor for a Richmond newspaper, published The Lost Cause, championing his voluminous book as a “New Southern history” of the war. Pollard’s work poignantly reflected the sentiments of unrepentant rebels clinging to their ideology. Pollard explicitly explained the motivation behind what he termed the “Lost Cause.” Although the South had lost the Civil War, he argued that the South could still wage and win the “war of ideas.” Conceding that the South’s loss meant “restoration of the union and the excision of slavery,” Pollard was still defiant, writing that “the war did not decide Negro equality.” To say Pollard’s work was influential would be an understatement. Pollard’s “Lost Cause” quickly found its way into Southern writing, most notably in the Southern Historical Society. Described by historian David Blight as “the vehicle for presenting the Confederate version of the war to the world,” Civil War historiography originated with Pollard’s work and the papers published by the Society. Written mostly by unreconstructed veterans aiming to relate and rewrite the history of the Civil War, the Society’s papers became the most important driving force for Southern revisionism, dedicated to making their vision of Civil War history the dominant one. The Society would prove to be extremely successful at this, and the Lost Cause interpretation of the Civil War, named after Pollard’s work, is still one of the most influential today.</p>
+<p>It’s thirty years from now. We’re making progress, mitigating climate change, slowly but surely. But what about all the angry old people who can’t let go?</p>
+<p>For young Americans a generation from now, climate change isn’t controversial. It’s just an overwhelming fact of life. And so are the great efforts to contain and mitigate it. Entire cities are being moved inland from the rising seas. Vast clean-energy projects are springing up everywhere. Disaster relief, the mitigation of floods and superstorms, has become a skill for which tens of millions of people are trained every year. The effort is global. It employs everyone who wants to work. Even when national politics oscillates back to right-wing leaders, the momentum is too great; these vast programs cannot be stopped in their tracks.</p>
+<p>But there are still those Americans, mostly elderly, who cling to their red baseball caps, their grievances, their huge vehicles, their anger. To their “alternative” news sources that reassure them that their resentment is right and pure and that “climate change” is just a giant scam.</p>
+<p>And they’re your grandfather, your uncle, your great-aunt. And they’re not going anywhere. And they’re armed to the teeth.</p>
+<p>The Lost Cause asks: What do we do about people who cling to the belief that their own children are the enemy? When, in fact, they’re often the elders that we love?</p>
 
 
 
@@ -255,8 +266,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -367,7 +376,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
