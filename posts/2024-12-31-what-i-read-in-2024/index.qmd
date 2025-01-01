@@ -2,7 +2,7 @@
 title:  "What I read in 2024"
 categories: [books, lists]
 date: "12/31/2024"
-date-modified: "12/29/2024"
+date-modified: "1/1/2025"
 execute:
   echo: false
 jupyter: python3
@@ -15,7 +15,7 @@ image: 2024Books.png
 I listened to or read 60 books this year. Without further ado let's hit the highlights.
 
 ::: {.column-margin}
-Nearly 50 of those were Audiobooks. It turns out if you spend 3 hours a day in your car, you can get through 
+Over 50 of those were Audiobooks. It turns out if you spend 3 hours a day in your car, you can get through 
 a lot of books! I switched to driving instead of the train for much of the year - I typically listened to a
 non-fiction book in the morning when I was fresh and escaped to fiction on my evening commute. 
 :::
