@@ -7,7 +7,10 @@ execute:
   echo: false
 jupyter: python3
 reading-time: true
+image: 2024Books.png
 ---
+
+![](2024Books.png){fig-align="left"}
 
 I listened to or read 60 books this year. Without further ado let's hit the highlights.
 
@@ -18,24 +21,24 @@ non-fiction book in the morning when I was fresh and escaped to fiction on my ev
 :::
 
 ### The Buy Side
-Two books about mathematicians who subsequently foundedm very succesful hedge funds. [A Man For All Markets](../../books/2024-02-13-a-man-for-all-markets) is the autobiograpy of Edward Thorp, who initally gained fame due to his efforts to beat the Las Vegas casinos and then went on to found the hedge fund Princeton Newport Partners and became very wealthy ...but not nearly as wealthy as Jim Simons who founded the secretive Rennaisance Technologies hedge fund. [The Man Who Solved the Market](../../books/2024-01-13-the-man-who-solved-the-market) is primarily a biography of Simons, written by a journalist with no co-operation from the principals of the story. It also gives some fascinating insights into another Rennaisance executive, Robert Mercer, who was a former computer scientist at IBM. Mercer was and is once of the main backers of Donald Trump and so continues to exert an influence on all of us. Simons died in May 2024. 
+Two books about mathematicians who subsequently founded very successful hedge funds. [A Man For All Markets](../../books/2024-02-13-a-man-for-all-markets) is the autobiography of Edward Thorp, who initially gained fame from his efforts to beat the Las Vegas casinos and then went on to found the hedge fund Princeton Newport Partners and became very wealthy ... but not nearly as wealthy as Jim Simons who founded the secretive [Renaissance Technologies](https://www.rentec.com/Home.action?index=true) hedge fund. [The Man Who Solved the Market](../../books/2024-01-13-the-man-who-solved-the-market) is primarily a biography of Simons, written by a journalist with no co-operation from the principals of the story. It also gives some fascinating insights into another (now former) Renaissance executive, [Robert Mercer](https://en.wikipedia.org/wiki/Robert_Mercer), who was a computer scientist at IBM before linking up with Simons. Mercer was and is once of the main backers of Donald Trump and so continues to exert an influence on all of us. Simons died in May 2024. 
 
 ### The Sell Side
-[The Trading Game](../../books/2024-11-26-the-trading-game) was one of my favorite books of the year. A memoir by [Gary Stevenson](https://linktr.ee/garysecon) of his time as a STIRT (Short Term Interest Rate) trader at Citibank, the audiobook is narrated by the author in his thick East London accent which add to the raw, emotional nature of this book. Stevenson came from a working-class background and struggles to come to terms with the figures that he earns as a trader. If you have any interest in trading or the markets, and frankly even if you don't, this is a worth a read or a listen (I recommed the latter.)
+[The Trading Game](../../books/2024-11-26-the-trading-game) was one of my favorite books of the year. A memoir by [Gary Stevenson](https://linktr.ee/garysecon) of his time as a STIRT (Short Term Interest Rate) trader at Citibank, the audiobook is narrated by the author in his thick East London accent which adds to the raw, emotional nature of this book. Stevenson comes from a working-class background and struggles to come to terms with the figures that he earns as a trader. If you have any interest in trading or the markets, and frankly even if you don't, this is a worthwhile read or listen (I recommend the latter.)
 
 ::: {.column-margin}
 “The rich get the assets, the poor get the debt, and then the poor have to pay their whole salary to the rich every year just to live in a house. The rich use that money to buy the rest of the assets from the middle class and then the problem gets worse every year. The middle class disappears, spending power disappears permanently from the economy, the rich becoming much fucking richer and the poor, well, I guess they just die.”
 ― *Gary Stevenson, The Trading Game: A Confession*
 :::
 
-[The Spider Network](../../books/2024-05-16-the-spider-network) is about [Tom Hayes](https://tomhayessupportgroup.wordpress.com), a former UBS and Citibank trader and the only person succesfully prosecuted for the LIBOR fixing scandal. As becomes clear in the book, Hayes became a scapegoat for what was a widespread practice in most of the major banks.
+[The Spider Network](../../books/2024-05-16-the-spider-network) is about [Tom Hayes](https://tomhayessupportgroup.wordpress.com), a former UBS and Citibank trader and the only person successfully prosecuted for the LIBOR fixing scandal. As becomes clear in the book, Hayes became a scapegoat for what was a widespread practice in many of the major banks.
 
 Both books also shed unflattering light on the role of inter-dealer brokers such as ICAP and how they lubricate the
 markets in more ways than one. 
 
 
 ### Talking and Listening
-Over the years I've come to deeply appreciate that clarity in communication is a game-changer at work and in life in general. I'm always on the look out for books that can help me communicate with and understand people better.  [Leadership Is Language](../../books/2024-04-28-leadership-is-language) by L. David Marquet was a worthwhile addition to my mental database on this topic. Marquet is the author of one of my favorite managment books [Turn The Ship Around!](http://localhost:7349/books/2016-12-01-naval-stories/index.html). In this book Marquet talks about how the language, the actual words that leaders use can play a role in discouraging team members from voicing concerns. Alternatively using the the right words can encourage collaboration and discussion. He demonstrated this with novel examples such as the transcripts from the voice recorder of the doomed container ship [SS El Faro](https://en.wikipedia.org/wiki/SS_El_Faro).
+Over the years I've come to deeply appreciate that clarity in communication is a game-changer at work and in life in general. I'm always on the look out for books that can help me communicate with and understand people better.  [Leadership Is Language](../../books/2024-04-28-leadership-is-language) by L. David Marquet was a worthwhile addition to my mental database on this topic. Marquet is the author of one of my favorite management books [Turn The Ship Around!](http://localhost:7349/books/2016-12-01-naval-stories/index.html). In this book Marquet talks about how the language, the actual words, that leaders use can play a role in discouraging team members from voicing concerns. Alternatively using the right words can encourage collaboration and discussion. He demonstrated this with novel examples such as the transcripts from the voice recorder of the doomed container ship [SS El Faro](https://en.wikipedia.org/wiki/SS_El_Faro).
 
 ::: {.column-margin}
 "If you think about what you have to share in terms of how it impacts others, your message about yourself changes. Your *message to the world* is not about yourself, but about *how you impact the world*". - *Jay Sullivan*
@@ -43,7 +46,7 @@ Over the years I've come to deeply appreciate that clarity in communication is a
 
 [Simply Said](../../books/2024-10-19-simply-said) by [Jay Sullivan](https://www.wordrake.com/blog/interview-sullivan) is a book I have recommended to a few people on my team. It contains a lot of very actionable advice on how to improve your communication in different settings. The author's main premise is that great communication comes from understanding and connecting with other people rather than focusing on ourselves. Miscommunication occurs when we communicate from solely our own point of view rather than trying to understand our audience's perspective. 
 
-To understand others, you have to listen to them. [How To Listen](../../books/2024-05-16-how-to-listen) by [Oscar Trimboli](https://learning.oscartrimboli.com) provided me some fresh insights into how to be more present while listening and become a "deep listener". Although it sounds like it could be abstract and philosophical, I found the book to be practical and relatable.
+To understand others, you have to listen to them. [How To Listen](../../books/2024-05-16-how-to-listen) by [Oscar Trimboli](https://learning.oscartrimboli.com) provided me with some fresh insights into being more present while listening and striving to be a "deep listener". Although it sounds like it could be abstract and philosophical, I found the book to be practical and relatable.
 
 ::: {.column-margin}
 "Active listeners notice what's said. Deep listeners explore what isn't said" - *Oscar Trimboli*
@@ -51,7 +54,7 @@ To understand others, you have to listen to them. [How To Listen](../../books/20
 
 [Difficult Conversations Don't Have To Be Difficult](../../books/2024-09-18-difficult-conversations-dont-have-to-be-difficult) takes the "business fable" approach. As such it's a quick and easy read (or listen). It uses the story to introduce the authors' STARRR model:
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="false"}
 ## STARRR model
 
 * S - Situation: describe the issue.
@@ -62,10 +65,15 @@ To understand others, you have to listen to them. [How To Listen](../../books/20
 * R - Response: decide on next actions and follow-ups.
 :::
 
-[Supercommunicators](../../books/2024-04-08-supercommunicators) from the author of "The Power of Habit", Charles Duhigg, is probably the best known of all the books in this categories. It was an enjoyable read, but I didn't come away with any particularly revelatory insights. Having clarity around your convictions and intentions are key to building [Authentic Gravitas](../../books/2024-10-14-authentic-gravitas) according to the author of this book. It covers a lot of the same ground as the other books here but comes at it from a different perspective, so worth a read.
+[Supercommunicators](../../books/2024-04-08-supercommunicators) from the author of "The Power of Habit", Charles Duhigg, is probably the best known of all the books in this category. It was an enjoyable read, but I didn't come away with any particularly revelatory insights. Having clarity around your convictions and intentions are key to building [Authentic Gravitas](../../books/2024-10-14-authentic-gravitas) according to the author of this book. It covers a lot of the same ground as the other books here but comes at it from a different perspective, so worth a read.
 
 ### Flawed Genius
-[The Art Thief](../../books/2024-10-15-the-art-thief) is another book I'd recommend to anyone. It tells the true story of Stéphane Bréitwieser who became the prolific art thief in history, pulling off more than 200 'hiests' and storing his collection worth an estimated $2 billion in his mother's attic. Bréitwieser stole for love of art rather than any financial gain, and the book is a remarkable story of obsession and flawed genius.
+[The Art Thief](../../books/2024-10-15-the-art-thief) is another book I'd recommend to anyone. It tells the true story of Stéphane Bréitwieser who became the most prolific art thief in history, pulling off more than 200 heists and storing his collection worth an estimated $2 billion in his mother's attic. Bréitwieser stole for love of art rather than any financial gain, and the book is a remarkable story of obsession and flawed genius.
+
+::: {.column-margin}
+“He takes only works that stir him emotionally, and seldom the most valuable piece in a place. He feels no remorse when he steals because museums, in his deviant view, are really just prisons for art.”
+― *Michael Finkel, The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession*
+:::
 
 [Why Fish Don't Exist](../../books/2024-09-07-why-fish-dont-exist) by Lulu Miller is part personal memoir, part biography of scientist and founding President of Stanford University, [David Starr Jordan](https://en.wikipedia.org/wiki/David_Starr_Jordan). Jordan was a prominent ichthyologist who dedicated his career to classifying fish species, and his story intertwines with Miller's own struggles to find meaning in a seemingly chaotic world. It's a quirky book that shed light on yet another brilliant but (very) flawed character.
 
@@ -78,32 +86,32 @@ In [How To Know A Person](../../books/2024-05-28-how-to-know-a-person) conservat
 "... ambition is the outcome you want to attain. Aspiration is the person you hope to become." - *Adam Grant*
 :::
 
-In [Hidden Potential](../../books/2024-01-22-hidden-potential), Adam Grant (author of [Give and Take](../../books/2016-12-01-give-and-take/) - one of my favorite books) argues that to achieve great things you must build your skills though fun, yet uncomfortable practice. As usual, he provides a lot of interesting ideas to ponder on.
+In [Hidden Potential](../../books/2024-01-22-hidden-potential), Adam Grant (author of [Give and Take](../../books/2016-12-01-give-and-take/) - one of my favorite books) argues that to achieve great things you must build your skills through fun, yet uncomfortable practice. As usual, he provides a lot of interesting ideas to ponder on.
 
 
 ### Economics and Geopolitics
-[The Prosperity Paradox](../../books/2024-08-29-the-prosperity-paradox) by Clayton Christensen presented a compelling case on why alleviating poverty is not the same as creating prosperity. He argues, convincingly, that market-creating innovations that create serve what he terms "non-consumers" are the key to long term prosperity.
+[The Prosperity Paradox](../../books/2024-08-29-the-prosperity-paradox) by Clayton Christensen presented a compelling case on why alleviating poverty is not the same as creating prosperity. He argues, convincingly, that market-creating innovations that serve what he terms "non-consumers" are the key to long term prosperity.
 
 ::: {.column-margin}
 "Successful market-creating innovations emerge from unfulfilled Jobs to Be Done; they solve problems that formerly had only inadequate solutions—or no solution at all." - *Clayton Christensen*
 :::
 
-[Knowledge and Decisions](../../books/2024-03-27-knowledge-and-decisions) by Thomas Sewell contained dense prose and concepts demanding clear thnking that was not easy to follow as an audiobook. Worth working through, even if to challenge pre-conceived notions about politics, government and the economy.
+[Knowledge and Decisions](../../books/2024-03-27-knowledge-and-decisions) by Thomas Sewell contained dense prose and concepts demanding clear thnking that was not easy to follow as an audiobook. I found it valuable to work through, even if only to challenge my pre-conceived notions about politics, government and the economy.
 
 I encourage anyone with an interest in the current Middle East conflict (which really should be everyone) to read [The Hundred Years War on Palestine](../../books/2024-09-17-the-hundred-years-war-on-palestine). Even if you are firmly sympathetic to Israel, it's worth reading this to understand the Palestinian perspective.
 
 ### Alternate and Possible Future Realities
-Two relatively old, but still relevant, books imagine (in different ways) how World War II might have gone. In [The Plot Against America](../../books/2024-12-21-the-plot-against-america), Philip Roth imagines an America where FDR loses the 1940 election to Charles Lindbergh who keeps the USA out of the War. It's actually as much of a coming-of-age story of a young Jewish boy growing up in wartime Newark, New Jersey, as it is a plot-driven story. You could probably read the first and the penultimate chapters to get all the overall plot elements. [SS-GB](../../books/2024-09-17-ss-gb) by Len Deighton is a detective novel set in a London where the Germans succesfully invaded England and installed a puppet government. Both books are worth reading to imagine how life might change under fascist rule.
+Two relatively old, but still relevant, books imagine (in different ways) how World War II might have gone. In [The Plot Against America](../../books/2024-12-21-the-plot-against-america), Philip Roth imagines an America where FDR loses the 1940 election to Charles Lindbergh who keeps the USA out of the War. It's actually as much of a coming-of-age story of a young Jewish boy growing up in wartime Newark, New Jersey, as it is a plot-driven story. You could probably just read the first and the penultimate chapters to get all the overall plot elements. [SS-GB](../../books/2024-09-17-ss-gb) by Len Deighton is a detective novel set in a London where the Germans succesfully invaded England and installed a puppet government. Both books are worth reading to imagine how life might change under fascist rule.
 
 ::: {.column-margin}
 “How can this be happening in America? How can people like these be in charge of our country? If I didn’t see it with my own eyes, I’d think I was having a hallucination.”
 ― *Philip Roth, The Plot Against America*
 :::
 
-[2034: A Novel of the Next World War](../../books/2024-11-10-2034) takes us from World War II to World War III. The co-author, James Stavridis is a retired US Navy Admiral and he gives a chilling preview of how a nuclear war with China might unfold. There's lot to critique with the story but still well worth reading to make you think about the implications of another World War.
+[2034: A Novel of the Next World War](../../books/2024-11-10-2034) takes us from World War II to World War III. The co-author, James Stavridis is a retired US Navy Admiral and he gives a chilling preview of how a nuclear war with China might unfold. There's lot to critique with the story but still well worth reading to make you really think about the devastating impact of another World War.
 
 ### Fiction
-[The Bee Sting](../../books/2024-01-02-the-bee-sting) by Paul Murray was problably the longest book I read (listened to) this year. As in his other books, it had an intricate set of intertwined storylines that build to an explosive climax...which in the Bee Sting is left to the imagination of the reader! [The Hunter](../../books/2024-03-21-the-hunter) was the latest from one of my favorite writers, Tana French. It was excellent as usual, but I would love her to get back to the Dublin Murder Squad series. [Such Big Dreams](../../books/2024-10-01-such-big-dreams) was an eye-opening dive into the realities of slum life in Mumbai and the hyprocrisies of the NGO sector, all wrapped up in an gripping story. [Precipice](../../books/2024-12-04-precipice) was the latest book from Robert Harris - another historical novel, this time about the affair that British Prime Minister, H.H. Asquith, had with a much younger woman, Venetia Stanley, on the eve of World War I. The affair was mostly carried on via letters (sometimes multiple letters a day) between the two. The twist is that Asquith's letters to Stanley were preserved and have been faithfully reproduces in the novel.  
+[The Bee Sting](../../books/2024-01-02-the-bee-sting) by Paul Murray was probably the longest book I read (listened to) this year. As in his other books, it had an intricate set of intertwined storylines that build to an explosive climax...which in the Bee Sting is left to the imagination of the reader! [The Hunter](../../books/2024-03-21-the-hunter) was the latest from one of my favorite writers, Tana French. It was excellent as usual, but I would love her to get back to the Dublin Murder Squad series. [Such Big Dreams](../../books/2024-10-01-such-big-dreams) was an eye-opening dive into the realities of slum life in Mumbai and the hypocrisies of the NGO sector, all wrapped up in a gripping story. [Precipice](../../books/2024-12-04-precipice) was the latest book from Robert Harris - another historical novel, this time about the affair that British Prime Minister, H.H. Asquith, had with a much younger woman, Venetia Stanley, on the eve of World War I. The affair was mostly carried on via letters (sometimes multiple letters a day) between the two. The twist is that Asquith's letters to Stanley were preserved and have been faithfully reproduces in the novel.  
 
 ::: {.column-margin}
 “Maybe every era has an atrocity woven into its fabric. Maybe every society is complicit in terrible things and only afterwards gets around to pretending they didn’t know. When the kids ask, tell them that no one meant any harm.”
