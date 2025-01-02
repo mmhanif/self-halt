@@ -75,7 +75,7 @@ To understand others, you have to listen to them. [How To Listen](../../books/20
 ― *Michael Finkel, The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession*
 :::
 
-[Why Fish Don't Exist](../../books/2024-09-07-why-fish-dont-exist) by Lulu Miller is part personal memoir, part biography of scientist and founding President of Stanford University, [David Starr Jordan](https://en.wikipedia.org/wiki/David_Starr_Jordan). Jordan was a prominent ichthyologist who dedicated his career to classifying fish species, and his story intertwines with Miller's own struggles to find meaning in a seemingly chaotic world. It's a quirky book that shed light on yet another brilliant but (very) flawed character.
+[Why Fish Don't Exist](../../books/2024-09-07-why-fish-dont-exist) by Lulu Miller is part personal memoir, part biography of scientist and founding President of Stanford University, [David Starr Jordan](https://en.wikipedia.org/wiki/David_Starr_Jordan). Jordan was a prominent ichthyologist who dedicated his career to classifying fish species, and his story intertwines with Miller's own struggles to find meaning in a seemingly chaotic world. It's a quirky book that sheds light on yet another brilliant but (very) flawed character.
 
 ### More Mental Models
 In [How To Know A Person](../../books/2024-05-28-how-to-know-a-person) conservative commentator David Brooks argues that the polarization we see in modern society, as well as other ills, is because we we have lost the ability to know other people well. I found the book surprisingly moving, particularly when he talks about depression and the devastating impact it can have on people's lives.
@@ -90,18 +90,18 @@ In [Hidden Potential](../../books/2024-01-22-hidden-potential), Adam Grant (auth
 
 
 ### Economics and Geopolitics
-[The Prosperity Paradox](../../books/2024-08-29-the-prosperity-paradox) by Clayton Christensen presented a compelling case on why alleviating poverty is not the same as creating prosperity. He argues, convincingly, that market-creating innovations that serve what he terms "non-consumers" are the key to long term prosperity.
+[The Prosperity Paradox](../../books/2024-08-29-the-prosperity-paradox) by Clayton Christensen presents a compelling case on why alleviating poverty is not the same as creating prosperity. He argues, convincingly, that market-creating innovations that serve what he terms "non-consumers" are the key to long term prosperity.
 
 ::: {.column-margin}
 "Successful market-creating innovations emerge from unfulfilled Jobs to Be Done; they solve problems that formerly had only inadequate solutions—or no solution at all." - *Clayton Christensen*
 :::
 
-[Knowledge and Decisions](../../books/2024-03-27-knowledge-and-decisions) by Thomas Sewell contained dense prose and concepts demanding clear thnking that was not easy to follow as an audiobook. I found it valuable to work through, even if only to challenge my pre-conceived notions about politics, government and the economy.
+[Knowledge and Decisions](../../books/2024-03-27-knowledge-and-decisions) by Thomas Sewell contained dense prose and concepts demanding clear thnking that were not easy to follow as an audiobook. I found it valuable to work through, even if only to challenge my pre-conceived notions about politics, government and the economy.
 
 I encourage anyone with an interest in the current Middle East conflict (which really should be everyone) to read [The Hundred Years War on Palestine](../../books/2024-09-17-the-hundred-years-war-on-palestine). Even if you are firmly sympathetic to Israel, it's worth reading this to understand the Palestinian perspective.
 
 ### Alternate and Possible Future Realities
-Two relatively old, but still relevant, books imagine (in different ways) how World War II might have gone. In [The Plot Against America](../../books/2024-12-21-the-plot-against-america), Philip Roth imagines an America where FDR loses the 1940 election to Charles Lindbergh who keeps the USA out of the War. It's actually as much of a coming-of-age story of a young Jewish boy growing up in wartime Newark, New Jersey, as it is a plot-driven story. You could probably just read the first and the penultimate chapters to get all the overall plot elements. [SS-GB](../../books/2024-09-17-ss-gb) by Len Deighton is a detective novel set in a London where the Germans succesfully invaded England and installed a puppet government. Both books are worth reading to imagine how life might change under fascist rule.
+Two relatively old, but still relevant, books imagine (in different ways) how World War II might have gone. In [The Plot Against America](../../books/2024-12-21-the-plot-against-america), Philip Roth imagines an America where FDR loses the 1940 election to Charles Lindbergh who keeps the USA out of the war. It's actually as much a coming-of-age story of a young Jewish boy growing up in wartime Newark, New Jersey, as it is a plot-driven story. You could probably just read the first and the penultimate chapters to get all the major plot elements. [SS-GB](../../books/2024-09-17-ss-gb) by Len Deighton is a detective novel set in a London where the Germans succesfully invaded England and installed a puppet government. Both books are worth reading to imagine how life might change under fascist rule.
 
 ::: {.column-margin}
 “How can this be happening in America? How can people like these be in charge of our country? If I didn’t see it with my own eyes, I’d think I was having a hallucination.”
