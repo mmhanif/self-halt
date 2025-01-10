@@ -2,14 +2,14 @@
 title: "Influence Is Your Superpower: The Science of Winning Hearts, Sparking Change, and Making Good Things Happen"
 description: "**Influence Is Your Superpower: The Science of Winning Hearts, Sparking Change, and Making Good Things Happen** by Zoe Chance"
 date: 2024-07-24
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Influence_Is_Your_Superpower.jpg
 ---
 ![**Influence Is Your Superpower: The Science of Winning Hearts, Sparking Change, and Making Good Things Happen** by Zoe Chance](Influence_Is_Your_Superpower.jpg){fig-align="left"}
 
 <sup>isbn-13: 9781984854339</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

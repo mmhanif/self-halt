@@ -2,14 +2,14 @@
 title: "Authentic Gravitas: Who Stands Out and Why"
 description: "**Authentic Gravitas: Who Stands Out and Why** by Rebecca Newton"
 date: 2024-10-14
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Authentic_Gravitas.jpg
 ---
 ![**Authentic Gravitas: Who Stands Out and Why** by Rebecca Newton](Authentic_Gravitas.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780143132080</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

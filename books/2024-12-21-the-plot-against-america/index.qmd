@@ -2,14 +2,14 @@
 title: "The Plot Against America"
 description: "**The Plot Against America** by Philip Roth"
 date: 2024-12-21
-categories: [books, "2024", Paperback, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Plot_Against_America.jpg
 ---
 ![**The Plot Against America** by Philip Roth](The_Plot_Against_America.jpg){fig-align="left"}
 
 <sup>isbn-13: 9781400079490</sup>
 
-*Paperback*
+*Audible*
 
 *Publisher's Description*
 

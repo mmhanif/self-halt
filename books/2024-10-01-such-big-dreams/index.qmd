@@ -2,14 +2,14 @@
 title: "Such Big Dreams"
 description: "**Such Big Dreams** by Reema  Patel"
 date: 2024-10-01
-categories: [books, "2024", Hardcover, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Such_Big_Dreams.jpg
 ---
 ![**Such Big Dreams** by Reema  Patel](Such_Big_Dreams.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780593499504</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

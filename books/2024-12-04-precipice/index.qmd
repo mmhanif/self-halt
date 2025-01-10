@@ -2,14 +2,14 @@
 title: "Precipice"
 description: "**Precipice** by Robert   Harris"
 date: 2024-12-04
-categories: [books, "2024", Hardcover, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Precipice.jpg
 ---
 ![**Precipice** by Robert   Harris](Precipice.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780063248052</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

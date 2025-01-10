@@ -2,14 +2,14 @@
 title: "A Quantum Love Story"
 description: "**A Quantum Love Story** by Mike Chen"
 date: 2024-08-21
-categories: [books, "2024", Paperback, fiction]
+categories: [books, "2024", Audible, fiction]
 image: A_Quantum_Love_Story.jpg
 ---
 ![**A Quantum Love Story** by Mike Chen](A_Quantum_Love_Story.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780778369509</sup>
 
-*Paperback*
+*Audible*
 
 *Publisher's Description*
 

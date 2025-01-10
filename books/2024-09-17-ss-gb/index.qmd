@@ -2,14 +2,14 @@
 title: "SS-GB"
 description: "**SS-GB** by Len Deighton"
 date: 2024-09-17
-categories: [books, "2024", Mass Market Paperback, fiction]
+categories: [books, "2024", Audible, fiction]
 image: SS-GB.jpg
 ---
 ![**SS-GB** by Len Deighton](SS-GB.jpg){fig-align="left"}
 
 <sup>isbn-13: 9781402794940</sup>
 
-*Mass Market Paperback*
+*Audible*
 
 *Publisher's Description*
 

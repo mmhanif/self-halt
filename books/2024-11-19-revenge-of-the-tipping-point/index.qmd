@@ -2,14 +2,14 @@
 title: "Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering"
 description: "**Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering** by Malcolm Gladwell"
 date: 2024-11-19
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Revenge_of_the_Tipping_Point.jpg
 ---
 ![**Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering** by Malcolm Gladwell](Revenge_of_the_Tipping_Point.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780316575805</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

@@ -2,14 +2,14 @@
 title: "The Waiting (Renee Ballard, #6; Harry Bosch, #25; Harry Bosch Universe, #39)"
 description: "**The Waiting (Renee Ballard, #6; Harry Bosch, #25; Harry Bosch Universe, #39)** by Michael    Connelly"
 date: 2024-10-31
-categories: [books, "2024", Hardcover, fiction]
+categories: [books, "2024", Audible, fiction]
 image: The_Waiting.jpg
 ---
 ![**The Waiting (Renee Ballard, #6; Harry Bosch, #25; Harry Bosch Universe, #39)** by Michael    Connelly](The_Waiting.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780316563796</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

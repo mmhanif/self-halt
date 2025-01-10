@@ -2,14 +2,14 @@
 title: "All the Sinners Bleed"
 description: "**All the Sinners Bleed** by S.A. Cosby"
 date: 2024-10-07
-categories: [books, "2024", Hardcover, fiction]
+categories: [books, "2024", Audible, fiction]
 image: All_the_Sinners_Bleed.jpg
 ---
 ![**All the Sinners Bleed** by S.A. Cosby](All_the_Sinners_Bleed.jpg){fig-align="left"}
 
 <sup>isbn-13: 9781250831910</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

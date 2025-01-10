@@ -2,14 +2,14 @@
 title: "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession"
 description: "**The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession** by Michael Finkel"
 date: 2024-10-15
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: The_Art_Thief.jpg
 ---
 ![**The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession** by Michael Finkel](The_Art_Thief.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780525657323</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

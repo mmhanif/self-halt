@@ -2,14 +2,14 @@
 title: "The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty"
 description: "**The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty** by Clayton M. Christensen"
 date: 2024-08-29
-categories: [books, "2024", Kindle, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: The_Prosperity_Paradox.jpg
 ---
 ![**The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty** by Clayton M. Christensen](The_Prosperity_Paradox.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780062851826</sup>
 
-*Kindle*
+*Audible*
 
 *Publisher's Description*
 

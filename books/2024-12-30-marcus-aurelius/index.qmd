@@ -4,7 +4,6 @@ description: "**Marcus Aurelius: The Stoic Emperor** by Donald J. Robertson"
 date: 2024-12-30
 categories: [books, "2024", Audible, non-fiction]
 image: Marcus_Aurelius.jpg
-draft: true
 ---
 ![**Marcus Aurelius: The Stoic Emperor** by Donald J. Robertson](Marcus_Aurelius.jpg){fig-align="left" width=50%}
 

@@ -2,14 +2,14 @@
 title: "Hello World: Being Human in the Age of Algorithms"
 description: "**Hello World: Being Human in the Age of Algorithms** by Hannah Fry"
 date: 2024-06-20
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: hello_world_hannah_fry.webp
 ---
 ![**Hello World: Being Human in the Age of Algorithms** by Hannah Fry](hello_world_hannah_fry.webp){fig-align="left"}
 
 <sup>isbn-13: 9780857525253</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

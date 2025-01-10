@@ -2,14 +2,14 @@
 title: "Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell"
 description: "**Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell** by Eric Schmidt"
 date: 2024-12-21
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: Trillion_Dollar_Coach.jpg
 ---
 ![**Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell** by Eric Schmidt](Trillion_Dollar_Coach.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780062839268</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

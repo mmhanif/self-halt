@@ -2,14 +2,14 @@
 title: "The Trading Game: A Confession"
 description: "**The Trading Game: A Confession** by Gary  Stevenson"
 date: 2024-11-26
-categories: [books, "2024", Hardcover, non-fiction]
+categories: [books, "2024", Audible, non-fiction]
 image: The_Trading_Game.jpg
 ---
 ![**The Trading Game: A Confession** by Gary  Stevenson](The_Trading_Game.jpg){fig-align="left"}
 
 <sup>isbn-13: 9780593727218</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 

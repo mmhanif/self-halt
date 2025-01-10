@@ -2,14 +2,14 @@
 title: "Slough House (Slough House, #7)"
 description: "**Slough House (Slough House, #7)** by Mick Herron"
 date: 2024-07-11
-categories: [books, "2024", Hardcover, fiction]
+categories: [books, "2024", Audible, fiction]
 image: Slough_House.jpg
 ---
 ![**Slough House (Slough House, #7)** by Mick Herron](Slough_House.jpg){fig-align="left"}
 
 <sup>isbn-13: 9781641292368</sup>
 
-*Hardcover*
+*Audible*
 
 *Publisher's Description*
 
