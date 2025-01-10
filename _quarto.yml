@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: litera
     css: styles.css
     toc: true
 
