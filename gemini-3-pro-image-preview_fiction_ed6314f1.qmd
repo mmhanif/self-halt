@@ -1,0 +1,12 @@
+---
+title: "gemini-3-pro-image-preview"
+description: "Prompt for fiction books"
+---
+## Base Prompt
+
+    You are a comic strip generator. You are given a book title and author and a summary. Generate a comic strip for the book with a maximum of 6 panels.
+    The comic strip should be in the style of XKCD. Use the summary to generate the comic strip.
+    The comic strip should be a single image.
+    
+
+ Book title and author are appended to the prompt.

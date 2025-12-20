@@ -1,0 +1,12 @@
+---
+title: "gemini-3-pro-image-preview"
+description: "Prompt for non-fiction books"
+---
+## Base Prompt
+
+    You are an infographic generator. You are given a book title and author and a summary. Generate an infographic for the book.
+    The infographic should illustrate the key messages and themes of the book.
+    The infographic should be a single image.
+    
+
+ Book title and author are appended to the prompt.
