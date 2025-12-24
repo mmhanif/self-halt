@@ -2,13 +2,13 @@
 title: "On The Edge: The Art of Risking Everything"
 description: "**On The Edge: The Art of Risking Everything** by Nate Silver"
 date: 2025-01-09
-categories: [books, "2025", Hardback, non-fiction]
+categories: [books, "2025", Hardcover, non-fiction]
 ---
 ![**On The Edge: The Art of Risking Everything** by Nate Silver](on_the_edge.jpg){fig-align="left" width=50%}
 
 <sup>isbn-13: 9780563537618</sup>
 
-*Hardback*
+*Hardcover*
 
 Quite a lengthy book, ostensibly about risk-taking. Practically it cames across a book with three loosely related sections: the first about gambling, focused primarily on poker, but also delving into slot-machines and sports betting. The second part is about Sam Bankman-Fried, his cryptocurrency startup and the Effective Altruism movement. The third part is about rise of GenAI and the risk that AI will cause the end of humanity - *p(doom)*
 

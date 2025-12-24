@@ -2,14 +2,14 @@
 title: "Making Sense of Chaos: A Better Economics for a Better World"
 description: "**Making Sense of Chaos: A Better Economics for a Better World** by J. Doyne Farmer"
 date: 2025-10-26
-categories: [books, "2025", Hardback, non-fiction]
+categories: [books, "2025", Hardcover, non-fiction]
 image: Making_Sense_of_Chaos.jpg
 ---
 ![**Making Sense of Chaos: A Better Economics for a Better World** by J. Doyne Farmer](Making_Sense_of_Chaos.jpg){fig-align="left" width=60%}
 
 <sup>isbn-13: 9780300273779</sup>
 
-*Hardback*
+*Hardcover*
 
 # AI Generated Content
 

@@ -2,14 +2,14 @@
 title: "Being Jewish After the Destruction of Gaza: A Reckoning"
 description: "**Being Jewish After the Destruction of Gaza: A Reckoning** by Peter Beinart"
 date: 2025-04-19
-categories: [books, "2025", Hardback, non-fiction]
+categories: [books, "2025", Hardcover, non-fiction]
 image: Being_Jewish_After_the_Destruction_of_Gaza.jpg
 ---
 ![**Being Jewish After the Destruction of Gaza: A Reckoning** by Peter Beinart](Being_Jewish_After_the_Destruction_of_Gaza.jpg){fig-align="left" width=60%}
 
 <sup>isbn-13: 9780590000000</sup>
 
-*Hardback*
+*Hardcover*
 
 # AI Generated Content
 
