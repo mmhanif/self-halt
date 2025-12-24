@@ -2,17 +2,16 @@
 title: "Notes from Underground"
 description: "**Notes from Underground** by Fyodor Dostoevsky"
 date: 2025-11-12
-categories: [books, "2025", Paperback, fiction]
+categories: [books, "2025", Audible, fiction]
 image: Notes_from_Underground.jpg
-draft: true
 ---
 ![**Notes from Underground** by Fyodor Dostoevsky](Notes_from_Underground.jpg){fig-align="left" width=60%}
 
 <sup>isbn-13: 9780802845702</sup>
 
-*Paperback*
+*Audible*
 
-### AI Generated Content
+# AI Generated Content
 
 ::: {.column-margin}
 

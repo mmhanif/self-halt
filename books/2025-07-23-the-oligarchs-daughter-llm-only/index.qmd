@@ -1,10 +1,9 @@
 ---
-title: "The Oligarch's Daughter"
-description: "**The Oligarch's Daughter** by Joseph Finder"
+title: "ALT: The Oligarch's Daughter"
+description: "LLM imagined summary of **The Oligarch's Daughter** by Joseph Finder"
 date: 2025-07-23
 categories: [books, "2025", Audible, fiction]
 image: The_Oligarchs_Daughter.jpg
-draft: true
 ---
 ![**The Oligarch's Daughter** by Joseph Finder](The_Oligarchs_Daughter.jpg){fig-align="left"}
 
