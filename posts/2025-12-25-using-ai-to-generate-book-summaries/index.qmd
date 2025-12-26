@@ -1,0 +1,30 @@
+---
+title:  "Using AI to Generate Book Summaries"
+date: "12/25/2025"
+draft: true
+---
+
+Around this time every year, I start working on my blog post about the [books I read over the course of the year](https://blog.hanif.io/what-i-read-in.html). To help with that I create a summary page for every book I read - for example [here's one I did earlier this year for Nate Silver's "On the Edge"](../../books/2025-01-09-on-the-edge/index.qmd). The original idea was to note some key points and takeaways for each so I can review them later and remind myself about any important lessons or key quotes for the book. I have a script that generates some skeleton info about each book that in theory I can add my own notes to - in practice I rarely get around to creating the page or adding notes after I read the book, so I end up creating them in bulk at the end of the year. At that point, each page typically just has the skeleton info or perhaps some perfunctory comments from me.
+
+This year I thought I would use AI to summarize each book - in addition, impressed with what I had seen of Google's Nano Banana Pro model, I decided to use it to add a visual for each book: an infographic for non-fiction books and a comic strip for fiction books. You can see the prompts I used for the summaries [here (non-fiction)](../../gemini-3-pro-preview_non-fiction_c55970d3.qmd) and [here (fiction)](../../gemini-3-pro-preview_fiction_13aafaca.qmd). In addition, the prompts used for the visuals can be seen [here (infographic)](../../gemini-3-pro-image-preview_non-fiction_af4438ba.qmd) and [here (comic strip)](../../gemini-3-pro-image-preview_fiction_ed6314f1.qmd). I decided to use Google's [Gemini 3 Pro (gemini-3-pro-preview)](https://deepmind.google/models/gemini/pro/) for the summary generation and [Nano Banana Pro (gemini-3-pro-image-preview)](https://deepmind.google/models/gemini-image/pro/) for the visualizations.
+
+::: {.column-margin}
+Examples:
+
+![["Animal Societies"](../../books/2025-10-17-animal-societies/index.qmd)](../../books/2025-10-17-animal-societies/generated_image_Animal_Societies.jpg)
+
+![["The Ballad of Songbirds and Snakes"](../../books/2025-04-25-the-ballad-of-songbirds-and-snakes/index.qmd)](../../books/2025-04-25-the-ballad-of-songbirds-and-snakes/generated_image_The_Ballad_of_Songbirds_and_Snakes.jpg)
+
+:::
+
+I was pretty happy with the results - for most of the books, even recent ones, Google's LLM came back with very good summaries and the visuals in particular were truly impressive. For the comic strips I asked the model to create a comic strip in the style of [XKCD](https://xkcd.com) - the visuals and the overall tone of the text were very much in line with what you would expect from an XKCD comic. The infographics were amazing with very, very few spelling mistakes. I would prefer a less dramatic visual style and probably could have gotten even better results with some more prompt tweaking.
+
+However, for a small number of the fiction books, the LLM came back with a summary that only had a cursory relationship with the actual plot of the book. A good example of this is the summary it produced of "A Reluctant Spy" by David Goodman. The summary it produced - [you can read it here](../../books/2025-12-04-a-reluctant-spy-llm-only/index.qmd) - was only vaguely similar to the novel's plot. I requested the summary multiple times and each time it would get the first name of the main character (Jamie) correct but a different surname and completely made up names for the other main characters. The overall gist of the plot was similar each time it tried but the details were different each time. Another example is [this summary](../../books/2025-07-23-the-oligarchs-daughter-llm-only/index.qmd) it produced of Joseph Finder's novel "The Oligarch's Daughter". This time it claimed the main character was Nick Heller who appears in a number of Finder's recent books but not in this one.
+
+I assume this was happening because these books were not in the model's training data and thus the model was trying to produce a plausible summary of the plot lines given what it did know - apart from being very wrong it did a good job! To overcome this I decided I would first search the web for information about each book and add that text into the context for the LLM before asking it for a summary. In order to do this, I created a "deep research agent" using [LangChain's DeepAgents framework](https://docs.langchain.com/oss/python/deepagents/overview) and the [Tavily](https://www.tavily.com) Web Search API. I adapted the code from LangChain's [Deep Research QuickStart repo](https://github.com/langchain-ai/deepagents-quickstarts) - it's probably somewhat of an overkill for this use case but I wanted to try out the framework so this gave me an excuse. You can see the overall deep agent prompt [here](../../gemini-3-pro-preview_research_9183527b.qmd).
+
+This solved the problem and know it came back with accurate summaries of ["A Reluctant Spy"](../../books/2025-12-04-a-reluctant-spy/index.qmd) and ["The Oligarch's Daughter"](../../books/2025-07-23-the-oligarchs-daughter/index.qmd) as well as various other books the straight prompt approach had failed on.
+
+Overall though, for books where the straight prompt worked, my first impression is that it provided a richer summary than the deep research agent. Perhaps because it was summarizing across much more data than the handful of web pages being provided as context for the deep research agent. Having said that, there were also differences in the prompts used, so perhaps more tweaking would improve the deep research agent results.
+
+The visual capabilities of these models are game-changers and I think will be quite disruptive in many areas in the months to come as people figure out how to leverage them more in their own creative endeavours.
