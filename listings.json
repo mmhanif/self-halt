@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/ddia.html",
-    "items": [
-      "/projects/ddia/ddia-chapter-4/index.html",
-      "/projects/ddia/ddia-chapter-4-presentation/index.html"
-    ]
-  },
-  {
     "listing": "/books.html",
     "items": [
       "/books/2025-12-12-the-story-of-russia/index.html",
@@ -425,6 +418,13 @@
       "/books/2016-12-01-few-lessons-from-sherlock-holmes/index.html",
       "/books/2016-12-01-song-of-the-dodo/index.html",
       "/books/2016-12-01-startup-stories/index.html"
+    ]
+  },
+  {
+    "listing": "/ddia.html",
+    "items": [
+      "/projects/ddia/ddia-chapter-4/index.html",
+      "/projects/ddia/ddia-chapter-4-presentation/index.html"
     ]
   },
   {
