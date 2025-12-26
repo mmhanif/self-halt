@@ -126,8 +126,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#tldr" id="toc-tldr" class="nav-link active" data-scroll-target="#tldr">TL;DR</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
@@ -135,7 +141,13 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Using AI to Generate Book Summaries</h1>
-</div>
+  <div class="quarto-categories">
+    <div class="quarto-category">books</div>
+    <div class="quarto-category">gen-ai</div>
+    <div class="quarto-category">llm</div>
+    <div class="quarto-category">agents</div>
+  </div>
+  </div>
 
 
 
@@ -157,8 +169,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Around this time every year, I start working on my blog post about the <a href="https://blog.hanif.io/what-i-read-in.html">books I read over the course of the year</a>. To help with that I create a summary page for every book I read - for example <a href="../../books/2025-01-09-on-the-edge/index.html">here’s one I did earlier this year for Nate Silver’s “On the Edge”</a>. The original idea was to note some key points and takeaways for each so I can review them later and remind myself about any important lessons or key quotes for the book. I have a script that generates some skeleton info about each book that in theory I can add my own notes to - in practice I rarely get around to creating the page or adding notes after I read the book, so I end up creating them in bulk at the end of the year. At that point, each page typically just has the skeleton info or perhaps some perfunctory comments from me.</p>
-<p>This year I thought I would use AI to summarize each book - in addition, impressed with what I had seen of Google’s Nano Banana Pro model, I decided to use it to add a visual for each book: an infographic for non-fiction books and a comic strip for fiction books. You can see the prompts I used for the summaries <a href="../../gemini-3-pro-preview_non-fiction_c55970d3.html">here (non-fiction)</a> and <a href="../../gemini-3-pro-preview_fiction_13aafaca.html">here (fiction)</a>. In addition, the prompts used for the visuals can be seen <a href="../../gemini-3-pro-image-preview_non-fiction_af4438ba.html">here (infographic)</a> and <a href="../../gemini-3-pro-image-preview_fiction_ed6314f1.html">here (comic strip)</a>. I decided to use Google’s <a href="https://deepmind.google/models/gemini/pro/">Gemini 3 Pro (gemini-3-pro-preview)</a> for the summary generation and <a href="https://deepmind.google/models/gemini-image/pro/">Nano Banana Pro (gemini-3-pro-image-preview)</a> for the visualizations.</p>
+<section id="tldr" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="tldr">TL;DR</h2>
+<ul>
+<li>I used LLMs to generate summaries and visuals for every book I read this year, largely replacing a task I usually procrastinate on and batch at year-end.</li>
+<li>The models did a genuinely good job on well-known books, but struggled noticeably with more obscure titles that were likely outside their training data.</li>
+<li>An agent-based approach overcame the shortcomings of single-shot prompts and eliminated hallucinations.</li>
+<li>The visuals were the standout: infographics and comic strips were consistently impressive.</li>
+<li>Overall, this felt less like automation for its own sake and more like a practical, time-saving use of AI — just make sure to review the output!</li>
+</ul>
+<p>Every year around this time, I begin working on my blog post summarizing the <a href="https://blog.hanif.io/what-i-read-in.html">books I’ve read over the past twelve months</a>. To help with this, I create a summary page for every book I read — for example, <a href="../../books/2025-01-09-on-the-edge/index.html">here’s one I did earlier this year for Nate Silver’s “On the Edge”</a>. The original idea was to note some key points and takeaways for each so I can review them later and remind myself about any important lessons or key quotes for the book. I have a script that generates a basic outline page for each book, to which I can also add my own notes. In practice, though, I rarely create the page or add notes right after reading. Instead, I end up doing them all in bulk at the end of the year. At that point, each page typically just has the skeleton info or perhaps some perfunctory comments from me.</p>
+<p>This year I decided to use AI to summarize each book. I was also impressed with what I’d seen from Google’s Nano Banana Pro model, so I used it to generate visuals for each book: infographics for non-fiction and comic strips for fiction. You can see the prompts I used for the summaries <a href="../../gemini-3-pro-preview_non-fiction_c55970d3.html">here (non-fiction)</a> and <a href="../../gemini-3-pro-preview_fiction_13aafaca.html">here (fiction)</a>. In addition, the prompts used for the visuals can be seen <a href="../../gemini-3-pro-image-preview_non-fiction_af4438ba.html">here (infographic)</a> and <a href="../../gemini-3-pro-image-preview_fiction_ed6314f1.html">here (comic strip)</a>. I decided to use Google’s <a href="https://deepmind.google/models/gemini/pro/">Gemini 3 Pro (gemini-3-pro-preview)</a> for the summary generation and <a href="https://deepmind.google/models/gemini-image/pro/">Nano Banana Pro (gemini-3-pro-image-preview)</a> for the visualizations.</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Examples:</p>
@@ -174,14 +195,22 @@ ul.task-list li input[type="checkbox"] {
 <figcaption><a href="../../books/2025-04-25-the-ballad-of-songbirds-and-snakes/index.html">“The Ballad of Songbirds and Snakes”</a></figcaption>
 </figure>
 </div>
-</div></div><p>I was pretty happy with the results - for most of the books, even recent ones, Google’s LLM came back with very good summaries and the visuals in particular were truly impressive. For the comic strips I asked the model to create a comic strip in the style of <a href="https://xkcd.com">XKCD</a> - the visuals and the overall tone of the text were very much in line with what you would expect from an XKCD comic. The infographics were amazing with very, very few spelling mistakes. I would prefer a less dramatic visual style and probably could have gotten even better results with some more prompt tweaking.</p>
+</div></div><p>For most books, Google’s LLM produced solid summaries, and the visuals were particularly impressive. When generating comic strips, I asked the model to mimic <a href="https://xkcd.com"><em>xkcd</em></a>’s style, and both the images and tone felt appropriate. The infographics were excellent, with very few spelling mistakes. That said, I would prefer a less dramatic visual style and could likely get even better results with more prompt refinement.</p>
 <p>However, for a small number of the fiction books, the LLM came back with a summary that only had a cursory relationship with the actual plot of the book. A good example of this is the summary it produced of “A Reluctant Spy” by David Goodman. The summary it produced - <a href="../../books/2025-12-04-a-reluctant-spy-llm-only/index.html">you can read it here</a> - was only vaguely similar to the novel’s plot. I requested the summary multiple times and each time it would get the first name of the main character (Jamie) correct but a different surname and completely made up names for the other main characters. The overall gist of the plot was similar each time it tried but the details were different each time. Another example is <a href="../../books/2025-07-23-the-oligarchs-daughter-llm-only/index.html">this summary</a> it produced of Joseph Finder’s novel “The Oligarch’s Daughter”. This time it claimed the main character was Nick Heller who appears in a number of Finder’s recent books but not in this one.</p>
-<p>I assume this was happening because these books were not in the model’s training data and thus the model was trying to produce a plausible summary of the plot lines given what it did know - apart from being very wrong it did a good job! To overcome this I decided I would first search the web for information about each book and add that text into the context for the LLM before asking it for a summary. In order to do this, I created a “deep research agent” using <a href="https://docs.langchain.com/oss/python/deepagents/overview">LangChain’s DeepAgents framework</a> and the <a href="https://www.tavily.com">Tavily</a> Web Search API. I adapted the code from LangChain’s <a href="https://github.com/langchain-ai/deepagents-quickstarts">Deep Research QuickStart repo</a> - it’s probably somewhat of an overkill for this use case but I wanted to try out the framework so this gave me an excuse. You can see the overall deep agent prompt <a href="../../gemini-3-pro-preview_research_9183527b.html">here</a>.</p>
-<p>This solved the problem and know it came back with accurate summaries of <a href="../../books/2025-12-04-a-reluctant-spy/index.html">“A Reluctant Spy”</a> and <a href="../../books/2025-07-23-the-oligarchs-daughter/index.html">“The Oligarch’s Daughter”</a> as well as various other books the straight prompt approach had failed on.</p>
+<p>I assume this was happening because these books weren’t in the model’s training data and thus the model was trying to produce a plausible summary of the plot lines given what it did know - apart from being very wrong it did a good job! To overcome this I decided I would first search the web for information about each book and add that text into the context for the LLM before asking it for a summary. In order to do this, I created a “deep research agent” using <a href="https://docs.langchain.com/oss/python/deepagents/overview">LangChain’s DeepAgents framework</a> and the <a href="https://www.tavily.com">Tavily</a> Web Search API. I adapted the code from LangChain’s <a href="https://github.com/langchain-ai/deepagents-quickstarts">Deep Research QuickStart repo</a> - it’s probably somewhat of an overkill for this use case but I wanted to try out the framework so this gave me an excuse. The overall deep-agent prompt can be seen <a href="../../gemini-3-pro-preview_research_9183527b.html">here</a>.</p>
+<p>This solved the problem and now it came back with accurate summaries of <a href="../../books/2025-12-04-a-reluctant-spy/index.html">“A Reluctant Spy”</a> and <a href="../../books/2025-07-23-the-oligarchs-daughter/index.html">“The Oligarch’s Daughter”</a> as well as various other books the straight prompt approach had failed on.</p>
 <p>Overall though, for books where the straight prompt worked, my first impression is that it provided a richer summary than the deep research agent. Perhaps because it was summarizing across much more data than the handful of web pages being provided as context for the deep research agent. Having said that, there were also differences in the prompts used, so perhaps more tweaking would improve the deep research agent results.</p>
 <p>The visual capabilities of these models are game-changers and I think will be quite disruptive in many areas in the months to come as people figure out how to leverage them more in their own creative endeavours.</p>
+<p>Potential next steps for me are:</p>
+<ul>
+<li>retrofit the AI generated summary and visuals for all the books I have a page for.</li>
+<li>extracting entity data from the book summaries to create a knowledge graph.</li>
+<li>develop a graph-rag chatbot on top of the knowledge graph.</li>
+</ul>
+<p>In previous years, the above steps would have been a pipe dream, but with all the new AI coding assistants now available, maybe I will make some progress - let’s see!</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
