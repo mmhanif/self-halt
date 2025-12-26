@@ -2,7 +2,7 @@
 title:  "Using AI to Generate Book Summaries"
 date: "12/25/2025"
 categories: [books, gen-ai, llm, agents]
-image: ../../books/2025-10-17-animal-societies/generated_image_Animal_Societies.jpg
+image: Gemini_Generated_Image_o709l6o709l6o709.png
 ---
 
 ## TL;DR
@@ -11,6 +11,8 @@ image: ../../books/2025-10-17-animal-societies/generated_image_Animal_Societies.
 * An agent-based approach overcame the shortcomings of single-shot prompts and eliminated hallucinations.
 * The visuals were the standout: infographics and comic strips were consistently impressive.
 * Overall, this felt less like automation for its own sake and more like a practical, time-saving use of AI — just make sure to review the output!
+
+![Nano Banana Pro generated image summarizing this article with a comic in the style of Judge Dredd](Gemini_Generated_Image_o709l6o709l6o709.png)
 
 Every year around this time, I begin working on my blog post summarizing the [books I’ve read over the past twelve months](https://blog.hanif.io/what-i-read-in.html). To help with this, I create a summary page for every book I read — for example, [here's one I did earlier this year for Nate Silver's "On the Edge"](../../books/2025-01-09-on-the-edge/index.qmd). The original idea was to note some key points and takeaways for each so I can review them later and remind myself about any important lessons or key quotes for the book. I have a script that generates a basic outline page for each book, to which I can also add my own notes. In practice, though, I rarely create the page or add notes right after reading. Instead, I end up doing them all in bulk at the end of the year. At that point, each page typically just has the skeleton info or perhaps some perfunctory comments from me.
 
