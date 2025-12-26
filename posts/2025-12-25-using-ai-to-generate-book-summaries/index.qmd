@@ -1,7 +1,6 @@
 ---
 title:  "Using AI to Generate Book Summaries"
 date: "12/25/2025"
-draft: true
 ---
 
 Around this time every year, I start working on my blog post about the [books I read over the course of the year](https://blog.hanif.io/what-i-read-in.html). To help with that I create a summary page for every book I read - for example [here's one I did earlier this year for Nate Silver's "On the Edge"](../../books/2025-01-09-on-the-edge/index.qmd). The original idea was to note some key points and takeaways for each so I can review them later and remind myself about any important lessons or key quotes for the book. I have a script that generates some skeleton info about each book that in theory I can add my own notes to - in practice I rarely get around to creating the page or adding notes after I read the book, so I end up creating them in bulk at the end of the year. At that point, each page typically just has the skeleton info or perhaps some perfunctory comments from me.
