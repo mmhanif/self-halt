@@ -124,7 +124,8 @@ table_df = df[['#', 'Book Title', 'Author', 'Type', 'Genre', 'My Rating']]
 show(table_df, 
       paging=False, 
       classes="display compact",
-      columnDefs=[{"className": "dt-left", "targets": "_all"}]
+      columnDefs=[{"className": "dt-left", "targets": "_all"}],
+      allow_html=True
       )
 ```
 ```{python}
