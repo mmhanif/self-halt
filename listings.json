@@ -1,5 +1,21 @@
 [
   {
+    "listing": "/what-i-read-in.html",
+    "items": [
+      "/posts/2025-12-31-what-i-read-in-2025/index.html",
+      "/posts/2024-12-31-what-i-read-in-2024/index.html",
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
+      "/posts/2022-12-31-what-i-read-in-2022/index.html",
+      "/posts/2022-01-09-what-i-read-in-2021/index.html",
+      "/posts/2021-01-17-what-i-read-in-2020/index.html",
+      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
+      "/posts/2019-12-31-what-i-read-in-2019/index.html",
+      "/posts/2018-12-31-what-i-read-in-2018/index.html",
+      "/posts/2017-12-31-what-i-read-in-2017/index.html",
+      "/posts/2017-01-17-what-i-read-in-2016/index.html"
+    ]
+  },
+  {
     "listing": "/books.html",
     "items": [
       "/books/2025-12-24-the-millionaire-fastlane/index.html",
@@ -429,23 +445,9 @@
     ]
   },
   {
-    "listing": "/what-i-read-in.html",
-    "items": [
-      "/posts/2024-12-31-what-i-read-in-2024/index.html",
-      "/posts/2023-12-31-what-i-read-in-2023/index.html",
-      "/posts/2022-12-31-what-i-read-in-2022/index.html",
-      "/posts/2022-01-09-what-i-read-in-2021/index.html",
-      "/posts/2021-01-17-what-i-read-in-2020/index.html",
-      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
-      "/posts/2019-12-31-what-i-read-in-2019/index.html",
-      "/posts/2018-12-31-what-i-read-in-2018/index.html",
-      "/posts/2017-12-31-what-i-read-in-2017/index.html",
-      "/posts/2017-01-17-what-i-read-in-2016/index.html"
-    ]
-  },
-  {
     "listing": "/posts.html",
     "items": [
+      "/posts/2025-12-31-what-i-read-in-2025/index.html",
       "/posts/2025-12-25-using-ai-to-generate-book-summaries/index.html",
       "/posts/2024-12-31-what-i-read-in-2024/index.html",
       "/posts/2023-12-31-what-i-read-in-2023/index.html",
