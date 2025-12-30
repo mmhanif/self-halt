@@ -11,8 +11,15 @@ image: 2025Books.png
 
 ![](2025Books.png){fig-align="left"}
 
+Jump straight to the [list of all 50 books here](#full-book-list), otherwise keep reading for the highlights.
+
+::: {.column-margin}
+You can find previous years lists [here](../../what-i-read-in.qmd).
+:::
+
 ## Non-Fiction Recommendation
 [The Information: A History, A Theory, A Flood](../../books/2025-02-07-the-information/) by James Gleick was my stand out non-fiction read of 2025. Despite being published back in 2011, it feels super relevant today as large language models take over the world. This book is about the essence of language - the information coveyed by words or other codes. As the subtitle conveys, the book is a history of how humans have conveyed information to each other, leading to an exposition of Claude Shannon's Information Theory, and ending with a discussion of the flood of information brought about by the internet age. I would love to read a follow up by Gleick on the new world of LLMs and Generative AI.
+
 
 The following quote from the book's epilogue feels almost prophetic:
 
