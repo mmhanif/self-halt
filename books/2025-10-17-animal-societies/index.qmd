@@ -31,8 +31,8 @@ Ward posits that while the "survival of the fittest" often suggests solitary com
 ### Swarm Intelligence and Simple Rules
 The book details how complex group behaviors in lower-order animals, such as krill and locusts, emerge from individuals following simple local rules rather than central leadership.
 
-    *   In the case of locusts, swarming is driven partly by a "forced march" induced by cannibalism; individuals move forward to avoid being eaten by the locusts behind them.
-    *   Ward highlights the Antarctic krill, noting that their massive swarms constitute one of the largest biomasses on the planet, demonstrating the success of cooperative aggregation.
+* In the case of locusts, swarming is driven partly by a "forced march" induced by cannibalism; individuals move forward to avoid being eaten by the locusts behind them.
+* Ward highlights the Antarctic krill, noting that their massive swarms constitute one of the largest biomasses on the planet, demonstrating the success of cooperative aggregation.
 
 ### The Physics of Cooperation
 In aquatic and aerial environments, animals like fish and birds utilize physics to conserve energy. Fish schools utilize "vortex surfing," riding the eddies created by their neighbors to reduce drag. Similarly, bird flocks use V-formations to maximize aerodynamic lift.
@@ -45,8 +45,8 @@ A recurring theme is the vigilance advantage. In groups, individuals can spend l
 ### Animal Culture and Wisdom
 Ward argues that "culture"—defined as information transmitted socially rather than genetically—exists in advanced animal societies.
 
-    *   Elephants and Orcas rely on matriarchs who hold ecological knowledge (e.g., location of water sources during droughts).
-    *   Sperm whales possess distinct vocal "dialects" specific to their clans, which serve as social identifiers and barriers, preventing interbreeding between different cultural groups.
+* Elephants and Orcas rely on matriarchs who hold ecological knowledge (e.g., location of water sources during droughts).
+* Sperm whales possess distinct vocal "dialects" specific to their clans, which serve as social identifiers and barriers, preventing interbreeding between different cultural groups.
 
 ### Hierarchy and Politics in Primates
 The book explores the shift from instinctive herding to calculated politics. In primate societies, physical strength is often less important than social capital. Grooming serves as a currency to build alliances, reduce tension, and secure position within the hierarchy.
