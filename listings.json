@@ -1,18 +1,9 @@
 [
   {
-    "listing": "/what-i-read-in.html",
+    "listing": "/ddia.html",
     "items": [
-      "/posts/2025-12-31-what-i-read-in-2025/index.html",
-      "/posts/2024-12-31-what-i-read-in-2024/index.html",
-      "/posts/2023-12-31-what-i-read-in-2023/index.html",
-      "/posts/2022-12-31-what-i-read-in-2022/index.html",
-      "/posts/2022-01-09-what-i-read-in-2021/index.html",
-      "/posts/2021-01-17-what-i-read-in-2020/index.html",
-      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
-      "/posts/2019-12-31-what-i-read-in-2019/index.html",
-      "/posts/2018-12-31-what-i-read-in-2018/index.html",
-      "/posts/2017-12-31-what-i-read-in-2017/index.html",
-      "/posts/2017-01-17-what-i-read-in-2016/index.html"
+      "/projects/ddia/ddia-chapter-4/index.html",
+      "/projects/ddia/ddia-chapter-4-presentation/index.html"
     ]
   },
   {
@@ -438,10 +429,19 @@
     ]
   },
   {
-    "listing": "/ddia.html",
+    "listing": "/what-i-read-in.html",
     "items": [
-      "/projects/ddia/ddia-chapter-4/index.html",
-      "/projects/ddia/ddia-chapter-4-presentation/index.html"
+      "/posts/2025-12-31-what-i-read-in-2025/index.html",
+      "/posts/2024-12-31-what-i-read-in-2024/index.html",
+      "/posts/2023-12-31-what-i-read-in-2023/index.html",
+      "/posts/2022-12-31-what-i-read-in-2022/index.html",
+      "/posts/2022-01-09-what-i-read-in-2021/index.html",
+      "/posts/2021-01-17-what-i-read-in-2020/index.html",
+      "/posts/2020-06-30-what-i-read-in-2020-so-far/index.html",
+      "/posts/2019-12-31-what-i-read-in-2019/index.html",
+      "/posts/2018-12-31-what-i-read-in-2018/index.html",
+      "/posts/2017-12-31-what-i-read-in-2017/index.html",
+      "/posts/2017-01-17-what-i-read-in-2016/index.html"
     ]
   },
   {
