@@ -68,3 +68,24 @@ In a non-ergodic world, conditions change, and risks are often opaque. The autho
     *   A memoir and practical guide by the mathematician who developed the Kelly Criterion, a formula for bet sizing that directly addresses the problem of maximizing growth while avoiding ruin.
 *   **Risk Savvy: How to Make Good Decisions** by Gerd Gigerenzer
     *   Discusses decision-making under uncertainty and the difference between calculable risk and unknown uncertainty.
+
+# Quotes
+
+> Most people do not care if an activity has a source of irreversibility. Instead, they care whether irreversibility has a nonnegligible chance of manifesting within the period they see themselves performing the activity. In other words, what matters is not whether the lifetime and the population outcomes diverge over infinite timeframes what matters is if they diverge significantly over the medium term.
+(Page 67)
+
+> The Ludic fallacy
+> 
+> I first learned about the Ludic Fallacy from Nassim Nicholas Taleb. He made the following thought experiment: imagine that a coin falls ten times in a row on its "heads" side. What are the chances of it falling "heads" on the eleventh flip? If you answered, “50% because flips are independent,” you committed the Ludic Fallacy - you assumed that the rules described the game, failing to consider the possibilities of the coin being uneven or the flipper being a skilled swindler.
+(Page 69)
+
+> The barbell strategy consists of exposing most of yourself to safe activities and a tiny bit of yourself to risky ones with high upside. This is distinct from exposing all of yourself to safe activities most of the time and seldom to risky ones with high upside.
+> 
+> Doing so puts you at risk of game-over while you perform the latter. Conversely, the point of the barbell strategy is to pursue risky activities in a way that caps downside risk (not by reducing its frequency but its impact)
+(Page 76)
+
+> These two intuitions, "never go all-in, no matter how tempting the odds" and "payoffs determine the relative size of the bet," summarize a betting strategy known as the Kelly Criterion, named after  the mathematician who invented it. I won't cover the exact formula because this book aims to build an intuitive understanding of ergodicity, not a mathematical one. What matters is that risk exposure must depend on payoffs and, anyway, be limited.
+(Page 80)
+
+> This theory of moods, first formulated by a group of researchers named Eldar E., Rutledge R. B., Dolan R. J., and Niv Y., is interesting. It shows how moods improve effectiveness by making people spend more time on what looks promising and less time on what is likely to be a waste of time. Moreover, they reduce exposition to what is dangerous (wasting time and energy), thereby improving survival. They allow us to adapt to a world where threats and resources are not uniformly distributed. A must, in a non-ergodic world.
+(Page 84)
