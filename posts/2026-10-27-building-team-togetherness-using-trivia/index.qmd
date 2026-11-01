@@ -25,7 +25,7 @@ At some point during COVID, when everybody was fed up working from home, I was t
 
 Contrary to many popular quiz formats, I don't include any multiple choice questions. I find that its too easy to guess an answer to a multiple choice question and it doesn't really promote discussion among team members the way an open question does. If the question is very tough, I will give a hint to the teams. 
 
-I usually have a few rounds of questions, with each round having a different theme or topic. I give the teams all the questions for a round at once and drop them into breakout rooms to with a time limit to discuss and submit their answers. When the time is up, I close the breakout rooms and go through the answers and give them the correct answer and some context about it. I also keep track of the scores and announce the winners at the end of the quiz.
+I usually have a few rounds of questions, with each round having a different theme or topic. I give the teams all the questions for a round at once and drop them into breakout rooms with a time limit to discuss and submit their answers. When the time is up, I close the breakout rooms and go through the answers and give them the correct answer and some context about it. I also keep track of the scores and announce the winners at the end of the quiz.
 
 ## The old way
 
