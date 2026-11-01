@@ -1,0 +1,43 @@
+---
+title:  "Building Team Togetherness Using Trivia"
+date: "11/27/2026"
+categories: [quizzes, team-building, trivia]
+image: Global Trivia Team Celebration.png
+---
+
+Building team togetherness through engaging trivia games can foster collaboration and communication among team members.
+
+![](Global Trivia Team Celebration.png){fig-align="left"}
+
+## How it started
+
+At some point during COVID, when everybody was fed up working from home, I was thinking of ways to have fun as a team. Some of the challenges were that I had multiple teams that were situated across the globe: Mumbai, NY/NJ metro-area, Texas. Some team members had joined during Covid and had never met any of their colleagues in person. Other teams were doing things like virtual coffee rooms, but I thought those were kind of boring. I stumbled across the idea of holding a team trivia quiz online on Zoom, using their breakout rooms feature. It turned out to be very successful. Everybody enjoyed it and had fun, and as it turns out, there were a number of additional benefits. I started running the quiz regularly and have since hosted quizzes across multiple companies and teams.
+
+## The benefits
+
+* Team members get to know each other better, especially if they are in different locations and don't have the opportunity to meet in person. I try and make sure the teams are mixed up so that people from different locations and teams are on the same team. This helps them get to know each other better and also helps them understand what other teams do. It's an ice-breaker that helps them communicate better in regular work situations. I have had people tell me that they have started talking to people they didn't know before and that they have learned more about what other teams do.
+
+* It highlights the importance of diversity in a real way. I try and make the questions quite tough but invariably there is someone on the team who knows the answer. This helps them understand that everyone has different strengths and that they can learn from each other. 
+
+* You can use the quiz to educate team members about the company, its products and the work environment. I have had quizzes where I have asked questions about commonly used acronyms in the company, work processes and technologies. 
+
+## Quiz format
+
+Contrary to many popular quiz formats, I don't include any multiple choice questions. I find that its too easy to guess an answer to a multiple choice question and it doesn't really promote discussion among team members the way an open question does. If the question is very tough, I will give a hint to the teams. 
+
+I usually have a few rounds of questions, with each round having a different theme or topic. I give the teams all the questions for a round at once and drop them into breakout rooms to with a time limit to discuss and submit their answers. When the time is up, I close the breakout rooms and go through the answers and give them the correct answer and some context about it. I also keep track of the scores and announce the winners at the end of the quiz.
+
+## The old way
+
+I created the questions for the quiz manually in PowerPoint. I would create a slide for each round of questions and another one for the answers. I would then share my screen and show everyone the questions slide. They would have to email or message their answers. Once everyone had submitted their answers, I would show the answers slide and go through the answers. I would also score everyone's answers on a scoring spreadsheet.
+
+## The new way
+
+As you can imagine, this was quite tedious and the scoring in particular used up a lot of time. With the emergence of coding genies I recently decided to automate the whole process. I created an app where I can create and launch a quiz, participants can join the quiz, form teams and submit answers online. The app automatically judges the responses and shows a scoreboard at the end of the round.
+
+## Try it out for yourself! 
+
+You can try out the quiz app I created [here](https://kwizroom.com). It's currently invite-only but if you want to try it out, submit your email on the website and I will send you a login link. This gives you the ability to administer your own quizzes. When you launch a new quiz, participants can join using a custom link - no login needed.
+
+If you do try it out, let me know what you think and if you have any suggestions for improvements. I am also happy to help you set up a quiz for your team if you want to try it out.
+
