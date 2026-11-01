@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/ddia.html",
-    "items": [
-      "/projects/ddia/ddia-chapter-4/index.html",
-      "/projects/ddia/ddia-chapter-4-presentation/index.html"
-    ]
-  },
-  {
     "listing": "/books.html",
     "items": [
       "/books/2025-12-24-the-millionaire-fastlane/index.html",
@@ -429,6 +422,13 @@
     ]
   },
   {
+    "listing": "/ddia.html",
+    "items": [
+      "/projects/ddia/ddia-chapter-4/index.html",
+      "/projects/ddia/ddia-chapter-4-presentation/index.html"
+    ]
+  },
+  {
     "listing": "/what-i-read-in.html",
     "items": [
       "/posts/2025-12-31-what-i-read-in-2025/index.html",
@@ -447,6 +447,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2026-10-27-building-team-togetherness-using-trivia/index.html",
       "/posts/2025-12-31-what-i-read-in-2025/index.html",
       "/posts/2025-12-25-using-ai-to-generate-book-summaries/index.html",
       "/posts/2024-12-31-what-i-read-in-2024/index.html",

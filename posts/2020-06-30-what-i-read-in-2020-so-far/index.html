@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,10 +10,16 @@
 
 <title>What I read in 2020 (so far) – self halt</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -33,15 +39,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-529c26969d27a2a2473a4b9f3bafd9fb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -183,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I enjoyed listening to <a href="../../books/2020-06-29-alchemy">Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life</a> by Rory Sutherland. The content was thought-provoking and the narration by the author was excellent.</p>
 <section id="full-book-list" class="level2">
 <h2 class="anchored" data-anchor-id="full-book-list">Full book list</h2>
-<div id="26a0efbd" class="cell" data-execution_count="1">
+<div id="ac9ec566" class="cell" data-execution_count="1">
 <div class="cell-output cell-output-display">
 <script type="module">
     const { set_or_remove_dark_class } = await import(window._itables_2_6_1);
@@ -287,7 +292,7 @@ This is the <code>init_notebook_mode</code> cell from ITables v2.6.1<br>
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-y2020-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <!--| quarto-html-table-processing: none -->
-<table id="itables_18ba438f_2231_4901_b06d_90bcca948e11"><tbody><tr>
+<table id="itables_7b4d318f_5034_41de_b06a_2094ba8f2c9b"><tbody><tr>
     <td style="vertical-align:middle; text-align:left">
     <a href="https://mwouts.github.io/itables/"><svg class="main-svg" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="64" viewbox="0 0 500 400" style="font-family: 'Droid Sans', sans-serif;">
     <g style="fill:#d9d7fc">
@@ -354,11 +359,11 @@ This is the <code>init_notebook_mode</code> cell from ITables v2.6.1<br>
         async function init() {
             const { ITable, jQuery: $ } = await window._itables_2_6_1;
 
-            document.querySelectorAll("#itables_18ba438f_2231_4901_b06d_90bcca948e11:not(.dataTable)").forEach(table => {
+            document.querySelectorAll("#itables_7b4d318f_5034_41de_b06a_2094ba8f2c9b:not(.dataTable)").forEach(table => {
                 if (!(table instanceof HTMLTableElement))
                     return;
 
-                let dt_args = {"paging": false, "classes": ["display", "compact"], "columnDefs": [{"className": "dt-left", "targets": "_all"}], "layout": {"topStart": "pageLength", "topEnd": "search", "bottomStart": "info", "bottomEnd": "paging"}, "style": {"table-layout": "auto", "width": "auto", "margin": "auto", "caption-side": "bottom"}, "text_in_header_can_be_selected": true, "order": [], "table_html": "<table><thead>\n    <tr style=\"text-align: right;\">\n      \n      <th>#</th>\n      <th>Book Title</th>\n      <th>Author</th>\n      <th>Type</th>\n      <th>Genre</th>\n    </tr>\n  </thead></table>", "data_json": "[[1, \"<a href=\\\"../../books/2020-01-20-the-art-of-statistics\\\">The Art Of Statistics</a>\", \"David Spiegelhalter\", \"Hardcover\", \"non-fiction\"], [2, \"<a href=\\\"../../books/2020-01-24-range\\\">Range</a>\", \"David Epstein\", \"Audible\", \"non-fiction\"], [3, \"<a href=\\\"../../books/2020-01-27-the-second-sleep\\\">The Second Sleep</a>\", \"Robert Harris\", \"Audible\", \"fiction\"], [4, \"<a href=\\\"../../books/2020-01-29-indistractable\\\">Indistractable</a>\", \"Nir Eyal\", \"Kindle\", \"non-fiction\"], [5, \"<a href=\\\"../../books/2020-01-31-lost-hills\\\">Lost Hills</a>\", \"Lee Goldberg\", \"Audible\", \"fiction\"], [6, \"<a href=\\\"../../books/2020-02-03-the-four-agreements\\\">The Four Agreements</a>\", \"Don Miguel Ruiz\", \"Paperback\", \"non-fiction\"], [7, \"<a href=\\\"../../books/2020-02-07-hi-five\\\">Hi Five</a>\", \"Joe Ide\", \"Audible\", \"fiction\"], [8, \"<a href=\\\"../../books/2020-02-20-andrea-vernon-and-the-superheroindustrial-complex\\\">Andrea Vernon and the Superhero-Industrial Complex</a>\", \"NaN\", \"Audible\", \"fiction\"], [9, \"<a href=\\\"../../books/2020-02-28-domainspecific-knowledge-graph-construction\\\">Domain-Specific Knowledge Graph Construction</a>\", \"Mayank Kejriwal\", \"Paperback\", \"non-fiction\"], [10, \"<a href=\\\"../../books/2020-02-29-the-motive\\\">The Motive</a>\", \"Patrick M. Lencioni\", \"Hardcover\", \"fiction\"], [11, \"<a href=\\\"../../books/2020-03-04-skippy-dies\\\">Skippy Dies</a>\", \"Paul Murray\", \"Audible\", \"fiction\"], [12, \"<a href=\\\"../../books/2020-03-31-terminus\\\">Terminus</a>\", \"Peter Clines\", \"Audible\", \"fiction\"], [13, \"<a href=\\\"../../books/2020-05-20-spillover-animal-infections-and-the-next-human-pandemic\\\">Spillover - Animal Infections And The Next Human Pandemic</a>\", \"David Quammen\", \"Audible and Kindle\", \"non-fiction\"], [14, \"<a href=\\\"../../books/2020-05-21-caffeine-how-caffeine-created-the-modern-world\\\">Caffeine - How Caffeine Created the Modern World</a>\", \"Michael Pollan\", \"Audible\", \"fiction\"], [15, \"<a href=\\\"../../books/2020-06-07-to-kill-a-mockingbird\\\">To Kill A Mockingbird</a>\", \"Harper Lee\", \"Audible\", \"fiction\"], [16, \"<a href=\\\"../../books/2020-06-13-fair-warning\\\">Fair Warning</a>\", \"Michael Connelly\", \"Audible\", \"fiction\"], [17, \"<a href=\\\"../../books/2020-06-29-alchemy\\\">Alchemy</a>\", \"Rory Sutherland\", \"Audible\", \"non-fiction\"]]"};
+                let dt_args = {"paging": false, "classes": ["display", "compact"], "columnDefs": [{"className": "dt-left", "targets": "_all"}], "layout": {"topStart": "pageLength", "topEnd": "search", "bottomStart": "info", "bottomEnd": "paging"}, "order": [], "text_in_header_can_be_selected": true, "style": {"table-layout": "auto", "width": "auto", "margin": "auto", "caption-side": "bottom"}, "table_html": "<table><thead>\n    <tr style=\"text-align: right;\">\n      \n      <th>#</th>\n      <th>Book Title</th>\n      <th>Author</th>\n      <th>Type</th>\n      <th>Genre</th>\n    </tr>\n  </thead></table>", "data_json": "[[1, \"<a href=\\\"../../books/2020-01-20-the-art-of-statistics\\\">The Art Of Statistics</a>\", \"David Spiegelhalter\", \"Hardcover\", \"non-fiction\"], [2, \"<a href=\\\"../../books/2020-01-24-range\\\">Range</a>\", \"David Epstein\", \"Audible\", \"non-fiction\"], [3, \"<a href=\\\"../../books/2020-01-27-the-second-sleep\\\">The Second Sleep</a>\", \"Robert Harris\", \"Audible\", \"fiction\"], [4, \"<a href=\\\"../../books/2020-01-29-indistractable\\\">Indistractable</a>\", \"Nir Eyal\", \"Kindle\", \"non-fiction\"], [5, \"<a href=\\\"../../books/2020-01-31-lost-hills\\\">Lost Hills</a>\", \"Lee Goldberg\", \"Audible\", \"fiction\"], [6, \"<a href=\\\"../../books/2020-02-03-the-four-agreements\\\">The Four Agreements</a>\", \"Don Miguel Ruiz\", \"Paperback\", \"non-fiction\"], [7, \"<a href=\\\"../../books/2020-02-07-hi-five\\\">Hi Five</a>\", \"Joe Ide\", \"Audible\", \"fiction\"], [8, \"<a href=\\\"../../books/2020-02-20-andrea-vernon-and-the-superheroindustrial-complex\\\">Andrea Vernon and the Superhero-Industrial Complex</a>\", \"NaN\", \"Audible\", \"fiction\"], [9, \"<a href=\\\"../../books/2020-02-28-domainspecific-knowledge-graph-construction\\\">Domain-Specific Knowledge Graph Construction</a>\", \"Mayank Kejriwal\", \"Paperback\", \"non-fiction\"], [10, \"<a href=\\\"../../books/2020-02-29-the-motive\\\">The Motive</a>\", \"Patrick M. Lencioni\", \"Hardcover\", \"fiction\"], [11, \"<a href=\\\"../../books/2020-03-04-skippy-dies\\\">Skippy Dies</a>\", \"Paul Murray\", \"Audible\", \"fiction\"], [12, \"<a href=\\\"../../books/2020-03-31-terminus\\\">Terminus</a>\", \"Peter Clines\", \"Audible\", \"fiction\"], [13, \"<a href=\\\"../../books/2020-05-20-spillover-animal-infections-and-the-next-human-pandemic\\\">Spillover - Animal Infections And The Next Human Pandemic</a>\", \"David Quammen\", \"Audible and Kindle\", \"non-fiction\"], [14, \"<a href=\\\"../../books/2020-05-21-caffeine-how-caffeine-created-the-modern-world\\\">Caffeine - How Caffeine Created the Modern World</a>\", \"Michael Pollan\", \"Audible\", \"fiction\"], [15, \"<a href=\\\"../../books/2020-06-07-to-kill-a-mockingbird\\\">To Kill A Mockingbird</a>\", \"Harper Lee\", \"Audible\", \"fiction\"], [16, \"<a href=\\\"../../books/2020-06-13-fair-warning\\\">Fair Warning</a>\", \"Michael Connelly\", \"Audible\", \"fiction\"], [17, \"<a href=\\\"../../books/2020-06-29-alchemy\\\">Alchemy</a>\", \"Rory Sutherland\", \"Audible\", \"non-fiction\"]]"};
                 new ITable(table, dt_args);
             });
         }
@@ -382,7 +387,7 @@ Figure&nbsp;1: All the books I read in 2020 (so far)
 </section>
 <section id="pie-charts" class="level2">
 <h2 class="anchored" data-anchor-id="pie-charts">Pie Charts</h2>
-<div id="717581f3" class="cell" data-execution_count="4">
+<div id="cc3dd61a" class="cell" data-execution_count="4">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
@@ -391,7 +396,7 @@ Figure&nbsp;1: All the books I read in 2020 (so far)
 </div>
 </div>
 </div>
-<div id="25ff4680" class="cell" data-execution_count="5">
+<div id="bf76ef13" class="cell" data-execution_count="5">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">

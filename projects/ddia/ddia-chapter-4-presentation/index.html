@@ -6,8 +6,8 @@
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.8.26">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.19">
 
   <meta name="dcterms.date" content="2024-02-16">
   <title>self halt – DDIA Chapter 4 - Presentation</title>
@@ -17,10 +17,16 @@
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reveal.css">
   <style>
-    code{white-space: pre-wrap;}
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -95,7 +101,7 @@
     code span.vs { color: #20794d; } /* VerbatimString */
     code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
-  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
+  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
   <link href="../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -264,11 +270,11 @@
 <section id="example-storing-a-struct-in-different-binary-formats" class="title-slide slide level1 center">
 <h1>Example: Storing a struct in different binary formats</h1>
 <p>Example record which we’ll encode in various binary formats</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource json number-lines code-with-copy"><code class="sourceCode json"><span id="cb1-1"><a></a><span class="fu">{</span></span>
-<span id="cb1-2"><a></a>  <span class="dt">"userName"</span><span class="fu">:</span> <span class="st">"Martin"</span><span class="fu">,</span></span>
-<span id="cb1-3"><a></a>  <span class="dt">"favoriteNumber"</span><span class="fu">:</span> <span class="dv">1337</span><span class="fu">,</span></span>
-<span id="cb1-4"><a></a>  <span class="dt">"interests"</span><span class="fu">:</span> <span class="ot">[</span><span class="st">"daydreaming"</span><span class="ot">,</span> <span class="st">"hacking"</span><span class="ot">]</span></span>
-<span id="cb1-5"><a></a><span class="fu">}</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource json number-lines code-with-copy"><code class="sourceCode json"><span id="cb1-1"><a aria-label="1"></a><span class="fu">{</span></span>
+<span id="cb1-2"><a aria-label="2"></a>  <span class="dt">"userName"</span><span class="fu">:</span> <span class="st">"Martin"</span><span class="fu">,</span></span>
+<span id="cb1-3"><a aria-label="3"></a>  <span class="dt">"favoriteNumber"</span><span class="fu">:</span> <span class="dv">1337</span><span class="fu">,</span></span>
+<span id="cb1-4"><a aria-label="4"></a>  <span class="dt">"interests"</span><span class="fu">:</span> <span class="ot">[</span><span class="st">"daydreaming"</span><span class="ot">,</span> <span class="st">"hacking"</span><span class="ot">]</span></span>
+<span id="cb1-5"><a aria-label="5"></a><span class="fu">}</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>With whitespace removed, the textual JSON encoding takes 81 bytes.</p>
 </section>
 <section id="messagepack-example" class="slide level2">
